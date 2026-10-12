@@ -1,0 +1,27 @@
+
+10011043.png
+size: 299,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire_01
+  rotate: false
+  xy: 215, 18
+  size: 40, 117
+  orig: 71, 134
+  offset: 14, 0
+  index: -1
+xiaba
+  rotate: true
+  xy: 215, 137
+  size: 100, 82
+  orig: 111, 82
+  offset: 5, 0
+  index: -1
+zhuti
+  rotate: true
+  xy: 2, 2
+  size: 235, 211
+  orig: 235, 229
+  offset: 0, 18
+  index: -1

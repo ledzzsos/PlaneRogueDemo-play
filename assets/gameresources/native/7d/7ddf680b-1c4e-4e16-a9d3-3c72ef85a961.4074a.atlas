@@ -1,0 +1,20 @@
+
+1001007_paotai.png
+size: 109,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dalanpaotai1
+  rotate: true
+  xy: 2, 2
+  size: 81, 82
+  orig: 89, 90
+  offset: 3, 4
+  index: -1
+shangpaoguan
+  rotate: false
+  xy: 86, 47
+  size: 21, 36
+  orig: 46, 51
+  offset: 13, 6
+  index: -1

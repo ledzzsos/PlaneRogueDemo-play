@@ -1,0 +1,27 @@
+
+10011008.png
+size: 303,303
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiqi
+  rotate: false
+  xy: 2, 2
+  size: 99, 101
+  orig: 109, 109
+  offset: 5, 0
+  index: -1
+右边
+  rotate: false
+  xy: 118, 117
+  size: 59, 184
+  orig: 60, 184
+  offset: 0, 0
+  index: -1
+机身
+  rotate: false
+  xy: 2, 105
+  size: 114, 196
+  orig: 115, 197
+  offset: 1, 0
+  index: -1

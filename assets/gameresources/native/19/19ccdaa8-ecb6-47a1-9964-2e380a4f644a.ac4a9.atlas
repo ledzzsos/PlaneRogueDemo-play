@@ -1,0 +1,76 @@
+
+wsparticle_eac_1004_Disappear.png
+size: 332,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ww_00000
+  rotate: false
+  xy: 2, 201
+  size: 106, 106
+  orig: 145, 145
+  offset: 18, 17
+  index: -1
+ww_00001
+  rotate: false
+  xy: 220, 126
+  size: 108, 108
+  orig: 145, 145
+  offset: 18, 19
+  index: -1
+ww_00002
+  rotate: false
+  xy: 2, 17
+  size: 108, 108
+  orig: 145, 145
+  offset: 18, 19
+  index: -1
+ww_00003
+  rotate: false
+  xy: 112, 16
+  size: 108, 108
+  orig: 145, 145
+  offset: 19, 19
+  index: -1
+ww_00004
+  rotate: false
+  xy: 222, 16
+  size: 108, 108
+  orig: 145, 145
+  offset: 18, 19
+  index: -1
+ww_00005
+  rotate: true
+  xy: 110, 127
+  size: 107, 108
+  orig: 145, 145
+  offset: 19, 19
+  index: -1
+ww_00006
+  rotate: false
+  xy: 166, 236
+  size: 104, 94
+  orig: 145, 145
+  offset: 22, 33
+  index: -1
+ww_00007
+  rotate: false
+  xy: 90, 309
+  size: 74, 21
+  orig: 145, 145
+  offset: 33, 104
+  index: -1
+ww_00008
+  rotate: false
+  xy: 31, 318
+  size: 57, 12
+  orig: 145, 145
+  offset: 41, 113
+  index: -1
+ww_00009
+  rotate: false
+  xy: 2, 323
+  size: 27, 7
+  orig: 145, 145
+  offset: 47, 117
+  index: -1

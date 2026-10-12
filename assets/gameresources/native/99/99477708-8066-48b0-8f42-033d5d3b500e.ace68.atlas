@@ -1,0 +1,20 @@
+
+10011083.png
+size: 584,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_00000
+  rotate: false
+  xy: 426, 258
+  size: 156, 164
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+封路炮艇
+  rotate: true
+  xy: 2, 2
+  size: 420, 422
+  orig: 420, 425
+  offset: 0, 3
+  index: -1

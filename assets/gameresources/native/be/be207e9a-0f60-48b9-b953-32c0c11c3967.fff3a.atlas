@@ -1,0 +1,13 @@
+
+fx_common_collect.png
+size: 430,434
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shiqufanwei
+  rotate: false
+  xy: 2, 2
+  size: 426, 430
+  orig: 435, 435
+  offset: 4, 2
+  index: -1

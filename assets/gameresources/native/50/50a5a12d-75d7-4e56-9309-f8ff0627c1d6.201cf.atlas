@@ -1,0 +1,13 @@
+
+wsparticle_weaponfire_1020100201.png
+size: 97,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kaihuoglow_00000
+  rotate: false
+  xy: 2, 2
+  size: 93, 70
+  orig: 128, 170
+  offset: 19, 51
+  index: -1

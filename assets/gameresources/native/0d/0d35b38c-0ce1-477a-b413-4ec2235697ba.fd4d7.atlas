@@ -1,0 +1,55 @@
+
+wsparticle_eac_10011019_Hit.png
+size: 285,285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+082_00
+  rotate: false
+  xy: 106, 76
+  size: 99, 100
+  orig: 109, 116
+  offset: 5, 6
+  index: -1
+082_01
+  rotate: true
+  xy: 109, 181
+  size: 102, 91
+  orig: 109, 116
+  offset: 2, 25
+  index: -1
+082_02
+  rotate: false
+  xy: 2, 74
+  size: 102, 102
+  orig: 109, 116
+  offset: 2, 14
+  index: -1
+082_05
+  rotate: false
+  xy: 2, 178
+  size: 105, 105
+  orig: 109, 116
+  offset: 4, 4
+  index: -1
+082_07
+  rotate: false
+  xy: 117, 2
+  size: 75, 72
+  orig: 109, 116
+  offset: 14, 23
+  index: -1
+082_09
+  rotate: false
+  xy: 2, 10
+  size: 71, 62
+  orig: 109, 116
+  offset: 13, 25
+  index: -1
+082_12
+  rotate: false
+  xy: 75, 14
+  size: 40, 58
+  orig: 109, 116
+  offset: 36, 25
+  index: -1

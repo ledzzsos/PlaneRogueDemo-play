@@ -1,0 +1,256 @@
+
+10100001.png
+size: 1022,949
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BB/飘带_00001
+  rotate: true
+  xy: 2, 406
+  size: 40, 191
+  orig: 64, 202
+  offset: 2, 2
+  index: -1
+BB/飘带_00004
+  rotate: true
+  xy: 816, 679
+  size: 24, 200
+  orig: 64, 202
+  offset: 17, 2
+  index: -1
+BB/飘带_00007
+  rotate: true
+  xy: 816, 705
+  size: 28, 200
+  orig: 64, 202
+  offset: 14, 2
+  index: -1
+BB/飘带_00010
+  rotate: true
+  xy: 816, 644
+  size: 33, 198
+  orig: 64, 202
+  offset: 15, 2
+  index: -1
+BB/飘带_00013
+  rotate: true
+  xy: 816, 735
+  size: 37, 200
+  orig: 64, 202
+  offset: 18, 2
+  index: -1
+BB/飘带_00016
+  rotate: true
+  xy: 816, 774
+  size: 41, 200
+  orig: 64, 202
+  offset: 23, 2
+  index: -1
+BB/飘带_00019
+  rotate: false
+  xy: 2, 453
+  size: 40, 185
+  orig: 64, 202
+  offset: 24, 2
+  index: -1
+BB/飘带_00022
+  rotate: true
+  xy: 2, 348
+  size: 55, 189
+  orig: 64, 202
+  offset: 9, 2
+  index: -1
+BB/飘带_00025
+  rotate: true
+  xy: 815, 579
+  size: 63, 196
+  orig: 64, 202
+  offset: 0, 2
+  index: -1
+BB/飘带_00028
+  rotate: true
+  xy: 815, 536
+  size: 41, 193
+  orig: 64, 202
+  offset: 2, 2
+  index: -1
+feiji
+  rotate: false
+  xy: 2, 640
+  size: 468, 307
+  orig: 483, 327
+  offset: 6, 11
+  index: -1
+feiji/R__翼2  拷贝 2
+  rotate: true
+  xy: 301, 114
+  size: 247, 95
+  orig: 247, 95
+  offset: 0, 0
+  index: -1
+feiji/R__翼2  拷贝 3
+  rotate: false
+  xy: 816, 817
+  size: 204, 130
+  orig: 204, 130
+  offset: 0, 0
+  index: -1
+feiji/R__翼尾  拷贝 3
+  rotate: false
+  xy: 301, 363
+  size: 154, 83
+  orig: 154, 83
+  offset: 0, 0
+  index: -1
+glow/glow_00003
+  rotate: false
+  xy: 472, 677
+  size: 342, 270
+  orig: 446, 340
+  offset: 55, 53
+  index: -1
+glow/glow_00023
+  rotate: true
+  xy: 2, 2
+  size: 340, 269
+  orig: 446, 340
+  offset: 56, 53
+  index: -1
+glow/glow_00027
+  rotate: false
+  xy: 472, 405
+  size: 341, 270
+  orig: 446, 340
+  offset: 57, 53
+  index: -1
+glow/glow_00029
+  rotate: false
+  xy: 457, 133
+  size: 339, 270
+  orig: 446, 340
+  offset: 57, 53
+  index: -1
+lxj01
+  rotate: true
+  xy: 815, 344
+  size: 190, 191
+  orig: 190, 191
+  offset: 0, 0
+  index: -1
+lxj02
+  rotate: true
+  xy: 273, 448
+  size: 190, 191
+  orig: 190, 191
+  offset: 0, 0
+  index: -1
+人
+  rotate: true
+  xy: 195, 347
+  size: 99, 104
+  orig: 99, 104
+  offset: 0, 0
+  index: -1
+喷气火光
+  rotate: false
+  xy: 44, 458
+  size: 104, 180
+  orig: 106, 184
+  offset: 0, 0
+  index: -1
+
+101000012.png
+size: 1021,817
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feiji/R__翼1  拷贝 3
+  rotate: false
+  xy: 2, 574
+  size: 255, 241
+  orig: 255, 241
+  offset: 0, 0
+  index: -1
+glow/glow_00001
+  rotate: false
+  xy: 680, 274
+  size: 329, 270
+  orig: 446, 340
+  offset: 56, 53
+  index: -1
+glow/glow_00005
+  rotate: false
+  xy: 594, 546
+  size: 328, 269
+  orig: 446, 340
+  offset: 57, 53
+  index: -1
+glow/glow_00007
+  rotate: false
+  xy: 259, 547
+  size: 333, 268
+  orig: 446, 340
+  offset: 57, 54
+  index: -1
+glow/glow_00009
+  rotate: false
+  xy: 2, 276
+  size: 335, 269
+  orig: 446, 340
+  offset: 57, 53
+  index: -1
+glow/glow_00013
+  rotate: false
+  xy: 2, 3
+  size: 336, 270
+  orig: 446, 340
+  offset: 56, 52
+  index: -1
+glow/glow_00015
+  rotate: false
+  xy: 340, 3
+  size: 338, 270
+  orig: 446, 340
+  offset: 56, 52
+  index: -1
+glow/glow_00021
+  rotate: false
+  xy: 680, 2
+  size: 339, 270
+  orig: 446, 340
+  offset: 56, 52
+  index: -1
+glow/glow_00025
+  rotate: false
+  xy: 339, 275
+  size: 339, 269
+  orig: 446, 340
+  offset: 56, 54
+  index: -1
+
+101000013.png
+size: 826,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow/glow_00011
+  rotate: true
+  xy: 279, 2
+  size: 336, 272
+  orig: 446, 340
+  offset: 57, 50
+  index: -1
+glow/glow_00017
+  rotate: true
+  xy: 2, 3
+  size: 335, 275
+  orig: 446, 340
+  offset: 56, 47
+  index: -1
+glow/glow_00019
+  rotate: true
+  xy: 553, 5
+  size: 333, 271
+  orig: 446, 340
+  offset: 57, 51
+  index: -1

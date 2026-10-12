@@ -1,0 +1,62 @@
+
+Bullet_Weapon_21060801_03.png
+size: 364,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b6b5e-Fewnci_fw1200_00000
+  rotate: false
+  xy: 2, 122
+  size: 118, 119
+  orig: 128, 128
+  offset: 5, 4
+  index: -1
+b6b5e-Fewnci_fw1200_00004
+  rotate: true
+  xy: 2, 2
+  size: 118, 119
+  orig: 128, 128
+  offset: 5, 4
+  index: -1
+b6b5e-Fewnci_fw1200_00008
+  rotate: false
+  xy: 122, 243
+  size: 118, 119
+  orig: 128, 128
+  offset: 5, 4
+  index: -1
+b6b5e-Fewnci_fw1200_00012
+  rotate: false
+  xy: 122, 122
+  size: 118, 119
+  orig: 128, 128
+  offset: 5, 4
+  index: -1
+b6b5e-Fewnci_fw1200_00016
+  rotate: true
+  xy: 123, 2
+  size: 118, 119
+  orig: 128, 128
+  offset: 5, 4
+  index: -1
+b6b5e-Fewnci_fw1200_00020
+  rotate: false
+  xy: 242, 243
+  size: 118, 119
+  orig: 128, 128
+  offset: 5, 4
+  index: -1
+b6b5e-Fewnci_fw1200_00024
+  rotate: false
+  xy: 242, 122
+  size: 118, 119
+  orig: 128, 128
+  offset: 5, 4
+  index: -1
+b6b5e-Fewnci_fw1200_00028
+  rotate: false
+  xy: 2, 243
+  size: 118, 119
+  orig: 128, 128
+  offset: 5, 4
+  index: -1

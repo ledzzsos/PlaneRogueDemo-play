@@ -1,0 +1,69 @@
+
+Bullet_Weapon_21061501.png
+size: 536,501
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+波波枪/0_00000
+  rotate: false
+  xy: 2, 2
+  size: 162, 159
+  orig: 218, 218
+  offset: 27, 30
+  index: -1
+波波枪/0_00001
+  rotate: false
+  xy: 2, 163
+  size: 163, 158
+  orig: 218, 218
+  offset: 27, 30
+  index: -1
+波波枪/0_00002
+  rotate: false
+  xy: 196, 177
+  size: 166, 154
+  orig: 218, 218
+  offset: 26, 32
+  index: -1
+波波枪/0_00003
+  rotate: false
+  xy: 364, 171
+  size: 164, 157
+  orig: 218, 218
+  offset: 27, 31
+  index: -1
+波波枪/0_00004
+  rotate: true
+  xy: 332, 9
+  size: 160, 161
+  orig: 218, 218
+  offset: 29, 28
+  index: -1
+波波枪/0_00005
+  rotate: false
+  xy: 167, 19
+  size: 163, 156
+  orig: 218, 218
+  offset: 26, 31
+  index: -1
+波波枪/0_00006
+  rotate: true
+  xy: 380, 330
+  size: 169, 154
+  orig: 218, 218
+  offset: 24, 32
+  index: -1
+波波枪/0_00007
+  rotate: false
+  xy: 196, 333
+  size: 182, 166
+  orig: 218, 218
+  offset: 18, 29
+  index: -1
+波波枪/0_00008
+  rotate: false
+  xy: 2, 323
+  size: 192, 176
+  orig: 218, 218
+  offset: 10, 26
+  index: -1

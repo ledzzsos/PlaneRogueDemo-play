@@ -1,0 +1,13 @@
+
+10011004.png
+size: 344,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+小战机
+  rotate: false
+  xy: 2, 2
+  size: 340, 264
+  orig: 340, 264
+  offset: 0, 0
+  index: -1

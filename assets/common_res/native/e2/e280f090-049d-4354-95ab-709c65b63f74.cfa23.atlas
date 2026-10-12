@@ -1,0 +1,34 @@
+
+ClickEffect.png
+size: 329,329
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1841v0
+  rotate: false
+  xy: 2, 2
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+dj01_00000
+  rotate: false
+  xy: 113, 59
+  size: 52, 52
+  orig: 54, 54
+  offset: 1, 1
+  index: -1
+dj02_00000
+  rotate: false
+  xy: 113, 7
+  size: 50, 50
+  orig: 54, 54
+  offset: 2, 2
+  index: -1
+kxmz
+  rotate: false
+  xy: 2, 113
+  size: 214, 214
+  orig: 218, 218
+  offset: 2, 2
+  index: -1

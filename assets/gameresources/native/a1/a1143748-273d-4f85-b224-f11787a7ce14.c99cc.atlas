@@ -1,0 +1,83 @@
+
+10011056.png
+size: 977,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AAA/闪电输出_00024
+  rotate: true
+  xy: 187, 3
+  size: 69, 218
+  orig: 109, 218
+  offset: 25, 0
+  index: -1
+AAA/闪电输出_00025
+  rotate: true
+  xy: 627, 5
+  size: 64, 218
+  orig: 109, 218
+  offset: 18, 0
+  index: -1
+AAA/闪电输出_00026
+  rotate: false
+  xy: 905, 7
+  size: 70, 218
+  orig: 109, 218
+  offset: 28, 0
+  index: -1
+AAA/闪电输出_00027
+  rotate: true
+  xy: 465, 72
+  size: 70, 218
+  orig: 109, 218
+  offset: 28, 0
+  index: -1
+AAA/闪电输出_00028
+  rotate: true
+  xy: 465, 144
+  size: 81, 218
+  orig: 109, 218
+  offset: 16, 0
+  index: -1
+AAA/闪电输出_00029
+  rotate: true
+  xy: 407, 2
+  size: 68, 218
+  orig: 109, 218
+  offset: 28, 0
+  index: -1
+AAA/闪电输出_00030
+  rotate: true
+  xy: 685, 71
+  size: 72, 218
+  orig: 109, 218
+  offset: 22, 0
+  index: -1
+AAA/闪电输出_00031
+  rotate: true
+  xy: 685, 145
+  size: 80, 218
+  orig: 109, 218
+  offset: 19, 0
+  index: -1
+line_00000
+  rotate: true
+  xy: 2, 20
+  size: 21, 109
+  orig: 54, 109
+  offset: 17, 0
+  index: -1
+关卡机器-中枢
+  rotate: false
+  xy: 2, 43
+  size: 183, 182
+  orig: 183, 182
+  offset: 0, 0
+  index: -1
+关卡机器1
+  rotate: true
+  xy: 187, 74
+  size: 151, 276
+  orig: 151, 276
+  offset: 0, 0
+  index: -1

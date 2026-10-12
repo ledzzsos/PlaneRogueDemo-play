@@ -1,0 +1,103 @@
+
+quansuchuji_txt.png
+size: 1015,977
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: false
+  xy: 2, 2
+  size: 638, 396
+  orig: 638, 396
+  offset: 0, 0
+  index: -1
+glow/y2tX_00001
+  rotate: false
+  xy: 2, 896
+  size: 80, 79
+  orig: 340, 310
+  offset: 130, 134
+  index: -1
+glow/y2tX_00002
+  rotate: true
+  xy: 255, 400
+  size: 221, 230
+  orig: 340, 310
+  offset: 57, 60
+  index: -1
+glow/y2tX_00004
+  rotate: true
+  xy: 2, 420
+  size: 207, 251
+  orig: 340, 310
+  offset: 65, 51
+  index: -1
+glow/y2tX_00006
+  rotate: false
+  xy: 205, 629
+  size: 218, 216
+  orig: 340, 310
+  offset: 51, 60
+  index: -1
+glow/y2tX_00008
+  rotate: true
+  xy: 2, 681
+  size: 177, 201
+  orig: 340, 310
+  offset: 84, 71
+  index: -1
+glow/y2tX_00010
+  rotate: true
+  xy: 814, 800
+  size: 175, 199
+  orig: 340, 310
+  offset: 86, 72
+  index: -1
+glow/y2tX_00012
+  rotate: true
+  xy: 619, 801
+  size: 174, 193
+  orig: 340, 310
+  offset: 88, 75
+  index: -1
+glow/y2tX_00014
+  rotate: false
+  xy: 443, 805
+  size: 174, 170
+  orig: 340, 310
+  offset: 88, 79
+  index: -1
+glow/y2tX_00016
+  rotate: false
+  xy: 264, 847
+  size: 177, 128
+  orig: 340, 310
+  offset: 87, 108
+  index: -1
+glow/y2tX_00018
+  rotate: false
+  xy: 84, 860
+  size: 178, 115
+  orig: 340, 310
+  offset: 86, 116
+  index: -1
+全速出击
+  rotate: false
+  xy: 425, 623
+  size: 450, 175
+  orig: 451, 179
+  offset: 1, 2
+  index: -1
+
+quansuchuji_txt2.png
+size: 642,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg2
+  rotate: false
+  xy: 2, 2
+  size: 638, 487
+  orig: 638, 496
+  offset: 0, 9
+  index: -1

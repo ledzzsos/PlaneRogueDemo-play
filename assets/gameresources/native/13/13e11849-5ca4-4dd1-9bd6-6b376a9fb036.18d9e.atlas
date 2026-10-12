@@ -1,0 +1,55 @@
+
+10014115.png
+size: 637,409
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右手炮口
+  rotate: false
+  xy: 392, 10
+  size: 112, 133
+  orig: 112, 133
+  offset: 0, 0
+  index: -1
+右肩
+  rotate: true
+  xy: 392, 277
+  size: 130, 174
+  orig: 130, 174
+  offset: 0, 0
+  index: -1
+右脚底喷射
+  rotate: true
+  xy: 568, 284
+  size: 123, 67
+  orig: 123, 68
+  offset: 0, 0
+  index: -1
+左手炮口
+  rotate: false
+  xy: 506, 10
+  size: 112, 133
+  orig: 112, 133
+  offset: 0, 0
+  index: -1
+左肩
+  rotate: true
+  xy: 392, 145
+  size: 130, 174
+  orig: 130, 174
+  offset: 0, 0
+  index: -1
+左脚底喷射
+  rotate: true
+  xy: 568, 159
+  size: 123, 67
+  orig: 123, 67
+  offset: 0, 0
+  index: -1
+机身
+  rotate: false
+  xy: 2, 2
+  size: 388, 405
+  orig: 388, 405
+  offset: 0, 0
+  index: -1

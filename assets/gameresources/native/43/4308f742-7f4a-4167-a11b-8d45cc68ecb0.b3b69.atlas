@@ -1,0 +1,48 @@
+
+boss2_fx_210290270_miss01.png
+size: 271,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x_00001
+  rotate: false
+  xy: 2, 180
+  size: 89, 89
+  orig: 109, 109
+  offset: 9, 10
+  index: -1
+x_00002
+  rotate: false
+  xy: 2, 89
+  size: 89, 89
+  orig: 109, 109
+  offset: 9, 10
+  index: -1
+x_00003
+  rotate: false
+  xy: 93, 180
+  size: 89, 89
+  orig: 109, 109
+  offset: 9, 10
+  index: -1
+x_00004
+  rotate: false
+  xy: 93, 89
+  size: 89, 89
+  orig: 109, 109
+  offset: 9, 10
+  index: -1
+x_00005
+  rotate: true
+  xy: 2, 2
+  size: 85, 89
+  orig: 109, 109
+  offset: 9, 10
+  index: -1
+x_00006
+  rotate: true
+  xy: 93, 16
+  size: 71, 84
+  orig: 109, 109
+  offset: 9, 11
+  index: -1

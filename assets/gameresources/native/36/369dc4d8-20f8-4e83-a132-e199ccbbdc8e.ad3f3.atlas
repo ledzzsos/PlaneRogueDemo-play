@@ -1,0 +1,146 @@
+
+Skill_Aircraft_232040101.png
+size: 929,549
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AA/jg_00001
+  rotate: true
+  xy: 2, 499
+  size: 48, 870
+  orig: 54, 870
+  offset: 3, 0
+  index: -1
+AA/jg_00002
+  rotate: true
+  xy: 2, 459
+  size: 38, 870
+  orig: 54, 870
+  offset: 8, 0
+  index: -1
+AA/jg_00003
+  rotate: true
+  xy: 2, 433
+  size: 24, 870
+  orig: 54, 870
+  offset: 15, 0
+  index: -1
+AA/jg_00004
+  rotate: true
+  xy: 2, 423
+  size: 8, 870
+  orig: 54, 870
+  offset: 23, 0
+  index: -1
+BB/glow_00000
+  rotate: true
+  xy: 525, 78
+  size: 123, 109
+  orig: 245, 213
+  offset: 61, 52
+  index: -1
+BB/glow_00001
+  rotate: true
+  xy: 182, 24
+  size: 150, 135
+  orig: 245, 213
+  offset: 49, 39
+  index: -1
+BB/glow_00002
+  rotate: false
+  xy: 2, 13
+  size: 178, 161
+  orig: 245, 213
+  offset: 36, 26
+  index: -1
+BB/glow_00003
+  rotate: false
+  xy: 319, 3
+  size: 204, 186
+  orig: 245, 213
+  offset: 24, 13
+  index: -1
+BB/glow_00004
+  rotate: true
+  xy: 217, 191
+  size: 230, 213
+  orig: 245, 213
+  offset: 12, 0
+  index: -1
+BB/glow_00005
+  rotate: true
+  xy: 2, 176
+  size: 245, 213
+  orig: 245, 213
+  offset: 0, 0
+  index: -1
+EE/mid_00001
+  rotate: false
+  xy: 654, 203
+  size: 94, 218
+  orig: 109, 218
+  offset: 8, 0
+  index: -1
+EE/mid_00002
+  rotate: false
+  xy: 750, 203
+  size: 94, 218
+  orig: 109, 218
+  offset: 8, 0
+  index: -1
+EE/mid_00003
+  rotate: true
+  xy: 681, 5
+  size: 85, 218
+  orig: 109, 218
+  offset: 12, 0
+  index: -1
+EE/mida_00001_00
+  rotate: false
+  xy: 432, 203
+  size: 109, 218
+  orig: 109, 218
+  offset: 0, 0
+  index: -1
+EE/mida_00001_01
+  rotate: false
+  xy: 543, 203
+  size: 109, 218
+  orig: 109, 218
+  offset: 0, 0
+  index: -1
+EE/mida_00001_02
+  rotate: true
+  xy: 636, 92
+  size: 109, 218
+  orig: 109, 218
+  offset: 0, 0
+  index: -1
+fire/fire_00001
+  rotate: false
+  xy: 856, 346
+  size: 71, 75
+  orig: 109, 109
+  offset: 19, 19
+  index: -1
+fire/fire_00002
+  rotate: true
+  xy: 525, 2
+  size: 74, 76
+  orig: 109, 109
+  offset: 17, 20
+  index: -1
+fire/fire_00003
+  rotate: true
+  xy: 603, 4
+  size: 72, 76
+  orig: 109, 109
+  offset: 19, 20
+  index: -1
+fire/fire_00004
+  rotate: false
+  xy: 856, 268
+  size: 67, 76
+  orig: 109, 109
+  offset: 21, 19
+  index: -1

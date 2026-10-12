@@ -1,0 +1,20 @@
+
+10011002.png
+size: 283,218
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jishen
+  rotate: false
+  xy: 2, 3
+  size: 255, 213
+  orig: 255, 213
+  offset: 0, 0
+  index: -1
+luoxuanjinang
+  rotate: true
+  xy: 259, 127
+  size: 89, 22
+  orig: 90, 26
+  offset: 0, 2
+  index: -1

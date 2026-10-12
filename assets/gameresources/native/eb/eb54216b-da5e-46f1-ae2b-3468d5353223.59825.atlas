@@ -1,0 +1,62 @@
+
+Bullet_EnemyAircraft_1010.png
+size: 506,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SC_00001
+  rotate: false
+  xy: 2, 338
+  size: 166, 166
+  orig: 218, 218
+  offset: 26, 26
+  index: -1
+SC_00004
+  rotate: false
+  xy: 2, 170
+  size: 166, 166
+  orig: 218, 218
+  offset: 26, 26
+  index: -1
+SC_00007
+  rotate: false
+  xy: 170, 338
+  size: 166, 166
+  orig: 218, 218
+  offset: 26, 26
+  index: -1
+SC_00010
+  rotate: false
+  xy: 2, 2
+  size: 166, 166
+  orig: 218, 218
+  offset: 26, 26
+  index: -1
+SC_00013
+  rotate: false
+  xy: 170, 170
+  size: 166, 166
+  orig: 218, 218
+  offset: 26, 26
+  index: -1
+SC_00016
+  rotate: false
+  xy: 338, 338
+  size: 166, 166
+  orig: 218, 218
+  offset: 26, 26
+  index: -1
+SC_00019
+  rotate: false
+  xy: 170, 2
+  size: 166, 166
+  orig: 218, 218
+  offset: 26, 26
+  index: -1
+SC_00022
+  rotate: false
+  xy: 338, 170
+  size: 166, 166
+  orig: 218, 218
+  offset: 26, 26
+  index: -1

@@ -1,0 +1,41 @@
+
+10014105.png
+size: 348,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 13
+  rotate: false
+  xy: 2, 122
+  size: 291, 224
+  orig: 291, 224
+  offset: 0, 0
+  index: -1
+图层 17 拷贝
+  rotate: false
+  xy: 295, 295
+  size: 51, 51
+  orig: 61, 61
+  offset: 5, 5
+  index: -1
+图层 3
+  rotate: true
+  xy: 140, 33
+  size: 87, 104
+  orig: 87, 104
+  offset: 0, 0
+  index: -1
+图层 5
+  rotate: true
+  xy: 2, 20
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+色阶 530 拷贝 19
+  rotate: false
+  xy: 246, 22
+  size: 76, 98
+  orig: 76, 98
+  offset: 0, 0
+  index: -1

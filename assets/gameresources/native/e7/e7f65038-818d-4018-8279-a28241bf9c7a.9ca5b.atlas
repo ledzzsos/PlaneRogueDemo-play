@@ -1,0 +1,76 @@
+
+boss3_fx_210290320_die01.png
+size: 288,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/290320_daodan
+  rotate: false
+  xy: 2, 158
+  size: 31, 128
+  orig: 37, 128
+  offset: 3, 0
+  index: -1
+effect/bg_glow01
+  rotate: false
+  xy: 182, 18
+  size: 91, 91
+  orig: 109, 109
+  offset: 9, 9
+  index: -1
+effect/导弹尾焰_00001
+  rotate: false
+  xy: 182, 111
+  size: 104, 53
+  orig: 136, 85
+  offset: 0, 17
+  index: -1
+effect/导弹尾焰_00002
+  rotate: true
+  xy: 100, 168
+  size: 118, 61
+  orig: 136, 85
+  offset: 0, 15
+  index: -1
+effect/导弹尾焰_00003
+  rotate: true
+  xy: 35, 167
+  size: 119, 63
+  orig: 136, 85
+  offset: 0, 14
+  index: -1
+effect/导弹尾焰_00004
+  rotate: true
+  xy: 121, 59
+  size: 105, 59
+  orig: 136, 85
+  offset: 0, 14
+  index: -1
+effect/导弹尾焰_00005
+  rotate: false
+  xy: 163, 166
+  size: 111, 57
+  orig: 136, 85
+  offset: 0, 15
+  index: -1
+effect/导弹尾焰_00006
+  rotate: false
+  xy: 163, 225
+  size: 116, 61
+  orig: 136, 85
+  offset: 0, 13
+  index: -1
+effect/导弹尾焰_00007
+  rotate: true
+  xy: 2, 35
+  size: 121, 63
+  orig: 136, 85
+  offset: 0, 12
+  index: -1
+effect/导弹尾焰_00008
+  rotate: true
+  xy: 67, 46
+  size: 119, 52
+  orig: 136, 85
+  offset: 0, 18
+  index: -1

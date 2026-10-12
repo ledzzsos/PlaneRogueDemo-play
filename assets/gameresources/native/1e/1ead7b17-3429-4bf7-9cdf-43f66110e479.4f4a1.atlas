@@ -1,0 +1,118 @@
+
+Bullet_Weapon_20050002.png
+size: 945,386
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beamXS_00000
+  rotate: false
+  xy: 535, 166
+  size: 80, 218
+  orig: 88, 218
+  offset: 3, 0
+  index: -1
+beamXS_00001
+  rotate: false
+  xy: 617, 166
+  size: 80, 218
+  orig: 88, 218
+  offset: 3, 0
+  index: -1
+beamXS_00002
+  rotate: false
+  xy: 451, 166
+  size: 82, 218
+  orig: 88, 218
+  offset: 2, 0
+  index: -1
+beamXS_00003
+  rotate: false
+  xy: 362, 166
+  size: 87, 218
+  orig: 88, 218
+  offset: 0, 0
+  index: -1
+beamXS_00004
+  rotate: false
+  xy: 2, 166
+  size: 88, 218
+  orig: 88, 218
+  offset: 0, 0
+  index: -1
+beamXS_00005
+  rotate: false
+  xy: 92, 166
+  size: 88, 218
+  orig: 88, 218
+  offset: 0, 0
+  index: -1
+beamXS_00006
+  rotate: false
+  xy: 182, 166
+  size: 88, 218
+  orig: 88, 218
+  offset: 0, 0
+  index: -1
+beamXS_00007
+  rotate: false
+  xy: 272, 166
+  size: 88, 218
+  orig: 88, 218
+  offset: 0, 0
+  index: -1
+beam_00000
+  rotate: false
+  xy: 699, 166
+  size: 80, 218
+  orig: 88, 218
+  offset: 3, 0
+  index: -1
+beam_00001
+  rotate: false
+  xy: 781, 166
+  size: 80, 218
+  orig: 88, 218
+  offset: 3, 0
+  index: -1
+beam_00002
+  rotate: false
+  xy: 863, 166
+  size: 80, 218
+  orig: 88, 218
+  offset: 3, 0
+  index: -1
+beam_00003
+  rotate: true
+  xy: 2, 84
+  size: 80, 218
+  orig: 88, 218
+  offset: 3, 0
+  index: -1
+beam_00004
+  rotate: true
+  xy: 222, 84
+  size: 80, 218
+  orig: 88, 218
+  offset: 3, 0
+  index: -1
+beam_00005
+  rotate: true
+  xy: 442, 84
+  size: 80, 218
+  orig: 88, 218
+  offset: 3, 0
+  index: -1
+beam_00006
+  rotate: true
+  xy: 662, 84
+  size: 80, 218
+  orig: 88, 218
+  offset: 3, 0
+  index: -1
+beam_00007
+  rotate: true
+  xy: 2, 2
+  size: 80, 218
+  orig: 88, 218
+  offset: 3, 0
+  index: -1

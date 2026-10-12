@@ -1,0 +1,83 @@
+
+10011068.png
+size: 858,468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/CF_01
+  rotate: true
+  xy: 552, 55
+  size: 76, 154
+  orig: 109, 218
+  offset: 15, 17
+  index: -1
+images/CF_02
+  rotate: true
+  xy: 667, 133
+  size: 84, 163
+  orig: 109, 218
+  offset: 10, 13
+  index: -1
+images/CF_03
+  rotate: true
+  xy: 188, 2
+  size: 85, 177
+  orig: 109, 218
+  offset: 12, 13
+  index: -1
+images/CF_04
+  rotate: true
+  xy: 2, 4
+  size: 83, 184
+  orig: 109, 218
+  offset: 13, 13
+  index: -1
+images/CF_05
+  rotate: true
+  xy: 367, 8
+  size: 79, 183
+  orig: 109, 218
+  offset: 14, 13
+  index: -1
+images/CF_06
+  rotate: true
+  xy: 483, 139
+  size: 78, 182
+  orig: 109, 218
+  offset: 14, 15
+  index: -1
+images/CF_07
+  rotate: true
+  xy: 483, 229
+  size: 77, 184
+  orig: 109, 218
+  offset: 17, 13
+  index: -1
+images/CF_08
+  rotate: true
+  xy: 708, 55
+  size: 76, 146
+  orig: 109, 218
+  offset: 16, 14
+  index: -1
+右手
+  rotate: false
+  xy: 720, 219
+  size: 136, 247
+  orig: 136, 247
+  offset: 0, 0
+  index: -1
+图层 27
+  rotate: false
+  xy: 2, 89
+  size: 479, 377
+  orig: 479, 377
+  offset: 0, 0
+  index: -1
+左手
+  rotate: true
+  xy: 483, 308
+  size: 158, 235
+  orig: 158, 235
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+wsparticle_eac_BossSkill.png
+size: 575,513
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 334, 2
+  size: 117, 117
+  orig: 128, 128
+  offset: 5, 6
+  index: -1
+quan
+  rotate: false
+  xy: 2, 367
+  size: 161, 144
+  orig: 174, 162
+  offset: 6, 11
+  index: -1
+shan0001
+  rotate: false
+  xy: 260, 20
+  size: 72, 72
+  orig: 142, 105
+  offset: 34, 16
+  index: -1
+shan0002
+  rotate: true
+  xy: 473, 144
+  size: 117, 99
+  orig: 142, 105
+  offset: 11, 2
+  index: -1
+shan0003
+  rotate: false
+  xy: 139, 8
+  size: 119, 84
+  orig: 142, 105
+  offset: 11, 11
+  index: -1
+shan0004
+  rotate: false
+  xy: 2, 4
+  size: 128, 77
+  orig: 142, 105
+  offset: 6, 14
+  index: -1
+shan0005
+  rotate: true
+  xy: 277, 237
+  size: 130, 69
+  orig: 142, 105
+  offset: 5, 21
+  index: -1
+shan0006
+  rotate: true
+  xy: 265, 96
+  size: 127, 67
+  orig: 142, 105
+  offset: 6, 20
+  index: -1
+xs0001
+  rotate: true
+  xy: 348, 121
+  size: 118, 123
+  orig: 173, 162
+  offset: 25, 18
+  index: -1
+xs0002
+  rotate: false
+  xy: 139, 94
+  size: 124, 129
+  orig: 173, 162
+  offset: 24, 17
+  index: -1
+xs0003
+  rotate: true
+  xy: 439, 383
+  size: 128, 134
+  orig: 173, 162
+  offset: 22, 12
+  index: -1
+xs0004
+  rotate: false
+  xy: 2, 83
+  size: 135, 140
+  orig: 173, 162
+  offset: 16, 11
+  index: -1
+xs0005
+  rotate: false
+  xy: 303, 371
+  size: 134, 140
+  orig: 173, 162
+  offset: 15, 13
+  index: -1
+xs0006
+  rotate: false
+  xy: 165, 369
+  size: 136, 142
+  orig: 173, 162
+  offset: 14, 12
+  index: -1
+xs0007
+  rotate: false
+  xy: 2, 225
+  size: 140, 140
+  orig: 173, 162
+  offset: 10, 12
+  index: -1
+xs0008
+  rotate: true
+  xy: 144, 225
+  size: 140, 131
+  orig: 173, 162
+  offset: 9, 14
+  index: -1
+xs0009
+  rotate: true
+  xy: 348, 241
+  size: 128, 123
+  orig: 173, 162
+  offset: 11, 22
+  index: -1
+xs0010
+  rotate: true
+  xy: 473, 263
+  size: 118, 100
+  orig: 173, 162
+  offset: 15, 45
+  index: -1
+xs0011
+  rotate: true
+  xy: 453, 7
+  size: 112, 46
+  orig: 173, 162
+  offset: 21, 51
+  index: -1
+xx0006
+  rotate: false
+  xy: 501, 108
+  size: 34, 34
+  orig: 34, 36
+  offset: 0, 0
+  index: -1

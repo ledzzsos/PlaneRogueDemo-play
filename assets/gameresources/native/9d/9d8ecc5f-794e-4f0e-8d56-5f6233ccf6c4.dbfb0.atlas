@@ -1,0 +1,34 @@
+
+Bullet_Weapon_21060901.png
+size: 126,351
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_00000
+  rotate: false
+  xy: 64, 172
+  size: 59, 177
+  orig: 109, 218
+  offset: 27, 20
+  index: -1
+0_00001
+  rotate: false
+  xy: 62, 6
+  size: 62, 164
+  orig: 109, 218
+  offset: 23, 34
+  index: -1
+0_00002
+  rotate: false
+  xy: 2, 173
+  size: 60, 176
+  orig: 109, 218
+  offset: 25, 22
+  index: -1
+0_00003
+  rotate: false
+  xy: 2, 2
+  size: 58, 169
+  orig: 109, 218
+  offset: 26, 28
+  index: -1

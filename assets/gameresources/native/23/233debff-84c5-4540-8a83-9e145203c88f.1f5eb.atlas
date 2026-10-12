@@ -1,0 +1,48 @@
+
+10011018.png
+size: 881,231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow01
+  rotate: false
+  xy: 720, 21
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+glow_line_00000
+  rotate: false
+  xy: 480, 2
+  size: 38, 18
+  orig: 54, 54
+  offset: 9, 20
+  index: -1
+lxja_00001
+  rotate: false
+  xy: 2, 2
+  size: 237, 227
+  orig: 255, 255
+  offset: 9, 14
+  index: -1
+lxjb_00001
+  rotate: false
+  xy: 241, 2
+  size: 237, 227
+  orig: 255, 255
+  offset: 9, 14
+  index: -1
+机器人
+  rotate: true
+  xy: 480, 22
+  size: 207, 238
+  orig: 207, 238
+  offset: 0, 0
+  index: -1
+箱子
+  rotate: true
+  xy: 720, 50
+  size: 179, 159
+  orig: 179, 159
+  offset: 0, 0
+  index: -1

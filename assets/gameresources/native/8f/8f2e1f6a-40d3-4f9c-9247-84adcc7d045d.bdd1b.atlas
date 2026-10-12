@@ -1,0 +1,48 @@
+
+10014007.png
+size: 779,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boss一阶段机身
+  rotate: false
+  xy: 2, 3
+  size: 776, 494
+  orig: 816, 509
+  offset: 21, 5
+  index: -1
+中间�?
+  rotate: false
+  xy: 2, 417
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+右上�?
+  rotate: false
+  xy: 56, 424
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1
+尾部炮左�?
+  rotate: false
+  xy: 2, 342
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+螺旋�?01
+  rotate: false
+  xy: 58, 406
+  size: 112, 16
+  orig: 113, 16
+  offset: 0, 0
+  index: -1
+螺旋�?02
+  rotate: false
+  xy: 2, 322
+  size: 134, 18
+  orig: 136, 18
+  offset: 0, 0
+  index: -1

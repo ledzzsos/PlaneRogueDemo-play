@@ -1,0 +1,34 @@
+
+10014110.png
+size: 628,429
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图案分层
+  rotate: true
+  xy: 2, 3
+  size: 83, 91
+  orig: 170, 170
+  offset: 42, 40
+  index: -1
+炮塔
+  rotate: true
+  xy: 377, 2
+  size: 171, 226
+  orig: 241, 294
+  offset: 31, 40
+  index: -1
+飞碟敌机-03形态640P
+  rotate: true
+  xy: 2, 88
+  size: 339, 373
+  orig: 544, 544
+  offset: 107, 68
+  index: -1
+飞碟敌机-03形态640P盖子
+  rotate: true
+  xy: 377, 175
+  size: 252, 249
+  orig: 544, 544
+  offset: 147, 145
+  index: -1

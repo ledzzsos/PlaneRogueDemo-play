@@ -1,0 +1,69 @@
+
+fx_Weapon_21061201_hit01.png
+size: 335,335
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jdd_00001
+  rotate: false
+  xy: 224, 270
+  size: 63, 63
+  orig: 109, 109
+  offset: 23, 23
+  index: -1
+jdd_00002
+  rotate: true
+  xy: 216, 25
+  size: 86, 87
+  orig: 109, 109
+  offset: 12, 11
+  index: -1
+jdd_00003
+  rotate: true
+  xy: 113, 13
+  size: 98, 101
+  orig: 109, 109
+  offset: 3, 4
+  index: -1
+jdd_00004
+  rotate: false
+  xy: 2, 113
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+jdd_00005
+  rotate: false
+  xy: 2, 2
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+jdd_00006
+  rotate: false
+  xy: 113, 224
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+jdd_00007
+  rotate: false
+  xy: 113, 113
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+jdd_00008
+  rotate: false
+  xy: 2, 224
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+monk_longReach_sparkslol_crits
+  rotate: false
+  xy: 224, 218
+  size: 45, 50
+  orig: 109, 109
+  offset: 32, 30
+  index: -1

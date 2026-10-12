@@ -1,0 +1,76 @@
+
+cangku_saoguang.png
+size: 293,294
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sg/扫光_00001
+  rotate: true
+  xy: 218, 94
+  size: 57, 60
+  orig: 170, 170
+  offset: 43, 68
+  index: -1
+sg/扫光_00002
+  rotate: false
+  xy: 218, 213
+  size: 73, 79
+  orig: 170, 170
+  offset: 42, 49
+  index: -1
+sg/扫光_00003
+  rotate: false
+  xy: 94, 3
+  size: 86, 105
+  orig: 170, 170
+  offset: 42, 23
+  index: -1
+sg/扫光_00004
+  rotate: true
+  xy: 2, 110
+  size: 90, 105
+  orig: 170, 170
+  offset: 42, 23
+  index: -1
+sg/扫光_00005
+  rotate: false
+  xy: 2, 3
+  size: 90, 105
+  orig: 170, 170
+  offset: 42, 23
+  index: -1
+sg/扫光_00006
+  rotate: true
+  xy: 2, 202
+  size: 90, 106
+  orig: 170, 170
+  offset: 42, 22
+  index: -1
+sg/扫光_00007
+  rotate: true
+  xy: 110, 206
+  size: 86, 106
+  orig: 170, 170
+  offset: 46, 22
+  index: -1
+sg/扫光_00008
+  rotate: true
+  xy: 110, 121
+  size: 83, 106
+  orig: 170, 170
+  offset: 49, 22
+  index: -1
+sg/扫光_00009
+  rotate: false
+  xy: 182, 2
+  size: 83, 90
+  orig: 170, 170
+  offset: 49, 23
+  index: -1
+sg/扫光_00010
+  rotate: true
+  xy: 218, 153
+  size: 58, 69
+  orig: 170, 170
+  offset: 74, 23
+  index: -1

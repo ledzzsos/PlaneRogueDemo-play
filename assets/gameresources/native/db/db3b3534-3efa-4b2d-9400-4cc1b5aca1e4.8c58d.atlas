@@ -1,0 +1,90 @@
+
+Bullet_Laser01.png
+size: 874,854
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LO_01
+  rotate: true
+  xy: 2, 765
+  size: 87, 870
+  orig: 109, 870
+  offset: 13, 0
+  index: -1
+LO_02
+  rotate: true
+  xy: 2, 679
+  size: 84, 870
+  orig: 109, 870
+  offset: 10, 0
+  index: -1
+LO_03
+  rotate: true
+  xy: 2, 514
+  size: 79, 870
+  orig: 109, 870
+  offset: 15, 0
+  index: -1
+LO_04
+  rotate: true
+  xy: 2, 595
+  size: 82, 870
+  orig: 109, 870
+  offset: 15, 0
+  index: -1
+huab_00
+  rotate: true
+  xy: 331, 61
+  size: 75, 510
+  orig: 109, 510
+  offset: 26, 0
+  index: -1
+huab_01
+  rotate: false
+  xy: 112, 2
+  size: 107, 510
+  orig: 109, 510
+  offset: 2, 0
+  index: -1
+huab_02
+  rotate: false
+  xy: 221, 3
+  size: 108, 509
+  orig: 109, 510
+  offset: 1, 0
+  index: -1
+huab_03
+  rotate: true
+  xy: 331, 138
+  size: 77, 510
+  orig: 109, 510
+  offset: 26, 0
+  index: -1
+huab_04
+  rotate: true
+  xy: 331, 217
+  size: 86, 510
+  orig: 109, 510
+  offset: 14, 0
+  index: -1
+huab_05
+  rotate: false
+  xy: 2, 2
+  size: 108, 510
+  orig: 109, 510
+  offset: 1, 0
+  index: -1
+huab_06
+  rotate: true
+  xy: 331, 407
+  size: 105, 510
+  orig: 109, 510
+  offset: 4, 0
+  index: -1
+huab_07
+  rotate: true
+  xy: 331, 305
+  size: 100, 510
+  orig: 109, 510
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+cangku_saoguang01.png
+size: 890,111
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sg01/武器舱2扫光_00001
+  rotate: true
+  xy: 651, 5
+  size: 104, 102
+  orig: 107, 107
+  offset: 0, 5
+  index: -1
+sg01/武器舱2扫光_00002
+  rotate: false
+  xy: 2, 2
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+sg01/武器舱2扫光_00003
+  rotate: false
+  xy: 111, 2
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+sg01/武器舱2扫光_00004
+  rotate: false
+  xy: 220, 2
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+sg01/武器舱2扫光_00005
+  rotate: false
+  xy: 329, 2
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+sg01/武器舱2扫光_00006
+  rotate: false
+  xy: 438, 2
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+sg01/武器舱2扫光_00007
+  rotate: false
+  xy: 547, 2
+  size: 102, 107
+  orig: 107, 107
+  offset: 5, 0
+  index: -1
+sg01/武器舱2扫光_00008
+  rotate: false
+  xy: 755, 10
+  size: 80, 99
+  orig: 107, 107
+  offset: 27, 0
+  index: -1
+sg01/武器舱2扫光_00009
+  rotate: false
+  xy: 837, 46
+  size: 51, 63
+  orig: 107, 107
+  offset: 56, 0
+  index: -1
+sg01/武器舱2扫光_00010
+  rotate: false
+  xy: 837, 17
+  size: 23, 27
+  orig: 107, 107
+  offset: 84, 1
+  index: -1

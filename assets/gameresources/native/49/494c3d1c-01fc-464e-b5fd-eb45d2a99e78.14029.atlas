@@ -1,0 +1,20 @@
+
+10014108.png
+size: 609,609
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图案分层
+  rotate: true
+  xy: 2, 2
+  size: 83, 91
+  orig: 170, 170
+  offset: 42, 40
+  index: -1
+飞碟敌机-01形态640P
+  rotate: false
+  xy: 2, 87
+  size: 516, 520
+  orig: 544, 544
+  offset: 19, 10
+  index: -1

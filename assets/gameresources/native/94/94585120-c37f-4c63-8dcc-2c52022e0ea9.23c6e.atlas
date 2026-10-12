@@ -1,0 +1,97 @@
+
+10011003.png
+size: 648,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EnergyB_00000
+  rotate: false
+  xy: 582, 178
+  size: 37, 40
+  orig: 130, 130
+  offset: 0, 45
+  index: -1
+EnergyB_00001
+  rotate: false
+  xy: 584, 281
+  size: 62, 64
+  orig: 130, 130
+  offset: 0, 31
+  index: -1
+EnergyB_00002
+  rotate: false
+  xy: 394, 4
+  size: 85, 81
+  orig: 130, 130
+  offset: 0, 24
+  index: -1
+EnergyB_00003
+  rotate: false
+  xy: 394, 87
+  size: 92, 83
+  orig: 130, 130
+  offset: 1, 23
+  index: -1
+EnergyB_00004
+  rotate: false
+  xy: 489, 174
+  size: 91, 84
+  orig: 130, 130
+  offset: 2, 23
+  index: -1
+EnergyB_00005
+  rotate: false
+  xy: 394, 172
+  size: 93, 85
+  orig: 130, 130
+  offset: 2, 22
+  index: -1
+EnergyB_00006
+  rotate: false
+  xy: 489, 260
+  size: 93, 85
+  orig: 130, 130
+  offset: 3, 22
+  index: -1
+EnergyB_00007
+  rotate: false
+  xy: 394, 259
+  size: 93, 86
+  orig: 130, 130
+  offset: 4, 22
+  index: -1
+EnergyB_00008
+  rotate: false
+  xy: 481, 4
+  size: 85, 81
+  orig: 130, 130
+  offset: 14, 24
+  index: -1
+EnergyB_00009
+  rotate: false
+  xy: 489, 96
+  size: 79, 76
+  orig: 130, 130
+  offset: 20, 27
+  index: -1
+EnergyB_00010
+  rotate: true
+  xy: 584, 220
+  size: 59, 61
+  orig: 130, 130
+  offset: 36, 33
+  index: -1
+weiqi
+  rotate: false
+  xy: 570, 95
+  size: 75, 77
+  orig: 83, 83
+  offset: 4, 0
+  index: -1
+自杀冲撞炮灰
+  rotate: false
+  xy: 2, 2
+  size: 390, 343
+  orig: 390, 343
+  offset: 0, 0
+  index: -1

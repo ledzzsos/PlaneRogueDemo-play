@@ -1,0 +1,62 @@
+
+FX_breakArmor.png
+size: 595,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/470843fa73_rec
+  rotate: false
+  xy: 502, 279
+  size: 91, 91
+  orig: 109, 109
+  offset: 9, 9
+  index: -1
+images/SFX_qinbg
+  rotate: false
+  xy: 502, 188
+  size: 89, 89
+  orig: 99, 98
+  offset: 5, 5
+  index: -1
+images/parti_1
+  rotate: false
+  xy: 531, 91
+  size: 47, 47
+  orig: 54, 54
+  offset: 4, 3
+  index: -1
+images/parti_2
+  rotate: true
+  xy: 531, 41
+  size: 48, 41
+  orig: 54, 54
+  offset: 4, 10
+  index: -1
+images/parti_3
+  rotate: false
+  xy: 531, 140
+  size: 50, 46
+  orig: 54, 54
+  offset: 3, 1
+  index: -1
+images/pojia
+  rotate: true
+  xy: 398, 166
+  size: 204, 102
+  orig: 204, 102
+  offset: 0, 0
+  index: -1
+images/pojia_icon
+  rotate: false
+  xy: 398, 15
+  size: 131, 149
+  orig: 131, 149
+  offset: 0, 0
+  index: -1
+podun_00000
+  rotate: true
+  xy: 2, 2
+  size: 368, 394
+  orig: 425, 425
+  offset: 28, 17
+  index: -1

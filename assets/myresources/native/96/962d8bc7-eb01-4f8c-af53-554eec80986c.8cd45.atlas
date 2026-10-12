@@ -1,0 +1,20 @@
+
+10100007.png
+size: 469,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feiji
+  rotate: false
+  xy: 2, 2
+  size: 444, 270
+  orig: 510, 425
+  offset: 47, 97
+  index: -1
+wew
+  rotate: false
+  xy: 448, 181
+  size: 19, 91
+  orig: 54, 110
+  offset: 17, 12
+  index: -1

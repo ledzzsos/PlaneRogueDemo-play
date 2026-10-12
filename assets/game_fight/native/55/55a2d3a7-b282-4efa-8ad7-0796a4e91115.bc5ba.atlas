@@ -1,0 +1,13 @@
+
+juneirot.png
+size: 131,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huarr_00000
+  rotate: false
+  xy: 2, 2
+  size: 127, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

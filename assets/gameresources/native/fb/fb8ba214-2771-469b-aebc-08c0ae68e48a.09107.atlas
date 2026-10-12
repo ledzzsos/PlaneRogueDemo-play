@@ -1,0 +1,76 @@
+
+MainPlaneSkill_10060101_Bullet_hit01.png
+size: 1010,799
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire 063 Explosion Radial MIX_00007
+  rotate: true
+  xy: 2, 565
+  size: 232, 235
+  orig: 340, 340
+  offset: 58, 51
+  index: -1
+Fire 063 Explosion Radial MIX_00009
+  rotate: true
+  xy: 264, 278
+  size: 265, 267
+  orig: 340, 340
+  offset: 39, 36
+  index: -1
+Fire 063 Explosion Radial MIX_00011
+  rotate: false
+  xy: 533, 272
+  size: 268, 268
+  orig: 340, 340
+  offset: 36, 36
+  index: -1
+Fire 063 Explosion Radial MIX_00013
+  rotate: false
+  xy: 2, 8
+  size: 268, 268
+  orig: 340, 340
+  offset: 36, 36
+  index: -1
+Fire 063 Explosion Radial MIX_00015
+  rotate: true
+  xy: 272, 2
+  size: 268, 269
+  orig: 340, 340
+  offset: 36, 36
+  index: -1
+Fire 063 Explosion Radial MIX_00017
+  rotate: false
+  xy: 543, 2
+  size: 268, 268
+  orig: 340, 340
+  offset: 36, 36
+  index: -1
+Fire 063 Explosion Radial MIX_00019
+  rotate: false
+  xy: 239, 547
+  size: 253, 250
+  orig: 340, 340
+  offset: 48, 40
+  index: -1
+Fire 063 Explosion Radial MIX_00021
+  rotate: false
+  xy: 494, 545
+  size: 256, 252
+  orig: 340, 340
+  offset: 47, 39
+  index: -1
+Fire 063 Explosion Radial MIX_00023
+  rotate: false
+  xy: 2, 290
+  size: 260, 255
+  orig: 340, 340
+  offset: 45, 37
+  index: -1
+Fire 063 Explosion Radial MIX_00025
+  rotate: false
+  xy: 752, 542
+  size: 256, 255
+  orig: 340, 340
+  offset: 45, 36
+  index: -1

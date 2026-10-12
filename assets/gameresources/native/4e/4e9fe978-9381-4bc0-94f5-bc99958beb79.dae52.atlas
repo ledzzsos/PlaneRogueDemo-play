@@ -1,0 +1,27 @@
+
+10011047.png
+size: 568,229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touglow
+  rotate: true
+  xy: 2, 13
+  size: 106, 423
+  orig: 106, 429
+  offset: 0, 6
+  index: -1
+weiglow
+  rotate: false
+  xy: 520, 2
+  size: 46, 225
+  orig: 52, 225
+  offset: 4, 0
+  index: -1
+精英长条-导弹
+  rotate: true
+  xy: 2, 121
+  size: 106, 516
+  orig: 143, 555
+  offset: 20, 17
+  index: -1

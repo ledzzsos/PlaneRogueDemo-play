@@ -1,0 +1,76 @@
+
+10011054.png
+size: 442,468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AAA/闪电输出_00024
+  rotate: true
+  xy: 222, 8
+  size: 69, 218
+  orig: 109, 218
+  offset: 25, 0
+  index: -1
+AAA/闪电输出_00025
+  rotate: false
+  xy: 374, 225
+  size: 64, 218
+  orig: 109, 218
+  offset: 18, 0
+  index: -1
+AAA/闪电输出_00026
+  rotate: true
+  xy: 222, 79
+  size: 70, 218
+  orig: 109, 218
+  offset: 28, 0
+  index: -1
+AAA/闪电输出_00027
+  rotate: true
+  xy: 2, 72
+  size: 70, 218
+  orig: 109, 218
+  offset: 28, 0
+  index: -1
+AAA/闪电输出_00028
+  rotate: false
+  xy: 291, 225
+  size: 81, 218
+  orig: 109, 218
+  offset: 16, 0
+  index: -1
+AAA/闪电输出_00029
+  rotate: true
+  xy: 2, 2
+  size: 68, 218
+  orig: 109, 218
+  offset: 28, 0
+  index: -1
+AAA/闪电输出_00030
+  rotate: true
+  xy: 222, 151
+  size: 72, 218
+  orig: 109, 218
+  offset: 22, 0
+  index: -1
+AAA/闪电输出_00031
+  rotate: true
+  xy: 2, 144
+  size: 80, 218
+  orig: 109, 218
+  offset: 19, 0
+  index: -1
+line_00000
+  rotate: true
+  xy: 291, 445
+  size: 21, 109
+  orig: 54, 109
+  offset: 17, 0
+  index: -1
+喷射器
+  rotate: false
+  xy: 2, 226
+  size: 287, 240
+  orig: 287, 240
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+wingPlane_20050001.png
+size: 268,935
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jgloop_00000
+  rotate: false
+  xy: 2, 746
+  size: 138, 187
+  orig: 272, 272
+  offset: 69, 41
+  index: -1
+jgloop_00001
+  rotate: false
+  xy: 2, 562
+  size: 138, 182
+  orig: 272, 272
+  offset: 70, 45
+  index: -1
+jgloop_00002
+  rotate: true
+  xy: 131, 420
+  size: 140, 127
+  orig: 272, 272
+  offset: 74, 48
+  index: -1
+jgloop_00003
+  rotate: true
+  xy: 126, 39
+  size: 147, 140
+  orig: 272, 272
+  offset: 73, 48
+  index: -1
+jgloop_00004
+  rotate: true
+  xy: 130, 228
+  size: 141, 130
+  orig: 272, 272
+  offset: 75, 73
+  index: -1
+jgloop_00005
+  rotate: false
+  xy: 2, 188
+  size: 126, 181
+  orig: 272, 272
+  offset: 86, 38
+  index: -1
+jgloop_00006
+  rotate: false
+  xy: 2, 2
+  size: 122, 184
+  orig: 272, 272
+  offset: 78, 40
+  index: -1
+jgloop_00007
+  rotate: false
+  xy: 2, 371
+  size: 127, 189
+  orig: 272, 272
+  offset: 75, 39
+  index: -1
+knolan_battle_burst_glow_2
+  rotate: false
+  xy: 142, 737
+  size: 56, 196
+  orig: 218, 218
+  offset: 76, 8
+  index: -1
+浮游炮
+  rotate: false
+  xy: 142, 563
+  size: 78, 82
+  orig: 78, 82
+  offset: 0, 0
+  index: -1

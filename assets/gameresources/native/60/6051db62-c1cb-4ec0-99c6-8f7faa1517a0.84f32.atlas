@@ -1,0 +1,13 @@
+
+gksd.png
+size: 213,213
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gksd_00014
+  rotate: false
+  xy: 2, 2
+  size: 197, 209
+  orig: 218, 218
+  offset: 16, 6
+  index: -1

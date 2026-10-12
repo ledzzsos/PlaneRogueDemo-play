@@ -1,0 +1,69 @@
+
+itemEffect.png
+size: 176,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gfx_867-4l
+  rotate: false
+  xy: 75, 13
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+line_00001
+  rotate: false
+  xy: 145, 42
+  size: 29, 39
+  orig: 93, 93
+  offset: 0, 54
+  index: -1
+line_00002
+  rotate: true
+  xy: 97, 133
+  size: 52, 72
+  orig: 93, 93
+  offset: 0, 21
+  index: -1
+line_00003
+  rotate: false
+  xy: 97, 187
+  size: 74, 91
+  orig: 93, 93
+  offset: 0, 2
+  index: -1
+line_00004
+  rotate: true
+  xy: 2, 187
+  size: 91, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+line_00005
+  rotate: true
+  xy: 2, 96
+  size: 89, 93
+  orig: 93, 93
+  offset: 4, 0
+  index: -1
+line_00006
+  rotate: false
+  xy: 2, 3
+  size: 71, 91
+  orig: 93, 93
+  offset: 22, 0
+  index: -1
+line_00007
+  rotate: true
+  xy: 97, 83
+  size: 48, 70
+  orig: 93, 93
+  offset: 45, 0
+  index: -1
+line_00008
+  rotate: false
+  xy: 145, 2
+  size: 26, 38
+  orig: 93, 93
+  offset: 67, 0
+  index: -1

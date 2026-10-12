@@ -1,0 +1,13 @@
+
+cangku_loop.png
+size: 222,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cfrmk
+  rotate: false
+  xy: 2, 2
+  size: 218, 212
+  orig: 218, 218
+  offset: 0, 4
+  index: -1

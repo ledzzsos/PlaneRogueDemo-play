@@ -1,0 +1,48 @@
+
+fx_common_levelup.png
+size: 351,149
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/3
+  rotate: false
+  xy: 137, 4
+  size: 164, 48
+  orig: 360, 119
+  offset: 98, 34
+  index: -1
+images/Whiteglow_00000
+  rotate: false
+  xy: 2, 5
+  size: 85, 142
+  orig: 85, 170
+  offset: 0, 14
+  index: -1
+images/hzex6e5
+  rotate: false
+  xy: 89, 54
+  size: 213, 93
+  orig: 218, 109
+  offset: 0, 10
+  index: -1
+images/parti_1
+  rotate: false
+  xy: 303, 5
+  size: 46, 47
+  orig: 54, 54
+  offset: 4, 3
+  index: -1
+images/parti_2
+  rotate: true
+  xy: 304, 100
+  size: 47, 41
+  orig: 54, 54
+  offset: 4, 10
+  index: -1
+images/parti_3
+  rotate: true
+  xy: 89, 2
+  size: 50, 46
+  orig: 54, 54
+  offset: 3, 1
+  index: -1

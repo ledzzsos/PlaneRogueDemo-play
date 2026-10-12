@@ -1,0 +1,27 @@
+
+10011007_yinqing01.png
+size: 160,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dalanyingqingy1
+  rotate: true
+  xy: 2, 2
+  size: 78, 136
+  orig: 87, 142
+  offset: 3, 5
+  index: -1
+luoxuanjiang_y1
+  rotate: true
+  xy: 140, 10
+  size: 70, 18
+  orig: 72, 20
+  offset: 1, 1
+  index: -1
+yingqin_y1
+  rotate: true
+  xy: 2, 82
+  size: 53, 144
+  orig: 55, 146
+  offset: 1, 1
+  index: -1

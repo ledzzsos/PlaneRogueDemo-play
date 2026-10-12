@@ -1,0 +1,20 @@
+
+100007.png
+size: 83,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jishen
+  rotate: false
+  xy: 2, 3
+  size: 67, 47
+  orig: 67, 47
+  offset: 0, 0
+  index: -1
+weiqi
+  rotate: false
+  xy: 2, 51
+  size: 79, 81
+  orig: 87, 87
+  offset: 4, 0
+  index: -1

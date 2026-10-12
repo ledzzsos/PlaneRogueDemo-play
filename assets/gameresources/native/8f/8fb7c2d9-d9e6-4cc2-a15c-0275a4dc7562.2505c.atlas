@@ -1,0 +1,34 @@
+
+fx_InstantKill.png
+size: 391,519
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glow_line
+  rotate: true
+  xy: 156, 2
+  size: 197, 98
+  orig: 204, 115
+  offset: 4, 10
+  index: -1
+images/public_yinshen_mutl_D_00
+  rotate: true
+  xy: 256, 97
+  size: 102, 103
+  orig: 109, 109
+  offset: 3, 2
+  index: -1
+images/public_yinshen_mutl_D_01
+  rotate: true
+  xy: 2, 17
+  size: 182, 152
+  orig: 218, 218
+  offset: 18, 34
+  index: -1
+images/zhasha
+  rotate: false
+  xy: 2, 201
+  size: 387, 316
+  orig: 390, 346
+  offset: 0, 22
+  index: -1

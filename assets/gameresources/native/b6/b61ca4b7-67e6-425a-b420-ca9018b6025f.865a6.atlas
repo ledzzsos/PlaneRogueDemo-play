@@ -1,0 +1,27 @@
+
+10014114.png
+size: 999,621
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boss一阶段机身
+  rotate: false
+  xy: 2, 2
+  size: 970, 617
+  orig: 1020, 637
+  offset: 26, 7
+  index: -1
+螺旋桨01
+  rotate: true
+  xy: 974, 309
+  size: 140, 20
+  orig: 141, 20
+  offset: 0, 0
+  index: -1
+螺旋桨02
+  rotate: true
+  xy: 974, 451
+  size: 168, 23
+  orig: 170, 23
+  offset: 0, 0
+  index: -1

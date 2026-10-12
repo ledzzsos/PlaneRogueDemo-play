@@ -1,0 +1,110 @@
+
+hedan.png
+size: 917,804
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/B/boom_s
+  rotate: false
+  xy: 2, 626
+  size: 198, 176
+  orig: 223, 177
+  offset: 0, 1
+  index: -1
+images/B/dj_hdbz_00
+  rotate: false
+  xy: 421, 566
+  size: 236, 236
+  orig: 280, 280
+  offset: 22, 22
+  index: -1
+images/B/dj_hdbz_01
+  rotate: false
+  xy: 2, 12
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+images/B/dj_hdbz_02
+  rotate: false
+  xy: 284, 2
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+images/B/dj_hdbz_03
+  rotate: false
+  xy: 566, 2
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+images/B/dj_hdbz_07
+  rotate: true
+  xy: 2, 322
+  size: 269, 273
+  orig: 280, 280
+  offset: 7, 3
+  index: -1
+images/B/dj_hdbz_08
+  rotate: true
+  xy: 552, 284
+  size: 272, 277
+  orig: 280, 280
+  offset: 7, 1
+  index: -1
+images/B/dj_hdbz_09
+  rotate: true
+  xy: 277, 294
+  size: 270, 273
+  orig: 280, 280
+  offset: 8, 6
+  index: -1
+images/B/dj_hdbz_10
+  rotate: false
+  xy: 659, 558
+  size: 256, 244
+  orig: 280, 280
+  offset: 12, 18
+  index: -1
+images/B/dj_hdbz_11
+  rotate: true
+  xy: 202, 593
+  size: 209, 217
+  orig: 280, 280
+  offset: 37, 30
+  index: -1
+
+hedan2.png
+size: 568,568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/B/dj_hdbz_04
+  rotate: false
+  xy: 2, 2
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+images/B/dj_hdbz_05
+  rotate: false
+  xy: 286, 286
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+images/B/dj_hdbz_06
+  rotate: false
+  xy: 284, 2
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+images/B/dj_hdbz_fangda_add
+  rotate: false
+  xy: 2, 284
+  size: 282, 282
+  orig: 300, 300
+  offset: 9, 9
+  index: -1

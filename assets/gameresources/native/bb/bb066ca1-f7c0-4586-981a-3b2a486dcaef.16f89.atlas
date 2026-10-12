@@ -1,0 +1,62 @@
+
+10014100.png
+size: 555,343
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+XnJihE
+  rotate: false
+  xy: 418, 55
+  size: 59, 106
+  orig: 82, 111
+  offset: 11, 3
+  index: -1
+glow01
+  rotate: false
+  xy: 479, 48
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 479, 77
+  size: 84, 48
+  orig: 84, 51
+  offset: 0, 0
+  index: -1
+z01
+  rotate: false
+  xy: 529, 141
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+z02
+  rotate: false
+  xy: 418, 10
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+头顶层
+  rotate: false
+  xy: 352, 163
+  size: 201, 178
+  orig: 201, 178
+  offset: 0, 0
+  index: -1
+左钳子
+  rotate: false
+  xy: 352, 3
+  size: 64, 158
+  orig: 64, 158
+  offset: 0, 0
+  index: -1
+驱赶底层
+  rotate: false
+  xy: 2, 2
+  size: 348, 339
+  orig: 348, 339
+  offset: 0, 0
+  index: -1

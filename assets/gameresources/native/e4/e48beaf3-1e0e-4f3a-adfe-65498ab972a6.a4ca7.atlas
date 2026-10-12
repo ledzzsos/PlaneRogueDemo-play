@@ -1,0 +1,153 @@
+
+skeleton.png
+size: 642,642
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weiyan_00015
+  rotate: false
+  xy: 472, 108
+  size: 51, 250
+  orig: 85, 425
+  offset: 17, 171
+  index: -1
+weiyan_00016
+  rotate: false
+  xy: 578, 148
+  size: 51, 233
+  orig: 85, 425
+  offset: 16, 188
+  index: -1
+weiyan_00017
+  rotate: false
+  xy: 473, 379
+  size: 50, 261
+  orig: 85, 425
+  offset: 17, 160
+  index: -1
+weiyan_00018
+  rotate: false
+  xy: 421, 360
+  size: 50, 280
+  orig: 85, 425
+  offset: 17, 142
+  index: -1
+weiyan_00019
+  rotate: false
+  xy: 366, 83
+  size: 50, 284
+  orig: 85, 425
+  offset: 17, 140
+  index: -1
+weiyan_00020
+  rotate: false
+  xy: 158, 36
+  size: 50, 331
+  orig: 85, 425
+  offset: 17, 94
+  index: -1
+weiyan_00021
+  rotate: false
+  xy: 210, 47
+  size: 50, 320
+  orig: 85, 425
+  offset: 17, 105
+  index: -1
+weiyan_00022
+  rotate: false
+  xy: 54, 17
+  size: 50, 350
+  orig: 85, 425
+  offset: 17, 75
+  index: -1
+weiyan_00023
+  rotate: false
+  xy: 2, 2
+  size: 50, 365
+  orig: 85, 425
+  offset: 17, 60
+  index: -1
+weiyan_00024
+  rotate: false
+  xy: 106, 27
+  size: 50, 340
+  orig: 85, 425
+  offset: 17, 85
+  index: -1
+weiyan_00025
+  rotate: false
+  xy: 262, 56
+  size: 50, 311
+  orig: 85, 425
+  offset: 17, 114
+  index: -1
+weiyan_00026
+  rotate: false
+  xy: 314, 75
+  size: 50, 292
+  orig: 85, 425
+  offset: 16, 132
+  index: -1
+weiyan_00027
+  rotate: false
+  xy: 525, 383
+  size: 52, 257
+  orig: 85, 425
+  offset: 16, 166
+  index: -1
+weiyan_00028
+  rotate: false
+  xy: 418, 102
+  size: 52, 256
+  orig: 85, 425
+  offset: 16, 165
+  index: -1
+weiyan_00029
+  rotate: false
+  xy: 579, 384
+  size: 53, 256
+  orig: 85, 425
+  offset: 16, 165
+  index: -1
+weiyan_00030
+  rotate: false
+  xy: 525, 131
+  size: 51, 250
+  orig: 85, 425
+  offset: 17, 171
+  index: -1
+weiyan_00031
+  rotate: true
+  xy: 314, 22
+  size: 51, 223
+  orig: 85, 425
+  offset: 16, 197
+  index: -1
+主体机身
+  rotate: false
+  xy: 2, 369
+  size: 417, 271
+  orig: 417, 271
+  offset: 0, 0
+  index: -1
+圆炮口
+  rotate: false
+  xy: 539, 45
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+大炮筒
+  rotate: true
+  xy: 525, 84
+  size: 45, 59
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+小炮筒
+  rotate: false
+  xy: 586, 93
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1

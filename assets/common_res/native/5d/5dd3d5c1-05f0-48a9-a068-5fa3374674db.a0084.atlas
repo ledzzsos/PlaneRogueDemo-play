@@ -1,0 +1,27 @@
+
+zhanlitisheng.png
+size: 922,61
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shutiao2
+  rotate: false
+  xy: 642, 2
+  size: 136, 57
+  orig: 136, 57
+  offset: 0, 0
+  index: -1
+战力
+  rotate: false
+  xy: 780, 25
+  size: 140, 34
+  orig: 140, 34
+  offset: 0, 0
+  index: -1
+战力bg2
+  rotate: false
+  xy: 2, 2
+  size: 638, 57
+  orig: 638, 57
+  offset: 0, 0
+  index: -1

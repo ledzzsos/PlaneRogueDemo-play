@@ -1,0 +1,41 @@
+
+161100039.png
+size: 217,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: true
+  xy: 120, 2
+  size: 92, 95
+  orig: 109, 109
+  offset: 8, 8
+  index: -1
+图层 12
+  rotate: false
+  xy: 2, 137
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+图层 15
+  rotate: true
+  xy: 143, 96
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+图层 16
+  rotate: false
+  xy: 2, 34
+  size: 116, 71
+  orig: 116, 74
+  offset: 0, 2
+  index: -1
+图层 17
+  rotate: false
+  xy: 25, 107
+  size: 116, 50
+  orig: 116, 50
+  offset: 0, 0
+  index: -1

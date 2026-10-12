@@ -1,0 +1,41 @@
+
+Bullet_Aircraft_101000041.png
+size: 347,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cyihba
+  rotate: false
+  xy: 235, 2
+  size: 96, 109
+  orig: 109, 109
+  offset: 7, 0
+  index: -1
+dd01
+  rotate: false
+  xy: 291, 126
+  size: 54, 172
+  orig: 54, 218
+  offset: 0, 23
+  index: -1
+dd02
+  rotate: true
+  xy: 2, 15
+  size: 50, 214
+  orig: 54, 218
+  offset: 1, 1
+  index: -1
+dd03
+  rotate: false
+  xy: 235, 113
+  size: 54, 185
+  orig: 54, 218
+  offset: 0, 16
+  index: -1
+尾焰遮挡光效_00001
+  rotate: false
+  xy: 2, 67
+  size: 231, 231
+  orig: 425, 425
+  offset: 97, 96
+  index: -1

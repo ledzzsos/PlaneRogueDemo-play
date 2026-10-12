@@ -1,0 +1,76 @@
+
+heti_hudun.png
+size: 924,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun_BB_loop/dun_cc_00001
+  rotate: false
+  xy: 555, 167
+  size: 179, 163
+  orig: 218, 218
+  offset: 21, 35
+  index: -1
+dun_BB_loop/dun_cc_00004
+  rotate: false
+  xy: 2, 169
+  size: 177, 161
+  orig: 218, 218
+  offset: 23, 36
+  index: -1
+dun_BB_loop/dun_cc_00007
+  rotate: false
+  xy: 736, 167
+  size: 183, 163
+  orig: 218, 218
+  offset: 17, 35
+  index: -1
+dun_BB_loop/dun_cc_00010
+  rotate: false
+  xy: 2, 3
+  size: 183, 163
+  orig: 218, 218
+  offset: 17, 35
+  index: -1
+dun_BB_loop/dun_cc_00013
+  rotate: false
+  xy: 369, 2
+  size: 181, 163
+  orig: 218, 218
+  offset: 19, 35
+  index: -1
+dun_BB_loop/dun_cc_00016
+  rotate: false
+  xy: 187, 3
+  size: 180, 163
+  orig: 218, 218
+  offset: 20, 35
+  index: -1
+dun_BB_loop/dun_cc_00019
+  rotate: false
+  xy: 552, 2
+  size: 183, 163
+  orig: 218, 218
+  offset: 17, 35
+  index: -1
+dun_BB_loop/dun_cc_00022
+  rotate: false
+  xy: 737, 2
+  size: 185, 163
+  orig: 218, 218
+  offset: 15, 35
+  index: -1
+dun_BB_loop/dun_cc_00025
+  rotate: false
+  xy: 181, 168
+  size: 186, 162
+  orig: 218, 218
+  offset: 14, 35
+  index: -1
+dun_BB_loop/dun_cc_00028
+  rotate: false
+  xy: 369, 167
+  size: 184, 163
+  orig: 218, 218
+  offset: 17, 35
+  index: -1

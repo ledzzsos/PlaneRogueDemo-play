@@ -1,0 +1,20 @@
+
+wsparticle_planefire_001.png
+size: 339,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tx/01fire_00000
+  rotate: false
+  xy: 2, 2
+  size: 213, 162
+  orig: 218, 218
+  offset: 5, 38
+  index: -1
+Tx/01fireglow_00000
+  rotate: true
+  xy: 217, 4
+  size: 160, 120
+  orig: 218, 218
+  offset: 29, 59
+  index: -1

@@ -1,0 +1,20 @@
+
+10014107.png
+size: 237,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 10
+  rotate: true
+  xy: 2, 2
+  size: 117, 150
+  orig: 117, 150
+  offset: 0, 0
+  index: -1
+图层 19
+  rotate: false
+  xy: 2, 121
+  size: 209, 114
+  orig: 209, 114
+  offset: 0, 0
+  index: -1

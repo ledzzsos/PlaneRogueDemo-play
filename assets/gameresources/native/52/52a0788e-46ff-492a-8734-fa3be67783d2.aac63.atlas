@@ -1,0 +1,20 @@
+
+wsparticle_eac_10011028_Fire.png
+size: 26,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_00001
+  rotate: false
+  xy: 19, 2
+  size: 5, 218
+  orig: 27, 218
+  offset: 11, 0
+  index: -1
+B_00001
+  rotate: false
+  xy: 2, 2
+  size: 15, 218
+  orig: 27, 218
+  offset: 6, 0
+  index: -1

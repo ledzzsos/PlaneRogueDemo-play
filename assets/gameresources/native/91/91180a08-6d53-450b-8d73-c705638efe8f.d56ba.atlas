@@ -1,0 +1,55 @@
+
+10011028.png
+size: 164,477
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: true
+  xy: 2, 89
+  size: 92, 95
+  orig: 109, 109
+  offset: 8, 8
+  index: -1
+图层 17 拷贝
+  rotate: false
+  xy: 2, 3
+  size: 51, 51
+  orig: 61, 61
+  offset: 5, 5
+  index: -1
+色阶 572
+  rotate: true
+  xy: 137, 174
+  size: 195, 25
+  orig: 209, 35
+  offset: 7, 0
+  index: -1
+色阶 572 拷贝
+  rotate: true
+  xy: 99, 87
+  size: 85, 59
+  orig: 86, 60
+  offset: 0, 1
+  index: -1
+色阶 572 拷贝 3
+  rotate: false
+  xy: 2, 296
+  size: 136, 179
+  orig: 136, 179
+  offset: 0, 0
+  index: -1
+色阶 574
+  rotate: true
+  xy: 2, 56
+  size: 29, 127
+  orig: 31, 127
+  offset: 0, 0
+  index: -1
+色阶573
+  rotate: false
+  xy: 2, 183
+  size: 133, 111
+  orig: 133, 111
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+boss1_fx_210290120_shot01.png
+size: 191,191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy1
+  rotate: true
+  xy: 146, 13
+  size: 42, 41
+  orig: 43, 43
+  offset: 0, 1
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 2, 107
+  size: 81, 82
+  orig: 83, 84
+  offset: 1, 1
+  index: -1
+tx/sj_00
+  rotate: false
+  xy: 149, 98
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+tx/sj_01
+  rotate: false
+  xy: 99, 13
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+tx/sj_02
+  rotate: false
+  xy: 99, 57
+  size: 48, 60
+  orig: 49, 60
+  offset: 1, 0
+  index: -1
+tx/sj_03
+  rotate: false
+  xy: 85, 120
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+tx/sj_04
+  rotate: false
+  xy: 2, 33
+  size: 51, 72
+  orig: 51, 72
+  offset: 0, 0
+  index: -1
+tx/sj_05
+  rotate: false
+  xy: 137, 119
+  size: 47, 70
+  orig: 48, 70
+  offset: 0, 0
+  index: -1
+tx/sj_06
+  rotate: false
+  xy: 55, 40
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+tx/sj_07
+  rotate: true
+  xy: 2, 2
+  size: 29, 63
+  orig: 30, 63
+  offset: 1, 0
+  index: -1

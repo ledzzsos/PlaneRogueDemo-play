@@ -1,0 +1,76 @@
+
+cangku_mid.png
+size: 987,547
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zj/中间_00010
+  rotate: false
+  xy: 928, 164
+  size: 57, 133
+  orig: 340, 340
+  offset: 113, 172
+  index: -1
+zj/中间_00011
+  rotate: true
+  xy: 440, 8
+  size: 101, 135
+  orig: 340, 340
+  offset: 69, 171
+  index: -1
+zj/中间_00013
+  rotate: true
+  xy: 297, 2
+  size: 107, 141
+  orig: 340, 340
+  offset: 63, 170
+  index: -1
+zj/中间_00015
+  rotate: false
+  xy: 928, 299
+  size: 41, 246
+  orig: 340, 340
+  offset: 129, 70
+  index: -1
+zj/中间_00017
+  rotate: true
+  xy: 306, 111
+  size: 147, 286
+  orig: 340, 340
+  offset: 82, 34
+  index: -1
+zj/中间_00019
+  rotate: true
+  xy: 2, 6
+  size: 237, 293
+  orig: 340, 340
+  offset: 40, 34
+  index: -1
+zj/中间_00021
+  rotate: true
+  xy: 612, 13
+  size: 260, 314
+  orig: 340, 340
+  offset: 45, 21
+  index: -1
+zj/中间_00023
+  rotate: true
+  xy: 612, 275
+  size: 270, 314
+  orig: 340, 340
+  offset: 35, 18
+  index: -1
+zj/中间_00025
+  rotate: true
+  xy: 306, 260
+  size: 285, 304
+  orig: 340, 340
+  offset: 35, 19
+  index: -1
+zj/中间_00026
+  rotate: false
+  xy: 2, 245
+  size: 302, 300
+  orig: 340, 340
+  offset: 19, 20
+  index: -1

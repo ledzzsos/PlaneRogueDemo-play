@@ -1,0 +1,34 @@
+
+fx_bullet_lock01.png
+size: 120,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LOCK ON
+  rotate: false
+  xy: 2, 102
+  size: 116, 16
+  orig: 177, 61
+  offset: 0, 0
+  index: -1
+LOCK ON_01
+  rotate: false
+  xy: 2, 29
+  size: 84, 15
+  orig: 86, 15
+  offset: 1, 0
+  index: -1
+goIr6m
+  rotate: false
+  xy: 58, 46
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+rsj
+  rotate: false
+  xy: 2, 46
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,223 @@
+
+Bullet_Weapon_21061401.png
+size: 1005,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fbxx_01
+  rotate: false
+  xy: 940, 467
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+fbxx_02
+  rotate: false
+  xy: 940, 411
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+fbxx_03
+  rotate: false
+  xy: 843, 85
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+fbxx_04
+  rotate: false
+  xy: 843, 29
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+fbxx_06
+  rotate: false
+  xy: 843, 29
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+fbxx_05
+  rotate: false
+  xy: 199, 88
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+fbxx_07
+  rotate: false
+  xy: 199, 88
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+konglei_bai
+  rotate: false
+  xy: 554, 81
+  size: 105, 106
+  orig: 109, 109
+  offset: 2, 1
+  index: -1
+ring_00000
+  rotate: false
+  xy: 734, 141
+  size: 173, 174
+  orig: 204, 204
+  offset: 15, 14
+  index: -1
+rot_00030
+  rotate: false
+  xy: 382, 189
+  size: 350, 332
+  orig: 709, 710
+  offset: 180, 189
+  index: -1
+sanjiao_00000
+  rotate: false
+  xy: 732, 35
+  size: 109, 104
+  orig: 204, 204
+  offset: 49, 49
+  index: -1
+sd/qz2op72yx_00000
+  rotate: false
+  xy: 199, 16
+  size: 48, 70
+  orig: 109, 109
+  offset: 8, 37
+  index: -1
+sd/qz2op72yx_00001
+  rotate: false
+  xy: 317, 38
+  size: 37, 50
+  orig: 109, 109
+  offset: 10, 50
+  index: -1
+sd/qz2op72yx_00002
+  rotate: true
+  xy: 713, 2
+  size: 31, 39
+  orig: 109, 109
+  offset: 15, 60
+  index: -1
+sd/qz2op72yx_00003
+  rotate: false
+  xy: 899, 13
+  size: 89, 104
+  orig: 109, 109
+  offset: 13, 5
+  index: -1
+sd/qz2op72yx_00004
+  rotate: false
+  xy: 909, 119
+  size: 92, 96
+  orig: 109, 109
+  offset: 10, 3
+  index: -1
+sd/qz2op72yx_00005
+  rotate: true
+  xy: 255, 66
+  size: 76, 50
+  orig: 109, 109
+  offset: 15, 10
+  index: -1
+sd/qz2op72yx_00006
+  rotate: true
+  xy: 307, 90
+  size: 52, 45
+  orig: 109, 109
+  offset: 18, 14
+  index: -1
+sd/qz2op72yx_00007
+  rotate: false
+  xy: 2, 52
+  size: 100, 90
+  orig: 109, 109
+  offset: 9, 3
+  index: -1
+sd/qz2op72yx_00008
+  rotate: false
+  xy: 661, 114
+  size: 69, 73
+  orig: 109, 109
+  offset: 13, 1
+  index: -1
+sd/qz2op72yx_00009
+  rotate: true
+  xy: 249, 19
+  size: 45, 66
+  orig: 109, 109
+  offset: 18, 2
+  index: -1
+sd/qz2op72yx_00010
+  rotate: true
+  xy: 909, 217
+  size: 98, 94
+  orig: 109, 109
+  offset: 11, 8
+  index: -1
+sd/qz2op72yx_00011
+  rotate: false
+  xy: 554, 5
+  size: 85, 74
+  orig: 109, 109
+  offset: 23, 27
+  index: -1
+sd/qz2op72yx_00012
+  rotate: true
+  xy: 754, 8
+  size: 25, 61
+  orig: 109, 109
+  offset: 77, 33
+  index: -1
+sd/qz2op72yx_00013
+  rotate: false
+  xy: 104, 52
+  size: 93, 90
+  orig: 109, 109
+  offset: 8, 6
+  index: -1
+sd/qz2op72yx_00014
+  rotate: true
+  xy: 940, 327
+  size: 82, 35
+  orig: 109, 109
+  offset: 9, 12
+  index: -1
+sd/qz2op72yx_00015
+  rotate: true
+  xy: 977, 379
+  size: 30, 26
+  orig: 109, 109
+  offset: 12, 17
+  index: -1
+waifaguang
+  rotate: true
+  xy: 382, 18
+  size: 169, 170
+  orig: 204, 204
+  offset: 18, 17
+  index: -1
+空雷主题-01
+  rotate: false
+  xy: 734, 317
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+空雷能量光环_00000
+  rotate: true
+  xy: 2, 144
+  size: 377, 378
+  orig: 709, 710
+  offset: 166, 166
+  index: -1
+空雷部件-01
+  rotate: false
+  xy: 661, 10
+  size: 50, 102
+  orig: 54, 102
+  offset: 4, 0
+  index: -1

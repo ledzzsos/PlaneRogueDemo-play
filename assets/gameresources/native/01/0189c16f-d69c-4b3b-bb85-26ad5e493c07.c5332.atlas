@@ -1,0 +1,146 @@
+
+wsparticle_planedead_001.png
+size: 945,699
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 469, 276
+  size: 421, 421
+  orig: 512, 512
+  offset: 46, 45
+  index: -1
+bullet1
+  rotate: false
+  xy: 892, 307
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+bullet2
+  rotate: false
+  xy: 892, 248
+  size: 45, 57
+  orig: 53, 57
+  offset: 4, 0
+  index: -1
+bullet3
+  rotate: false
+  xy: 891, 15
+  size: 52, 52
+  orig: 64, 64
+  offset: 6, 6
+  index: -1
+bullet3_2
+  rotate: false
+  xy: 891, 15
+  size: 52, 52
+  orig: 64, 64
+  offset: 6, 6
+  index: -1
+explode_areal
+  rotate: false
+  xy: 2, 248
+  size: 465, 449
+  orig: 512, 512
+  offset: 23, 34
+  index: -1
+explode_light
+  rotate: false
+  xy: 892, 403
+  size: 31, 30
+  orig: 32, 32
+  offset: 1, 1
+  index: -1
+fire_smog2_0000
+  rotate: false
+  xy: 374, 27
+  size: 83, 92
+  orig: 240, 240
+  offset: 76, 68
+  index: -1
+fire_smog2_0001
+  rotate: false
+  xy: 374, 121
+  size: 91, 100
+  orig: 240, 240
+  offset: 77, 66
+  index: -1
+fire_smog2_0002
+  rotate: false
+  xy: 832, 137
+  size: 109, 109
+  orig: 240, 240
+  offset: 75, 65
+  index: -1
+fire_smog2_0003
+  rotate: false
+  xy: 248, 3
+  size: 124, 116
+  orig: 240, 240
+  offset: 71, 62
+  index: -1
+fire_smog2_0004
+  rotate: false
+  xy: 248, 121
+  size: 121, 125
+  orig: 240, 240
+  offset: 72, 62
+  index: -1
+fire_smog2_0005
+  rotate: false
+  xy: 725, 21
+  size: 113, 114
+  orig: 240, 240
+  offset: 72, 76
+  index: -1
+fire_smog2_0006
+  rotate: false
+  xy: 725, 137
+  size: 105, 114
+  orig: 240, 240
+  offset: 75, 76
+  index: -1
+light
+  rotate: false
+  xy: 840, 10
+  size: 49, 125
+  orig: 64, 128
+  offset: 7, 1
+  index: -1
+part
+  rotate: false
+  xy: 891, 69
+  size: 44, 66
+  orig: 47, 71
+  offset: 2, 3
+  index: -1
+particle
+  rotate: false
+  xy: 371, 238
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+smog_light
+  rotate: false
+  xy: 892, 355
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+sound_wave_0001
+  rotate: true
+  xy: 469, 21
+  size: 253, 254
+  orig: 256, 256
+  offset: 3, 2
+  index: -1
+sound_wave_0002
+  rotate: false
+  xy: 2, 2
+  size: 244, 244
+  orig: 256, 256
+  offset: 6, 6
+  index: -1

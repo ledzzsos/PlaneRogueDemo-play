@@ -1,0 +1,62 @@
+
+wingPlane_20220001.png
+size: 1010,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+am_00000
+  rotate: false
+  xy: 2, 5
+  size: 159, 182
+  orig: 162, 204
+  offset: 2, 22
+  index: -1
+am_00001
+  rotate: false
+  xy: 163, 10
+  size: 161, 177
+  orig: 162, 204
+  offset: 1, 21
+  index: -1
+am_00002
+  rotate: false
+  xy: 326, 13
+  size: 161, 174
+  orig: 162, 204
+  offset: 1, 21
+  index: -1
+am_00003
+  rotate: false
+  xy: 489, 14
+  size: 161, 173
+  orig: 162, 204
+  offset: 1, 21
+  index: -1
+am_00004
+  rotate: false
+  xy: 652, 15
+  size: 161, 172
+  orig: 162, 204
+  offset: 1, 21
+  index: -1
+yzxj 拷贝
+  rotate: false
+  xy: 975, 118
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+图层 1 拷贝
+  rotate: true
+  xy: 941, 158
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+图层 6 拷贝
+  rotate: false
+  xy: 815, 3
+  size: 159, 185
+  orig: 162, 204
+  offset: 2, 19
+  index: -1

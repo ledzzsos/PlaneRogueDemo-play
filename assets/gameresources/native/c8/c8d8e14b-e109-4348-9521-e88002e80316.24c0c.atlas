@@ -1,0 +1,41 @@
+
+wsparticle_eac_10011019_Fire.png
+size: 387,387
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gs
+  rotate: true
+  xy: 229, 78
+  size: 307, 62
+  orig: 335, 68
+  offset: 0, 3
+  index: -1
+tx/gy2
+  rotate: false
+  xy: 160, 115
+  size: 43, 43
+  orig: 44, 43
+  offset: 1, 0
+  index: -1
+tx/gy4
+  rotate: false
+  xy: 2, 2
+  size: 156, 156
+  orig: 177, 174
+  offset: 11, 9
+  index: -1
+tx/gy5
+  rotate: false
+  xy: 160, 70
+  size: 43, 43
+  orig: 44, 43
+  offset: 1, 0
+  index: -1
+tx/quan2
+  rotate: false
+  xy: 2, 160
+  size: 225, 225
+  orig: 234, 233
+  offset: 4, 4
+  index: -1

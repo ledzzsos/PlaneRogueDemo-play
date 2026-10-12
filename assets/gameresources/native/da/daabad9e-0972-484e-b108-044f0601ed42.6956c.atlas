@@ -1,0 +1,41 @@
+
+fx_Weapon_20060001_shot01.png
+size: 226,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tx/fire_00000
+  rotate: false
+  xy: 2, 2
+  size: 54, 75
+  orig: 85, 170
+  offset: 15, 60
+  index: -1
+Tx/fire_00001
+  rotate: false
+  xy: 58, 2
+  size: 54, 75
+  orig: 85, 170
+  offset: 15, 60
+  index: -1
+Tx/fire_00002
+  rotate: false
+  xy: 58, 2
+  size: 54, 75
+  orig: 85, 170
+  offset: 15, 60
+  index: -1
+Tx/fire_00003
+  rotate: false
+  xy: 114, 2
+  size: 54, 75
+  orig: 85, 170
+  offset: 15, 60
+  index: -1
+Tx/fire_00004
+  rotate: false
+  xy: 170, 2
+  size: 54, 75
+  orig: 85, 170
+  offset: 15, 60
+  index: -1

@@ -1,0 +1,153 @@
+
+Bullet_Weapon_21060801_01.png
+size: 497,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_00000
+  rotate: false
+  xy: 210, 101
+  size: 134, 132
+  orig: 170, 173
+  offset: 18, 21
+  index: -1
+images/kzt_01
+  rotate: true
+  xy: 235, 440
+  size: 55, 57
+  orig: 72, 72
+  offset: 10, 0
+  index: -1
+images/kzt_02
+  rotate: false
+  xy: 93, 454
+  size: 46, 41
+  orig: 73, 72
+  offset: 19, 18
+  index: -1
+images/kzt_03
+  rotate: true
+  xy: 188, 451
+  size: 44, 45
+  orig: 72, 72
+  offset: 7, 8
+  index: -1
+images/kzt_04
+  rotate: true
+  xy: 358, 433
+  size: 62, 72
+  orig: 72, 73
+  offset: 5, 1
+  index: -1
+images/kzt_05
+  rotate: true
+  xy: 294, 440
+  size: 55, 62
+  orig: 73, 73
+  offset: 8, 3
+  index: -1
+images/kzt_06
+  rotate: true
+  xy: 432, 433
+  size: 62, 63
+  orig: 72, 73
+  offset: 5, 5
+  index: -1
+images/kzt_07
+  rotate: false
+  xy: 2, 466
+  size: 29, 29
+  orig: 72, 72
+  offset: 21, 15
+  index: -1
+images/kzt_08
+  rotate: false
+  xy: 141, 454
+  size: 45, 41
+  orig: 73, 72
+  offset: 8, 9
+  index: -1
+images/kzt_09
+  rotate: true
+  xy: 33, 457
+  size: 38, 58
+  orig: 72, 72
+  offset: 7, 11
+  index: -1
+rot/环绕圆环_00000
+  rotate: false
+  xy: 2, 153
+  size: 102, 102
+  orig: 128, 128
+  offset: 13, 13
+  index: -1
+rot/环绕圆环_00003
+  rotate: true
+  xy: 216, 242
+  size: 98, 105
+  orig: 128, 128
+  offset: 15, 11
+  index: -1
+rot/环绕圆环_00006
+  rotate: true
+  xy: 2, 356
+  size: 96, 106
+  orig: 128, 128
+  offset: 16, 11
+  index: -1
+rot/环绕圆环_00009
+  rotate: true
+  xy: 110, 353
+  size: 96, 106
+  orig: 128, 128
+  offset: 16, 11
+  index: -1
+rot/环绕圆环_00012
+  rotate: true
+  xy: 2, 257
+  size: 97, 105
+  orig: 128, 128
+  offset: 15, 11
+  index: -1
+rot/环绕圆环_00015
+  rotate: false
+  xy: 106, 150
+  size: 102, 102
+  orig: 128, 128
+  offset: 13, 13
+  index: -1
+rot/环绕圆环_00018
+  rotate: false
+  xy: 323, 235
+  size: 105, 98
+  orig: 128, 128
+  offset: 11, 15
+  index: -1
+rot/环绕圆环_00021
+  rotate: false
+  xy: 218, 342
+  size: 106, 96
+  orig: 128, 128
+  offset: 11, 16
+  index: -1
+rot/环绕圆环_00024
+  rotate: false
+  xy: 326, 335
+  size: 106, 96
+  orig: 128, 128
+  offset: 11, 16
+  index: -1
+rot/环绕圆环_00027
+  rotate: false
+  xy: 109, 254
+  size: 105, 97
+  orig: 128, 128
+  offset: 11, 16
+  index: -1
+电极磁吸 -01
+  rotate: false
+  xy: 346, 98
+  size: 140, 135
+  orig: 170, 173
+  offset: 15, 19
+  index: -1

@@ -1,0 +1,137 @@
+
+wsparticle_enemydead_004.png
+size: 998,820
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_00000
+  rotate: true
+  xy: 85, 718
+  size: 100, 108
+  orig: 459, 459
+  offset: 181, 179
+  index: -1
+0_00001
+  rotate: true
+  xy: 483, 634
+  size: 184, 193
+  orig: 459, 459
+  offset: 142, 123
+  index: -1
+0_00002
+  rotate: true
+  xy: 272, 378
+  size: 254, 272
+  orig: 459, 459
+  offset: 106, 99
+  index: -1
+0_00003
+  rotate: true
+  xy: 336, 30
+  size: 303, 310
+  orig: 459, 459
+  offset: 82, 73
+  index: -1
+0_00008
+  rotate: true
+  xy: 648, 2
+  size: 331, 348
+  orig: 459, 459
+  offset: 68, 49
+  index: -1
+0_00010
+  rotate: false
+  xy: 2, 75
+  size: 332, 301
+  orig: 459, 459
+  offset: 65, 95
+  index: -1
+0_00011
+  rotate: false
+  xy: 546, 335
+  size: 285, 269
+  orig: 459, 459
+  offset: 109, 94
+  index: -1
+0_00012
+  rotate: true
+  xy: 2, 469
+  size: 239, 268
+  orig: 459, 459
+  offset: 114, 93
+  index: -1
+0_00013
+  rotate: true
+  xy: 678, 606
+  size: 212, 261
+  orig: 459, 459
+  offset: 119, 97
+  index: -1
+0_00014
+  rotate: false
+  xy: 307, 672
+  size: 174, 146
+  orig: 459, 459
+  offset: 150, 152
+  index: -1
+0_00015
+  rotate: false
+  xy: 195, 710
+  size: 110, 108
+  orig: 459, 459
+  offset: 181, 169
+  index: -1
+0_00016
+  rotate: false
+  xy: 2, 744
+  size: 81, 74
+  orig: 459, 459
+  offset: 198, 184
+  index: -1
+
+wsparticle_enemydead_0042.png
+size: 710,689
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_00004
+  rotate: true
+  xy: 2, 350
+  size: 337, 338
+  orig: 459, 459
+  offset: 65, 40
+  index: -1
+0_00006
+  rotate: false
+  xy: 2, 8
+  size: 356, 339
+  orig: 459, 459
+  offset: 64, 49
+  index: -1
+0_00007
+  rotate: false
+  xy: 342, 349
+  size: 351, 338
+  orig: 459, 459
+  offset: 61, 54
+  index: -1
+0_00009
+  rotate: true
+  xy: 360, 2
+  size: 345, 348
+  orig: 459, 459
+  offset: 54, 54
+  index: -1
+
+wsparticle_enemydead_0043.png
+size: 377,373
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_00005
+  rotate: false
+  xy: 2, 2
+  size: 373, 369
+  orig: 459, 459
+  offset: 53, 24
+  index: -1

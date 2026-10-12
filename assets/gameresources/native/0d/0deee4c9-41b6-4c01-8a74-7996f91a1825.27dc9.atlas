@@ -1,0 +1,97 @@
+
+FX_BULLET_missile_hit.png
+size: 668,938
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ring_01
+  rotate: false
+  xy: 2, 693
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+dy_00000
+  rotate: false
+  xy: 465, 458
+  size: 123, 119
+  orig: 243, 243
+  offset: 61, 63
+  index: -1
+dy_00001
+  rotate: false
+  xy: 465, 579
+  size: 162, 147
+  orig: 243, 243
+  offset: 45, 58
+  index: -1
+dy_00002
+  rotate: false
+  xy: 460, 24
+  size: 185, 192
+  orig: 243, 243
+  offset: 36, 28
+  index: -1
+dy_00003
+  rotate: false
+  xy: 464, 227
+  size: 193, 219
+  orig: 243, 243
+  offset: 37, 13
+  index: -1
+dy_00004
+  rotate: false
+  xy: 247, 683
+  size: 211, 231
+  orig: 243, 243
+  offset: 25, 4
+  index: -1
+dy_00005
+  rotate: true
+  xy: 2, 2
+  size: 215, 238
+  orig: 243, 243
+  offset: 16, 0
+  index: -1
+dy_00006
+  rotate: false
+  xy: 242, 218
+  size: 220, 228
+  orig: 243, 243
+  offset: 8, 0
+  index: -1
+dy_00007
+  rotate: false
+  xy: 2, 219
+  size: 235, 227
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+dy_00008
+  rotate: true
+  xy: 247, 449
+  size: 232, 216
+  orig: 243, 243
+  offset: 11, 0
+  index: -1
+dy_00009
+  rotate: false
+  xy: 242, 8
+  size: 216, 208
+  orig: 243, 243
+  offset: 27, 0
+  index: -1
+p_line
+  rotate: true
+  xy: 460, 728
+  size: 208, 206
+  orig: 243, 243
+  offset: 15, 18
+  index: -1
+ring
+  rotate: false
+  xy: 2, 448
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1

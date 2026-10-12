@@ -1,0 +1,82 @@
+
+UI_warning.png
+size: 1010,967
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+data
+  rotate: false
+  xy: 642, 912
+  size: 242, 53
+  orig: 242, 53
+  offset: 0, 0
+  index: -1
+data01
+  rotate: false
+  xy: 2, 860
+  size: 242, 53
+  orig: 242, 53
+  offset: 0, 0
+  index: -1
+j01
+  rotate: false
+  xy: 246, 780
+  size: 638, 130
+  orig: 638, 143
+  offset: 0, 1
+  index: -1
+j02
+  rotate: false
+  xy: 2, 2
+  size: 638, 285
+  orig: 638, 288
+  offset: 0, 3
+  index: -1
+j03
+  rotate: false
+  xy: 370, 289
+  size: 638, 251
+  orig: 638, 256
+  offset: 0, 1
+  index: -1
+warning
+  rotate: false
+  xy: 2, 641
+  size: 536, 137
+  orig: 549, 147
+  offset: 6, 4
+  index: -1
+yujingtiao
+  rotate: false
+  xy: 2, 915
+  size: 638, 50
+  orig: 638, 50
+  offset: 0, 0
+  index: -1
+名字底
+  rotate: false
+  xy: 540, 542
+  size: 366, 236
+  orig: 372, 248
+  offset: 0, 4
+  index: -1
+名字底01
+  rotate: false
+  xy: 2, 403
+  size: 366, 236
+  orig: 372, 248
+  offset: 0, 4
+  index: -1
+
+UI_warning2.png
+size: 642,782
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 638, 778
+  orig: 638, 796
+  offset: 0, 17
+  index: -1

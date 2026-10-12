@@ -1,0 +1,90 @@
+
+fx_common_dodge.png
+size: 961,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+action3_00
+  rotate: false
+  xy: 2, 2
+  size: 212, 212
+  orig: 418, 418
+  offset: 103, 103
+  index: -1
+action3_01
+  rotate: false
+  xy: 2, 216
+  size: 306, 306
+  orig: 418, 418
+  offset: 56, 56
+  index: -1
+action3_02
+  rotate: false
+  xy: 546, 366
+  size: 254, 156
+  orig: 418, 418
+  offset: 82, 133
+  index: -1
+action3_03
+  rotate: false
+  xy: 546, 204
+  size: 244, 160
+  orig: 418, 418
+  offset: 87, 127
+  index: -1
+action3_04
+  rotate: true
+  xy: 802, 290
+  size: 232, 153
+  orig: 418, 418
+  offset: 93, 131
+  index: -1
+action3_05
+  rotate: true
+  xy: 216, 20
+  size: 194, 147
+  orig: 418, 418
+  offset: 119, 131
+  index: -1
+action3_06
+  rotate: true
+  xy: 365, 25
+  size: 190, 145
+  orig: 418, 418
+  offset: 122, 133
+  index: -1
+action3_07
+  rotate: false
+  xy: 512, 61
+  size: 171, 141
+  orig: 418, 418
+  offset: 138, 139
+  index: -1
+action3_08
+  rotate: false
+  xy: 685, 62
+  size: 135, 140
+  orig: 418, 418
+  offset: 138, 139
+  index: -1
+action3_09
+  rotate: false
+  xy: 822, 150
+  size: 135, 138
+  orig: 418, 418
+  offset: 138, 141
+  index: -1
+action3_10
+  rotate: true
+  xy: 822, 14
+  size: 134, 137
+  orig: 418, 418
+  offset: 138, 142
+  index: -1
+shanbi
+  rotate: false
+  xy: 310, 217
+  size: 234, 305
+  orig: 244, 325
+  offset: 10, 9
+  index: -1

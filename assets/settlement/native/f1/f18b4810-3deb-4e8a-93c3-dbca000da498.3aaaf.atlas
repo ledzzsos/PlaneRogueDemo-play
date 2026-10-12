@@ -1,0 +1,321 @@
+
+tiaozhanchenggong_01.png
+size: 1009,898
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/small_point/pointxx_00000
+  rotate: false
+  xy: 254, 78
+  size: 26, 26
+  orig: 116, 91
+  offset: 45, 20
+  index: -1
+images/small_point/pointxx_00001
+  rotate: false
+  xy: 880, 187
+  size: 35, 35
+  orig: 116, 91
+  offset: 41, 15
+  index: -1
+images/small_point/pointxx_00002
+  rotate: false
+  xy: 902, 387
+  size: 48, 46
+  orig: 116, 91
+  offset: 34, 11
+  index: -1
+images/small_point/pointxx_00003
+  rotate: false
+  xy: 651, 44
+  size: 58, 53
+  orig: 116, 91
+  offset: 29, 8
+  index: -1
+images/small_point/pointxx_00004
+  rotate: true
+  xy: 589, 14
+  size: 65, 60
+  orig: 116, 91
+  offset: 26, 8
+  index: -1
+images/small_point/pointxx_00005
+  rotate: false
+  xy: 927, 594
+  size: 80, 65
+  orig: 116, 91
+  offset: 18, 8
+  index: -1
+images/small_point/pointxx_00006
+  rotate: false
+  xy: 709, 570
+  size: 86, 64
+  orig: 116, 91
+  offset: 15, 12
+  index: -1
+images/small_point/pointxx_00007
+  rotate: true
+  xy: 290, 2
+  size: 102, 68
+  orig: 116, 91
+  offset: 7, 16
+  index: -1
+images/small_point/pointxx_00008
+  rotate: true
+  xy: 569, 81
+  size: 110, 72
+  orig: 116, 91
+  offset: 3, 16
+  index: -1
+images/small_point/pointxx_00009
+  rotate: false
+  xy: 643, 99
+  size: 116, 69
+  orig: 116, 91
+  offset: 0, 22
+  index: -1
+images/关
+  rotate: false
+  xy: 952, 388
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+images/失败徽章
+  rotate: true
+  xy: 2, 78
+  size: 486, 250
+  orig: 492, 257
+  offset: 3, 3
+  index: -1
+images/徽章拆分/光
+  rotate: false
+  xy: 469, 636
+  size: 319, 260
+  orig: 319, 285
+  offset: 0, 25
+  index: -1
+images/徽章拆分/光点2
+  rotate: false
+  xy: 2, 566
+  size: 465, 330
+  orig: 465, 362
+  offset: 0, 32
+  index: -1
+images/徽章拆分/失败光点
+  rotate: true
+  xy: 964, 681
+  size: 215, 39
+  orig: 215, 39
+  offset: 0, 0
+  index: -1
+images/徽章拆分/徽章-中心
+  rotate: false
+  xy: 254, 356
+  size: 173, 208
+  orig: 173, 208
+  offset: 0, 0
+  index: -1
+images/徽章拆分/徽章-底衬
+  rotate: false
+  xy: 455, 2
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1
+images/徽章拆分/徽章-底衬01
+  rotate: false
+  xy: 522, 2
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1
+images/徽章拆分/徽章-翅膀1
+  rotate: true
+  xy: 360, 10
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+images/徽章拆分/徽章-翅膀2
+  rotate: true
+  xy: 902, 435
+  size: 134, 95
+  orig: 134, 95
+  offset: 0, 0
+  index: -1
+images/徽章拆分/徽章-翅膀3
+  rotate: false
+  xy: 797, 571
+  size: 128, 82
+  orig: 128, 82
+  offset: 0, 0
+  index: -1
+images/徽章拆分/胜利光点
+  rotate: true
+  xy: 528, 145
+  size: 215, 39
+  orig: 215, 39
+  offset: 0, 0
+  index: -1
+images/挑战失败
+  rotate: true
+  xy: 398, 116
+  size: 238, 62
+  orig: 238, 62
+  offset: 0, 0
+  index: -1
+images/挑战成功
+  rotate: false
+  xy: 469, 570
+  size: 238, 64
+  orig: 238, 64
+  offset: 0, 0
+  index: -1
+images/通过-
+  rotate: false
+  xy: 921, 21
+  size: 86, 45
+  orig: 86, 45
+  offset: 0, 0
+  index: -1
+images/闯关失败
+  rotate: true
+  xy: 332, 117
+  size: 237, 64
+  orig: 237, 64
+  offset: 0, 0
+  index: -1
+images/闯关成功
+  rotate: true
+  xy: 462, 125
+  size: 235, 64
+  orig: 235, 64
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 711, 67
+  size: 30, 30
+  orig: 33, 32
+  offset: 2, 1
+  index: -1
+xx/bsg0001
+  rotate: false
+  xy: 198, 2
+  size: 90, 74
+  orig: 254, 101
+  offset: 74, 16
+  index: -1
+xx/bsg0002
+  rotate: true
+  xy: 921, 68
+  size: 154, 71
+  orig: 254, 101
+  offset: 49, 15
+  index: -1
+xx/bsg0003
+  rotate: false
+  xy: 2, 2
+  size: 194, 74
+  orig: 254, 101
+  offset: 29, 15
+  index: -1
+xx/bsg0004
+  rotate: true
+  xy: 877, 661
+  size: 235, 85
+  orig: 254, 101
+  offset: 8, 10
+  index: -1
+xx/bsg0005
+  rotate: true
+  xy: 790, 655
+  size: 241, 85
+  orig: 254, 101
+  offset: 6, 11
+  index: -1
+xx/bsg0006
+  rotate: true
+  xy: 254, 106
+  size: 248, 76
+  orig: 254, 101
+  offset: 2, 15
+  index: -1
+xx/xxxx0001
+  rotate: true
+  xy: 880, 224
+  size: 155, 99
+  orig: 213, 134
+  offset: 29, 12
+  index: -1
+xx/xxxx0002
+  rotate: true
+  xy: 763, 2
+  size: 171, 107
+  orig: 213, 134
+  offset: 20, 12
+  index: -1
+xx/xxxx0003
+  rotate: true
+  xy: 786, 381
+  size: 187, 114
+  orig: 213, 134
+  offset: 14, 11
+  index: -1
+xx/xxxx0004
+  rotate: true
+  xy: 644, 170
+  size: 195, 117
+  orig: 213, 134
+  offset: 9, 10
+  index: -1
+xx/xxxx0005
+  rotate: true
+  xy: 547, 368
+  size: 200, 118
+  orig: 213, 134
+  offset: 6, 9
+  index: -1
+xx/xxxx0006
+  rotate: true
+  xy: 667, 367
+  size: 201, 117
+  orig: 213, 134
+  offset: 4, 7
+  index: -1
+xx/xxxx0007
+  rotate: true
+  xy: 429, 362
+  size: 202, 116
+  orig: 213, 134
+  offset: 6, 5
+  index: -1
+xx/xxxx0008
+  rotate: true
+  xy: 763, 175
+  size: 190, 115
+  orig: 213, 134
+  offset: 17, 5
+  index: -1
+xx/xxxx0009
+  rotate: true
+  xy: 569, 193
+  size: 173, 73
+  orig: 213, 134
+  offset: 20, 28
+  index: -1
+xx/xxxx0010
+  rotate: true
+  xy: 872, 9
+  size: 164, 47
+  orig: 213, 134
+  offset: 25, 48
+  index: -1
+xx/xxxx0011
+  rotate: false
+  xy: 429, 357
+  size: 3, 3
+  orig: 213, 134
+  offset: 146, 53
+  index: -1

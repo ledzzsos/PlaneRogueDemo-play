@@ -1,0 +1,1401 @@
+{
+  "compressionlevel": -1,
+  "height": 75,
+  "infinite": false,
+  "layers": [
+    {
+      "draworder": "topdown",
+      "id": 2,
+      "name": "map_collide_obj",
+      "objects": [
+        {
+          "height": 0,
+          "id": 99,
+          "name": "",
+          "opacity": 1,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 121
+            },
+            {
+              "x": -440,
+              "y": 559
+            },
+            {
+              "x": -440,
+              "y": 840
+            },
+            {
+              "x": -358,
+              "y": 841
+            },
+            {
+              "x": -80,
+              "y": 1120
+            },
+            {
+              "x": 2,
+              "y": 1121
+            },
+            {
+              "x": 80,
+              "y": 1199
+            },
+            {
+              "x": 80,
+              "y": 1241
+            },
+            {
+              "x": 0,
+              "y": 1320
+            },
+            {
+              "x": -320,
+              "y": 1320
+            },
+            {
+              "x": -320,
+              "y": 1641
+            },
+            {
+              "x": -280,
+              "y": 1679
+            },
+            {
+              "x": -280,
+              "y": 1721
+            },
+            {
+              "x": -320,
+              "y": 1759
+            },
+            {
+              "x": -320,
+              "y": 2121
+            },
+            {
+              "x": -360,
+              "y": 2159
+            },
+            {
+              "x": -360,
+              "y": 2841
+            },
+            {
+              "x": -520,
+              "y": 2999
+            },
+            {
+              "x": -520,
+              "y": 0
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 0,
+          "x": 520,
+          "y": 0
+        },
+        {
+          "height": 0,
+          "id": 100,
+          "name": "",
+          "opacity": 1,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 160,
+              "y": 0
+            },
+            {
+              "x": 160,
+              "y": 2999
+            },
+            {
+              "x": 0,
+              "y": 2840
+            },
+            {
+              "x": 0,
+              "y": 2159
+            },
+            {
+              "x": -40,
+              "y": 2120
+            },
+            {
+              "x": -40,
+              "y": 1759
+            },
+            {
+              "x": -80,
+              "y": 1720
+            },
+            {
+              "x": -80,
+              "y": 1679
+            },
+            {
+              "x": -40,
+              "y": 1641
+            },
+            {
+              "x": -40,
+              "y": 1039
+            },
+            {
+              "x": -160,
+              "y": 920
+            },
+            {
+              "x": -160,
+              "y": 879
+            },
+            {
+              "x": -122,
+              "y": 841
+            },
+            {
+              "x": -40,
+              "y": 840
+            },
+            {
+              "x": -40,
+              "y": 159
+            },
+            {
+              "x": 0,
+              "y": 121
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 0,
+          "x": 800,
+          "y": 0
+        },
+        {
+          "height": 0,
+          "id": 101,
+          "name": "",
+          "opacity": 1,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 40,
+              "y": 39
+            },
+            {
+              "x": 40,
+              "y": 161
+            },
+            {
+              "x": -161,
+              "y": 359
+            },
+            {
+              "x": -280,
+              "y": 239
+            },
+            {
+              "x": -42,
+              "y": 1
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 0,
+          "x": 560,
+          "y": 440
+        },
+        {
+          "height": 0,
+          "id": 102,
+          "name": "",
+          "opacity": 1,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 82,
+              "y": 78
+            },
+            {
+              "x": 82,
+              "y": 120
+            },
+            {
+              "x": 4,
+              "y": 198
+            },
+            {
+              "x": -78,
+              "y": 119
+            },
+            {
+              "x": -78,
+              "y": 78
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 0,
+          "x": 478,
+          "y": 2001
+        },
+        {
+          "height": 0,
+          "id": 103,
+          "name": "",
+          "opacity": 1,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": -41,
+              "y": 38
+            },
+            {
+              "x": -80,
+              "y": -2
+            },
+            {
+              "x": -38,
+              "y": -40
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 0,
+          "x": 400,
+          "y": 2401
+        },
+        {
+          "height": 0,
+          "id": 104,
+          "name": "",
+          "opacity": 1,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": -41,
+              "y": 38
+            },
+            {
+              "x": -80,
+              "y": -2
+            },
+            {
+              "x": -38,
+              "y": -40
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 0,
+          "x": 640,
+          "y": 2401
+        },
+        {
+          "height": 0,
+          "id": 105,
+          "name": "",
+          "opacity": 1,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": -80,
+              "y": 79
+            },
+            {
+              "x": -160,
+              "y": 79
+            },
+            {
+              "x": -240,
+              "y": -1
+            },
+            {
+              "x": -240,
+              "y": -42
+            },
+            {
+              "x": -160,
+              "y": -121
+            },
+            {
+              "x": -80,
+              "y": -121
+            },
+            {
+              "x": 0,
+              "y": -42
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 0,
+          "x": 600,
+          "y": 2761
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "draworder": "topdown",
+      "id": 3,
+      "name": "map_moveable_obj",
+      "objects": [
+        {
+          "height": 0,
+          "id": 42,
+          "name": "doubleDoorRight",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "Count",
+              "type": "int",
+              "value": 1
+            },
+            {
+              "name": "Speed",
+              "type": "int",
+              "value": 100
+            },
+            {
+              "name": "moveEndP",
+              "propertytype": "postion",
+              "type": "class",
+              "value": {
+                "X": 1120,
+                "Y": 1710
+              }
+            },
+            {
+              "name": "moveStartP",
+              "propertytype": "postion",
+              "type": "class",
+              "value": {
+                "X": 960,
+                "Y": 1710
+              }
+            },
+            {
+              "name": "resPrefab",
+              "type": "string",
+              "value": "img_obstacle_wall.png"
+            },
+            {
+              "name": "triggerPosY",
+              "type": "int",
+              "value": 1400
+            },
+            {
+              "name": "triggerWaitTime",
+              "type": "int",
+              "value": 1000
+            }
+          ],
+          "rotation": 0,
+          "type": "moveObject",
+          "visible": true,
+          "width": 0,
+          "x": 960,
+          "y": 1710
+        },
+        {
+          "height": 0,
+          "id": 43,
+          "name": "doubleDoorLeft",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "Count",
+              "type": "int",
+              "value": 1
+            },
+            {
+              "name": "Speed",
+              "type": "int",
+              "value": 100
+            },
+            {
+              "name": "moveEndP",
+              "propertytype": "postion",
+              "type": "class",
+              "value": {
+                "X": -160,
+                "Y": 1710
+              }
+            },
+            {
+              "name": "moveStartP",
+              "propertytype": "postion",
+              "type": "class",
+              "value": {
+                "Y": 1710
+              }
+            },
+            {
+              "name": "resPrefab",
+              "type": "string",
+              "value": "img_obstacle_wall.png"
+            },
+            {
+              "name": "resRotation",
+              "type": "int",
+              "value": 180
+            },
+            {
+              "name": "triggerPosY",
+              "type": "int",
+              "value": 1400
+            }
+          ],
+          "rotation": 0,
+          "type": "moveObject",
+          "visible": true,
+          "width": 0,
+          "x": 0,
+          "y": 1710
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "draworder": "topdown",
+      "id": 4,
+      "name": "map_item_obj",
+      "objects": [
+        {
+          "height": 0,
+          "id": 8,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102003"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 480.666666666667,
+          "y": 2468.33333333334
+        },
+        {
+          "height": 0,
+          "id": 9,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102003"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 480.333333333333,
+          "y": 2360.33333333334
+        },
+        {
+          "height": 0,
+          "id": 10,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102003"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 680.166666666667,
+          "y": 2201.33333333333
+        },
+        {
+          "height": 0,
+          "id": 12,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102003"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 679.833333333333,
+          "y": 2140
+        },
+        {
+          "height": 0,
+          "id": 13,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102003"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 679.666666666667,
+          "y": 2081.33333333333
+        },
+        {
+          "height": 0,
+          "id": 14,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102003"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 481,
+          "y": 2521
+        },
+        {
+          "height": 0,
+          "id": 15,
+          "name": "",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 239,
+          "y": 1410
+        },
+        {
+          "height": 0,
+          "id": 16,
+          "name": "",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 239,
+          "y": 1529
+        },
+        {
+          "height": 0,
+          "id": 19,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 221.25,
+          "y": 721.25
+        },
+        {
+          "height": 0,
+          "id": 20,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 180.5,
+          "y": 720.5
+        },
+        {
+          "height": 0,
+          "id": 22,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 221,
+          "y": 669.75
+        },
+        {
+          "height": 0,
+          "id": 23,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 221,
+          "y": 611
+        },
+        {
+          "height": 0,
+          "id": 24,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 180.75,
+          "y": 610.5
+        },
+        {
+          "height": 0,
+          "id": 25,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 181,
+          "y": 669
+        },
+        {
+          "height": 0,
+          "id": 26,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 417.5,
+          "y": 416
+        },
+        {
+          "height": 0,
+          "id": 27,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 559.5,
+          "y": 278
+        },
+        {
+          "height": 0,
+          "id": 28,
+          "name": "",
+          "opacity": 1,
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 639,
+          "y": 197.5
+        },
+        {
+          "height": 0,
+          "id": 29,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 707.25,
+          "y": 579.5
+        },
+        {
+          "height": 0,
+          "id": 30,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 709.068181818182,
+          "y": 625.454545454545
+        },
+        {
+          "height": 0,
+          "id": 68,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 663,
+          "y": 625.25
+        },
+        {
+          "height": 0,
+          "id": 69,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 662,
+          "y": 580.75
+        },
+        {
+          "height": 0,
+          "id": 70,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 660.5,
+          "y": 530.5
+        },
+        {
+          "height": 0,
+          "id": 71,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 705.75,
+          "y": 530.25
+        },
+        {
+          "height": 0,
+          "id": 72,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 659.75,
+          "y": 480.25
+        },
+        {
+          "height": 0,
+          "id": 73,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 704,
+          "y": 480.5
+        },
+        {
+          "height": 0,
+          "id": 74,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102003"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 479.666666666667,
+          "y": 2414
+        },
+        {
+          "height": 0,
+          "id": 75,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102003"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 680.5,
+          "y": 2248.5
+        },
+        {
+          "height": 0,
+          "id": 76,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102003"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 281.167,
+          "y": 2197.83
+        },
+        {
+          "height": 0,
+          "id": 77,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102003"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 280.833,
+          "y": 2136.5
+        },
+        {
+          "height": 0,
+          "id": 78,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102003"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 280.667,
+          "y": 2077.83
+        },
+        {
+          "height": 0,
+          "id": 79,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102003"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 281.5,
+          "y": 2245
+        },
+        {
+          "height": 0,
+          "id": 80,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 341.5,
+          "y": 499.5
+        },
+        {
+          "height": 0,
+          "id": 81,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 481.5,
+          "y": 355
+        },
+        {
+          "height": 0,
+          "id": 82,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 180.416666666667,
+          "y": 559.833333333333
+        },
+        {
+          "height": 0,
+          "id": 83,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 221.083333333333,
+          "y": 560.583333333333
+        },
+        {
+          "height": 0,
+          "id": 98,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102001"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 721.5,
+          "y": 1400
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "draworder": "topdown",
+      "id": 5,
+      "name": "map_speed_obj",
+      "objects": [
+        {
+          "height": 60,
+          "id": 44,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "speedScale",
+              "type": "float",
+              "value": 1
+            },
+            {
+              "name": "time",
+              "type": "int",
+              "value": 1000
+            }
+          ],
+          "rotation": 0,
+          "type": "speed",
+          "visible": true,
+          "width": 348,
+          "x": 604,
+          "y": 2940
+        },
+        {
+          "height": 66.6666666666667,
+          "id": 106,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "speedScale",
+              "type": "float",
+              "value": 0.5
+            }
+          ],
+          "rotation": 0,
+          "type": "speed",
+          "visible": true,
+          "width": 218.181818181818,
+          "x": 742.424242424242,
+          "y": 1900
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "class": "inOut",
+      "data": [
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 11, 1, 0, 0, 0, 0, 0, 0, 3, 10, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 11, 1, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 11, 1, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 11, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 11, 1, 0, 16, 16, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 11, 1, 0, 0, 16, 16, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 11, 1, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 11, 1, 0, 16, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 11, 1, 0, 0, 16, 16, 0, 0, 0, 3, 8, 4, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 11, 1, 0, 0, 16, 0, 0, 0, 0, 3, 10, 15, 6, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 11, 1, 0, 16, 16, 0, 0, 0, 0, 3, 10, 15, 15, 6, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 6, 0, 0, 16, 16, 0, 0, 0, 3, 10, 15, 15, 15, 6, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 6, 0, 16, 0, 0, 0, 0, 3, 10, 15, 15, 15, 11, 1, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 6, 16, 0, 0, 0, 0, 3, 10, 15, 15, 15, 11, 1, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 6, 16, 0, 0, 0, 0, 2, 12, 15, 15, 11, 1, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 6, 0, 0, 0, 0, 0, 0, 2, 12, 11, 1, 0, 0, 0, 0, 0, 0, 16, 7, 15, 15, 15, 15,
+        15, 6, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 16, 16, 0, 7, 15, 15, 15, 15,
+        15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 0, 7, 15, 15, 15, 15,
+        15, 9, 8, 8, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 8, 8, 10, 15, 15, 15, 15,
+        15, 15, 15, 15, 9, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 9, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 12, 15, 15, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 9, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 12, 15, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 9, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 12, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 9, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 9, 4, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 9, 8, 8, 4, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 9, 4, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 6, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 11, 1, 16, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 11, 5, 5, 5, 5, 5, 5, 5, 5, 1, 0, 16, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 9, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 10, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15, 15,
+        15, 15, 15, 15, 11, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 12, 15, 15, 15, 15,
+        15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 3, 10, 9, 4, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 7, 15, 15, 6, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15,
+        15, 15, 15, 11, 1, 0, 0, 0, 0, 0, 2, 12, 11, 1, 0, 0, 0, 0, 0, 2, 12, 15, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 6, 16, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 6, 16, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 3, 8, 8, 4, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 3, 10, 15, 15, 9, 4, 0, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 2, 12, 15, 15, 11, 1, 0, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 2, 5, 5, 1, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15,
+        15, 15, 11, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 12, 15, 15,
+        15, 11, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 12, 15,
+        11, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 12,
+        6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7
+      ],
+      "height": 75,
+      "id": 1,
+      "name": "maplayer",
+      "opacity": 1,
+      "properties": [
+        {
+          "name": "entryStart",
+          "type": "int",
+          "value": 0
+        },
+        {
+          "name": "entryWidth",
+          "type": "int",
+          "value": 24
+        },
+        {
+          "name": "exitStart",
+          "type": "int",
+          "value": 15
+        },
+        {
+          "name": "exitWidth",
+          "type": "int",
+          "value": 7
+        }
+      ],
+      "type": "tilelayer",
+      "visible": true,
+      "width": 24,
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "nextlayerid": 10,
+  "nextobjectid": 107,
+  "orientation": "orthogonal",
+  "renderorder": "right-down",
+  "tiledversion": "1.12.2",
+  "tileheight": 40,
+  "tilesets": [
+    {
+      "columns": 4,
+      "firstgid": 1,
+      "image": "../texture/Map_Tiled/res_obstacle40.png",
+      "imageheight": 163,
+      "imagewidth": 163,
+      "margin": 0,
+      "name": "res_obstacle40",
+      "spacing": 1,
+      "tilecount": 16,
+      "tileheight": 40,
+      "tilewidth": 40
+    }
+  ],
+  "tilewidth": 40,
+  "type": "map",
+  "version": "1.10",
+  "width": 24
+}

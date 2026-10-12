@@ -1,0 +1,62 @@
+
+fx_Weapon_21061401_die01.png
+size: 766,575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+爆炸/0_00000
+  rotate: false
+  xy: 673, 16
+  size: 91, 160
+  orig: 306, 306
+  offset: 110, 73
+  index: -1
+爆炸/0_00001
+  rotate: false
+  xy: 512, 350
+  size: 219, 223
+  orig: 306, 306
+  offset: 42, 42
+  index: -1
+爆炸/0_00002
+  rotate: true
+  xy: 2, 48
+  size: 261, 260
+  orig: 306, 306
+  offset: 21, 21
+  index: -1
+爆炸/0_00003
+  rotate: false
+  xy: 2, 311
+  size: 260, 262
+  orig: 306, 306
+  offset: 21, 20
+  index: -1
+爆炸/0_00004
+  rotate: false
+  xy: 264, 313
+  size: 246, 260
+  orig: 306, 306
+  offset: 31, 21
+  index: -1
+爆炸/0_00005
+  rotate: false
+  xy: 264, 65
+  size: 230, 246
+  orig: 306, 306
+  offset: 39, 28
+  index: -1
+爆炸/0_00006
+  rotate: true
+  xy: 512, 178
+  size: 170, 236
+  orig: 306, 306
+  offset: 68, 33
+  index: -1
+爆炸/0_00007
+  rotate: true
+  xy: 496, 2
+  size: 174, 175
+  orig: 306, 306
+  offset: 66, 65
+  index: -1

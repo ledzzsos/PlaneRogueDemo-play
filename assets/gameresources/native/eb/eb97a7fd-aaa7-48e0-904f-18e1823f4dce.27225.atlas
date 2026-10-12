@@ -1,0 +1,27 @@
+
+10011019.png
+size: 512,387
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp_00000
+  rotate: false
+  xy: 390, 163
+  size: 98, 98
+  orig: 123, 125
+  offset: 14, 12
+  index: -1
+十字激光炮
+  rotate: true
+  xy: 2, 2
+  size: 383, 386
+  orig: 383, 386
+  offset: 0, 0
+  index: -1
+发光警告标
+  rotate: false
+  xy: 390, 263
+  size: 120, 122
+  orig: 120, 122
+  offset: 0, 0
+  index: -1

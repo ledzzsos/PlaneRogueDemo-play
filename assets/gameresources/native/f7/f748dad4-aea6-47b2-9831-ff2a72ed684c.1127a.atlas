@@ -1,0 +1,20 @@
+
+wsparticle_enemydead_003.png
+size: 566,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bg_glow01
+  rotate: false
+  xy: 2, 2
+  size: 348, 348
+  orig: 348, 348
+  offset: 0, 0
+  index: -1
+images/bg_glow02
+  rotate: false
+  xy: 352, 117
+  size: 212, 233
+  orig: 348, 348
+  offset: 85, 41
+  index: -1

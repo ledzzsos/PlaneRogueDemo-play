@@ -1,0 +1,13 @@
+
+10011046.png
+size: 343,190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+爆炸怪
+  rotate: false
+  xy: 2, 2
+  size: 339, 186
+  orig: 425, 425
+  offset: 42, 121
+  index: -1

@@ -1,0 +1,48 @@
+
+boss4_fx_210290440_shot01.png
+size: 173,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bian
+  rotate: false
+  xy: 2, 41
+  size: 40, 130
+  orig: 47, 138
+  offset: 4, 6
+  index: -1
+bian2
+  rotate: true
+  xy: 2, 2
+  size: 37, 127
+  orig: 63, 163
+  offset: 18, 17
+  index: -1
+dian
+  rotate: false
+  xy: 131, 140
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+liang
+  rotate: false
+  xy: 44, 47
+  size: 91, 91
+  orig: 109, 109
+  offset: 9, 9
+  index: -1
+tiao
+  rotate: false
+  xy: 137, 64
+  size: 20, 74
+  orig: 20, 74
+  offset: 0, 0
+  index: -1
+tiao2
+  rotate: true
+  xy: 44, 150
+  size: 21, 74
+  orig: 31, 74
+  offset: 5, 0
+  index: -1

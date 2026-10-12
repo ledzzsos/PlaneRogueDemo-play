@@ -1,0 +1,41 @@
+
+Out_B.png
+size: 740,740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+冲击波头部A_00000
+  rotate: true
+  xy: 2, 46
+  size: 397, 241
+  orig: 704, 1523
+  offset: 156, 736
+  index: -1
+冲击波头部_out_00000
+  rotate: false
+  xy: 2, 445
+  size: 445, 293
+  orig: 704, 1523
+  offset: 131, 685
+  index: -1
+冲击波头部a_out_00000
+  rotate: false
+  xy: 245, 189
+  size: 196, 254
+  orig: 218, 272
+  offset: 9, 7
+  index: -1
+尾焰_00000
+  rotate: false
+  xy: 443, 69
+  size: 278, 327
+  orig: 425, 425
+  offset: 73, 16
+  index: -1
+尾焰_00001
+  rotate: false
+  xy: 449, 398
+  size: 289, 340
+  orig: 425, 425
+  offset: 70, 9
+  index: -1

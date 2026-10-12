@@ -1,0 +1,34 @@
+
+fx_bullet_shot01.png
+size: 151,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nn1n_01
+  rotate: true
+  xy: 2, 93
+  size: 56, 57
+  orig: 109, 109
+  offset: 27, 26
+  index: -1
+nn1n_02
+  rotate: false
+  xy: 2, 7
+  size: 71, 71
+  orig: 109, 109
+  offset: 19, 19
+  index: -1
+nn1n_03
+  rotate: true
+  xy: 75, 5
+  size: 73, 74
+  orig: 109, 109
+  offset: 18, 17
+  index: -1
+nn1n_04
+  rotate: false
+  xy: 61, 80
+  size: 74, 69
+  orig: 109, 109
+  offset: 17, 17
+  index: -1

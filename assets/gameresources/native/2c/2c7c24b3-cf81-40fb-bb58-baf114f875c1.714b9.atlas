@@ -1,0 +1,138 @@
+
+MainPlaneSkill_10060101_Bullet.png
+size: 1008,945
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AA/wy_00004
+  rotate: true
+  xy: 126, 738
+  size: 205, 295
+  orig: 245, 353
+  offset: 22, 0
+  index: -1
+AA/wy_00006
+  rotate: true
+  xy: 2, 290
+  size: 205, 302
+  orig: 245, 353
+  offset: 22, 0
+  index: -1
+AA/wy_00008
+  rotate: true
+  xy: 306, 237
+  size: 205, 286
+  orig: 245, 353
+  offset: 22, 0
+  index: -1
+AA/wy_00010
+  rotate: false
+  xy: 2, 2
+  size: 205, 286
+  orig: 245, 353
+  offset: 22, 0
+  index: -1
+AA/wy_00012
+  rotate: true
+  xy: 513, 531
+  size: 205, 286
+  orig: 245, 353
+  offset: 22, 0
+  index: -1
+AA/wy_00014
+  rotate: true
+  xy: 717, 738
+  size: 205, 286
+  orig: 245, 353
+  offset: 22, 0
+  index: -1
+AA/wy_00016
+  rotate: false
+  xy: 306, 444
+  size: 205, 292
+  orig: 245, 353
+  offset: 22, 0
+  index: -1
+AA/wy_00018
+  rotate: true
+  xy: 423, 738
+  size: 205, 292
+  orig: 245, 353
+  offset: 22, 0
+  index: -1
+AA/wy_00020
+  rotate: false
+  xy: 594, 243
+  size: 205, 286
+  orig: 245, 353
+  offset: 22, 0
+  index: -1
+AA/wy_00022
+  rotate: true
+  xy: 594, 36
+  size: 205, 286
+  orig: 245, 353
+  offset: 22, 0
+  index: -1
+AA/wy_00024
+  rotate: true
+  xy: 209, 30
+  size: 205, 286
+  orig: 245, 353
+  offset: 22, 0
+  index: -1
+AA/wy_00026
+  rotate: false
+  xy: 801, 450
+  size: 205, 286
+  orig: 245, 353
+  offset: 22, 0
+  index: -1
+图层 3 拷贝
+  rotate: false
+  xy: 2, 497
+  size: 122, 446
+  orig: 122, 446
+  offset: 0, 0
+  index: -1
+
+MainPlaneSkill_10060101_Bullet2.png
+size: 497,623
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AA/wy_00000
+  rotate: false
+  xy: 290, 57
+  size: 205, 276
+  orig: 245, 353
+  offset: 22, 0
+  index: -1
+AA/wy_00002
+  rotate: true
+  xy: 2, 2
+  size: 205, 276
+  orig: 245, 353
+  offset: 22, 0
+  index: -1
+AA/wy_00028
+  rotate: true
+  xy: 2, 416
+  size: 205, 286
+  orig: 245, 353
+  offset: 22, 0
+  index: -1
+AA/wy_00030
+  rotate: false
+  xy: 290, 335
+  size: 205, 286
+  orig: 245, 353
+  offset: 22, 0
+  index: -1
+AA/wy_00032
+  rotate: true
+  xy: 2, 209
+  size: 205, 286
+  orig: 245, 353
+  offset: 22, 0
+  index: -1

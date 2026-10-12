@@ -1,0 +1,27 @@
+
+Bullet_Weapon_21060201.png
+size: 246,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_glow01
+  rotate: false
+  xy: 94, 2
+  size: 113, 113
+  orig: 127, 127
+  offset: 7, 7
+  index: -1
+cyihba
+  rotate: false
+  xy: 94, 117
+  size: 112, 127
+  orig: 127, 127
+  offset: 8, 0
+  index: -1
+火箭弹01_alpha
+  rotate: false
+  xy: 2, 46
+  size: 90, 198
+  orig: 90, 198
+  offset: 0, 0
+  index: -1

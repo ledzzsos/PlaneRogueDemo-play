@@ -1,0 +1,48 @@
+
+fx_Weapon_21060901_miss01.png
+size: 181,181
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tu00001
+  rotate: false
+  xy: 56, 15
+  size: 36, 36
+  orig: 68, 68
+  offset: 16, 16
+  index: -1
+tu00002
+  rotate: false
+  xy: 2, 117
+  size: 62, 62
+  orig: 68, 68
+  offset: 3, 3
+  index: -1
+tu00003
+  rotate: false
+  xy: 2, 53
+  size: 62, 62
+  orig: 68, 68
+  offset: 3, 3
+  index: -1
+tu00004
+  rotate: true
+  xy: 66, 118
+  size: 61, 59
+  orig: 68, 68
+  offset: 4, 6
+  index: -1
+tu00005
+  rotate: false
+  xy: 66, 58
+  size: 59, 58
+  orig: 68, 68
+  offset: 5, 7
+  index: -1
+tu00006
+  rotate: false
+  xy: 2, 2
+  size: 52, 49
+  orig: 68, 68
+  offset: 8, 11
+  index: -1

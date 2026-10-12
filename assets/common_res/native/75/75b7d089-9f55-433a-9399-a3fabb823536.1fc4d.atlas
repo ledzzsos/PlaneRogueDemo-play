@@ -1,0 +1,27 @@
+
+main_box_ef.png
+size: 153,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+可领
+  rotate: false
+  xy: 101, 15
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+宝箱可领
+  rotate: true
+  xy: 101, 43
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+旋转光
+  rotate: false
+  xy: 2, 2
+  size: 97, 96
+  orig: 99, 99
+  offset: 1, 1
+  index: -1

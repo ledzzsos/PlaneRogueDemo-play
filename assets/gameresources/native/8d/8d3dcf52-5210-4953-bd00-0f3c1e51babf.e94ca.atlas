@@ -1,0 +1,20 @@
+
+10011062.png
+size: 334,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1 (9)
+  rotate: true
+  xy: 256, 3
+  size: 206, 76
+  orig: 215, 88
+  offset: 4, 6
+  index: -1
+转向战机
+  rotate: false
+  xy: 2, 2
+  size: 252, 207
+  orig: 252, 207
+  offset: 0, 0
+  index: -1

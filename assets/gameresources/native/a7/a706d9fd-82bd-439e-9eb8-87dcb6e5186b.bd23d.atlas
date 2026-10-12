@@ -1,0 +1,62 @@
+
+boss4_fx_210290430_shot01.png
+size: 170,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pvv5p_00000
+  rotate: false
+  xy: 101, 130
+  size: 36, 38
+  orig: 54, 54
+  offset: 8, 7
+  index: -1
+pvv5p_00001
+  rotate: true
+  xy: 2, 58
+  size: 54, 53
+  orig: 54, 54
+  offset: 0, 1
+  index: -1
+pvv5p_00002
+  rotate: false
+  xy: 2, 114
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+pvv5p_00003
+  rotate: true
+  xy: 2, 2
+  size: 54, 52
+  orig: 54, 54
+  offset: 0, 2
+  index: -1
+pvv5p_00004
+  rotate: true
+  xy: 56, 3
+  size: 53, 51
+  orig: 54, 54
+  offset: 0, 3
+  index: -1
+pvv5p_00005
+  rotate: false
+  xy: 57, 62
+  size: 49, 50
+  orig: 54, 54
+  offset: 0, 4
+  index: -1
+pvv5p_00006
+  rotate: false
+  xy: 58, 122
+  size: 41, 46
+  orig: 54, 54
+  offset: 2, 5
+  index: -1
+pvv5p_00007
+  rotate: false
+  xy: 108, 90
+  size: 34, 38
+  orig: 54, 54
+  offset: 8, 9
+  index: -1

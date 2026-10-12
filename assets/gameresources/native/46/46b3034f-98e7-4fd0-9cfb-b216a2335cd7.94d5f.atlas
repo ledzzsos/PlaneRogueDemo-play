@@ -1,0 +1,174 @@
+
+A_huoliquankai.png
+size: 1002,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj/bj0001
+  rotate: true
+  xy: 2, 17
+  size: 265, 19
+  orig: 318, 22
+  offset: 19, 3
+  index: -1
+bj/bj0002
+  rotate: true
+  xy: 23, 17
+  size: 265, 19
+  orig: 318, 22
+  offset: 19, 3
+  index: -1
+bj/bj0003
+  rotate: true
+  xy: 44, 17
+  size: 265, 19
+  orig: 318, 22
+  offset: 19, 3
+  index: -1
+bj/bj0004
+  rotate: true
+  xy: 65, 17
+  size: 265, 19
+  orig: 318, 22
+  offset: 19, 3
+  index: -1
+guang
+  rotate: false
+  xy: 835, 165
+  size: 117, 117
+  orig: 128, 128
+  offset: 5, 6
+  index: -1
+guang2
+  rotate: false
+  xy: 850, 15
+  size: 117, 117
+  orig: 128, 128
+  offset: 5, 6
+  index: -1
+gyang
+  rotate: true
+  xy: 86, 27
+  size: 255, 105
+  orig: 258, 116
+  offset: 1, 8
+  index: -1
+sp1
+  rotate: false
+  xy: 86, 2
+  size: 25, 23
+  orig: 34, 34
+  offset: 5, 5
+  index: -1
+sp2
+  rotate: false
+  xy: 731, 2
+  size: 28, 24
+  orig: 34, 34
+  offset: 3, 5
+  index: -1
+sp3
+  rotate: true
+  xy: 850, 136
+  size: 27, 25
+  orig: 34, 34
+  offset: 4, 4
+  index: -1
+sp4
+  rotate: false
+  xy: 761, 2
+  size: 27, 24
+  orig: 34, 34
+  offset: 4, 4
+  index: -1
+sp5
+  rotate: false
+  xy: 790, 2
+  size: 26, 24
+  orig: 34, 34
+  offset: 4, 5
+  index: -1
+xs0001
+  rotate: false
+  xy: 731, 28
+  size: 117, 123
+  orig: 173, 162
+  offset: 26, 18
+  index: -1
+xs0002
+  rotate: false
+  xy: 606, 153
+  size: 124, 129
+  orig: 173, 162
+  offset: 24, 17
+  index: -1
+xs0003
+  rotate: false
+  xy: 477, 10
+  size: 127, 132
+  orig: 173, 162
+  offset: 22, 13
+  index: -1
+xs0004
+  rotate: true
+  xy: 193, 3
+  size: 135, 140
+  orig: 173, 162
+  offset: 16, 11
+  index: -1
+xs0005
+  rotate: true
+  xy: 335, 5
+  size: 134, 140
+  orig: 173, 162
+  offset: 15, 13
+  index: -1
+xs0006
+  rotate: false
+  xy: 193, 140
+  size: 137, 142
+  orig: 173, 162
+  offset: 13, 12
+  index: -1
+xs0007
+  rotate: false
+  xy: 332, 141
+  size: 139, 141
+  orig: 173, 162
+  offset: 11, 12
+  index: -1
+xs0008
+  rotate: true
+  xy: 473, 144
+  size: 138, 131
+  orig: 173, 162
+  offset: 10, 14
+  index: -1
+xs0009
+  rotate: true
+  xy: 606, 23
+  size: 128, 123
+  orig: 173, 162
+  offset: 11, 22
+  index: -1
+xs0010
+  rotate: true
+  xy: 732, 164
+  size: 118, 101
+  orig: 173, 162
+  offset: 15, 44
+  index: -1
+xs0011
+  rotate: true
+  xy: 954, 170
+  size: 112, 46
+  orig: 173, 162
+  offset: 21, 51
+  index: -1
+xx0006
+  rotate: false
+  xy: 954, 134
+  size: 34, 34
+  orig: 34, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+Bullet_Weapon_21061301.png
+size: 89,89
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+轨道枪子弹_00000
+  rotate: false
+  xy: 2, 13
+  size: 85, 74
+  orig: 85, 85
+  offset: 0, 6
+  index: -1

@@ -1,0 +1,167 @@
+
+wsparticle_planehit_10100004.png
+size: 464,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/sheet_01
+  rotate: false
+  xy: 431, 218
+  size: 31, 55
+  orig: 109, 109
+  offset: 41, 31
+  index: -1
+images/sheet_02
+  rotate: true
+  xy: 431, 30
+  size: 36, 26
+  orig: 109, 109
+  offset: 33, 39
+  index: -1
+images/sheet_03
+  rotate: true
+  xy: 252, 108
+  size: 73, 71
+  orig: 109, 109
+  offset: 16, 27
+  index: -1
+images/sheet_04
+  rotate: false
+  xy: 191, 3
+  size: 89, 80
+  orig: 109, 109
+  offset: 8, 23
+  index: -1
+images/sheet_05
+  rotate: true
+  xy: 170, 85
+  size: 92, 80
+  orig: 109, 109
+  offset: 6, 23
+  index: -1
+images/sheet_06
+  rotate: true
+  xy: 87, 179
+  size: 94, 82
+  orig: 109, 109
+  offset: 6, 23
+  index: -1
+images/sheet_07
+  rotate: true
+  xy: 2, 178
+  size: 95, 83
+  orig: 109, 109
+  offset: 5, 23
+  index: -1
+images/sheet_08
+  rotate: true
+  xy: 2, 82
+  size: 94, 83
+  orig: 109, 109
+  offset: 6, 23
+  index: -1
+images/sheet_09
+  rotate: true
+  xy: 87, 83
+  size: 94, 81
+  orig: 109, 109
+  offset: 6, 25
+  index: -1
+images/sheet_10
+  rotate: false
+  xy: 96, 2
+  size: 93, 79
+  orig: 109, 109
+  offset: 6, 26
+  index: -1
+images/sheet_11
+  rotate: false
+  xy: 2, 2
+  size: 92, 78
+  orig: 109, 109
+  offset: 6, 27
+  index: -1
+images/sheet_12
+  rotate: true
+  xy: 171, 181
+  size: 92, 76
+  orig: 109, 109
+  offset: 6, 28
+  index: -1
+images/sheet_13
+  rotate: true
+  xy: 249, 183
+  size: 90, 76
+  orig: 109, 109
+  offset: 6, 28
+  index: -1
+images/sheet_14
+  rotate: true
+  xy: 282, 3
+  size: 35, 74
+  orig: 109, 109
+  offset: 58, 29
+  index: -1
+images/sheet_15
+  rotate: true
+  xy: 327, 183
+  size: 33, 71
+  orig: 109, 109
+  offset: 59, 32
+  index: -1
+images/sheet_16
+  rotate: true
+  xy: 358, 17
+  size: 33, 71
+  orig: 109, 109
+  offset: 59, 32
+  index: -1
+pugong/zdsg_00001
+  rotate: true
+  xy: 282, 40
+  size: 66, 62
+  orig: 109, 109
+  offset: 22, 29
+  index: -1
+pugong/zdsg_00002
+  rotate: false
+  xy: 407, 68
+  size: 55, 50
+  orig: 109, 109
+  offset: 22, 32
+  index: -1
+pugong/zdsg_00003
+  rotate: true
+  xy: 325, 116
+  size: 65, 61
+  orig: 109, 109
+  offset: 16, 29
+  index: -1
+pugong/zdsg_00004
+  rotate: true
+  xy: 346, 52
+  size: 62, 59
+  orig: 109, 109
+  offset: 21, 29
+  index: -1
+pugong/zdsg_00005
+  rotate: true
+  xy: 388, 120
+  size: 61, 54
+  orig: 109, 109
+  offset: 19, 29
+  index: -1
+pugong/zdsg_00006
+  rotate: false
+  xy: 327, 223
+  size: 50, 50
+  orig: 109, 109
+  offset: 27, 32
+  index: -1
+pugong/zdsg_00007
+  rotate: false
+  xy: 379, 237
+  size: 36, 36
+  orig: 109, 109
+  offset: 35, 39
+  index: -1

@@ -1,0 +1,96 @@
+
+FX_Bullet_Weapon_21060201_hit.png
+size: 963,932
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BB/boomB_00002
+  rotate: false
+  xy: 326, 471
+  size: 289, 459
+  orig: 510, 638
+  offset: 116, 77
+  index: -1
+BB/boomB_00004
+  rotate: false
+  xy: 2, 2
+  size: 313, 462
+  orig: 510, 638
+  offset: 105, 91
+  index: -1
+BB/boomB_00006
+  rotate: false
+  xy: 317, 3
+  size: 318, 461
+  orig: 510, 638
+  offset: 105, 92
+  index: -1
+BB/boomB_00008
+  rotate: false
+  xy: 2, 466
+  size: 322, 464
+  orig: 510, 638
+  offset: 104, 89
+  index: -1
+BB/boomB_00012
+  rotate: false
+  xy: 617, 477
+  size: 323, 453
+  orig: 510, 638
+  offset: 102, 92
+  index: -1
+BB/boomB_00014
+  rotate: false
+  xy: 637, 35
+  size: 324, 440
+  orig: 510, 638
+  offset: 102, 111
+  index: -1
+
+FX_Bullet_Weapon_21060201_hit2.png
+size: 968,598
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BB/boomB_00000
+  rotate: true
+  xy: 2, 2
+  size: 143, 315
+  orig: 510, 638
+  offset: 174, 82
+  index: -1
+BB/boomB_00010
+  rotate: false
+  xy: 2, 147
+  size: 320, 449
+  orig: 510, 638
+  offset: 104, 88
+  index: -1
+BB/boomB_00016
+  rotate: false
+  xy: 779, 149
+  size: 187, 447
+  orig: 510, 638
+  offset: 176, 110
+  index: -1
+BB/boomB_00018
+  rotate: true
+  xy: 324, 18
+  size: 190, 450
+  orig: 510, 638
+  offset: 175, 109
+  index: -1
+BB/boomB_00020
+  rotate: true
+  xy: 324, 210
+  size: 191, 451
+  orig: 510, 638
+  offset: 174, 108
+  index: -1
+BB/boomB_00022
+  rotate: true
+  xy: 324, 403
+  size: 193, 453
+  orig: 510, 638
+  offset: 174, 109
+  index: -1

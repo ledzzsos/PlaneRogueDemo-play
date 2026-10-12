@@ -1,0 +1,27 @@
+
+10014106.png
+size: 261,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 12 拷贝
+  rotate: false
+  xy: 194, 148
+  size: 65, 111
+  orig: 65, 113
+  offset: 0, 1
+  index: -1
+图层 17 拷贝
+  rotate: false
+  xy: 194, 95
+  size: 51, 51
+  orig: 61, 61
+  offset: 5, 5
+  index: -1
+色阶 530 拷贝 11
+  rotate: false
+  xy: 2, 101
+  size: 190, 158
+  orig: 190, 158
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+Bullet_Weapon_21061401.png
+size: 958,763
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+konglei_bai
+  rotate: true
+  xy: 850, 563
+  size: 105, 106
+  orig: 109, 109
+  offset: 2, 1
+  index: -1
+waifaguang
+  rotate: true
+  xy: 733, 128
+  size: 169, 170
+  orig: 204, 204
+  offset: 18, 17
+  index: -1
+循环/0_00000
+  rotate: true
+  xy: 560, 389
+  size: 124, 115
+  orig: 153, 153
+  offset: 15, 23
+  index: -1
+循环/0_00001
+  rotate: true
+  xy: 498, 263
+  size: 124, 116
+  orig: 153, 153
+  offset: 15, 23
+  index: -1
+循环/0_00002
+  rotate: true
+  xy: 264, 253
+  size: 126, 115
+  orig: 153, 153
+  offset: 13, 23
+  index: -1
+循环/0_00003
+  rotate: true
+  xy: 441, 389
+  size: 124, 117
+  orig: 153, 153
+  offset: 15, 21
+  index: -1
+循环/0_00004
+  rotate: true
+  xy: 381, 253
+  size: 126, 115
+  orig: 153, 153
+  offset: 15, 23
+  index: -1
+循环/0_00005
+  rotate: true
+  xy: 616, 263
+  size: 124, 115
+  orig: 153, 153
+  offset: 15, 23
+  index: -1
+循环/0_00006
+  rotate: true
+  xy: 677, 389
+  size: 124, 115
+  orig: 153, 153
+  offset: 15, 23
+  index: -1
+循环/0_00007
+  rotate: true
+  xy: 733, 533
+  size: 124, 115
+  orig: 153, 153
+  offset: 15, 23
+  index: -1
+循环/0_00008
+  rotate: false
+  xy: 794, 416
+  size: 124, 115
+  orig: 153, 153
+  offset: 15, 23
+  index: -1
+循环/0_00009
+  rotate: false
+  xy: 794, 299
+  size: 124, 115
+  orig: 153, 153
+  offset: 15, 23
+  index: -1
+循环/0_00010
+  rotate: true
+  xy: 643, 2
+  size: 124, 115
+  orig: 153, 153
+  offset: 15, 23
+  index: -1
+循环/0_00011
+  rotate: true
+  xy: 760, 2
+  size: 124, 115
+  orig: 153, 153
+  offset: 15, 23
+  index: -1
+爆炸/0_00000
+  rotate: true
+  xy: 794, 670
+  size: 91, 160
+  orig: 306, 306
+  offset: 110, 73
+  index: -1
+爆炸/0_00001
+  rotate: false
+  xy: 250, 11
+  size: 219, 223
+  orig: 306, 306
+  offset: 42, 42
+  index: -1
+爆炸/0_00002
+  rotate: true
+  xy: 2, 236
+  size: 261, 260
+  orig: 306, 306
+  offset: 21, 21
+  index: -1
+爆炸/0_00003
+  rotate: false
+  xy: 2, 499
+  size: 260, 262
+  orig: 306, 306
+  offset: 21, 20
+  index: -1
+爆炸/0_00004
+  rotate: true
+  xy: 471, 515
+  size: 246, 260
+  orig: 306, 306
+  offset: 31, 21
+  index: -1
+爆炸/0_00005
+  rotate: true
+  xy: 2, 4
+  size: 230, 246
+  orig: 306, 306
+  offset: 39, 28
+  index: -1
+爆炸/0_00006
+  rotate: false
+  xy: 471, 15
+  size: 170, 236
+  orig: 306, 306
+  offset: 68, 33
+  index: -1
+爆炸/0_00007
+  rotate: true
+  xy: 264, 381
+  size: 174, 175
+  orig: 306, 306
+  offset: 66, 65
+  index: -1
+空雷主题-01
+  rotate: false
+  xy: 264, 557
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+空雷部件-01
+  rotate: false
+  xy: 733, 659
+  size: 50, 102
+  orig: 54, 102
+  offset: 4, 0
+  index: -1

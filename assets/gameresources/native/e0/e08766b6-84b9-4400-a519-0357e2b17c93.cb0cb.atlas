@@ -1,0 +1,132 @@
+
+wingPlane_20210001.png
+size: 992,371
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sdd_00001
+  rotate: false
+  xy: 131, 248
+  size: 121, 121
+  orig: 149, 149
+  offset: 14, 14
+  index: -1
+sdd_00002
+  rotate: false
+  xy: 254, 248
+  size: 121, 121
+  orig: 149, 149
+  offset: 14, 14
+  index: -1
+sdd_00003
+  rotate: false
+  xy: 377, 248
+  size: 121, 121
+  orig: 149, 149
+  offset: 14, 14
+  index: -1
+sdd_00004
+  rotate: false
+  xy: 500, 248
+  size: 121, 121
+  orig: 149, 149
+  offset: 14, 14
+  index: -1
+sdd_00005
+  rotate: false
+  xy: 623, 248
+  size: 121, 121
+  orig: 149, 149
+  offset: 14, 14
+  index: -1
+sdd_00006
+  rotate: false
+  xy: 746, 248
+  size: 121, 121
+  orig: 149, 149
+  offset: 14, 14
+  index: -1
+sdd_00007
+  rotate: false
+  xy: 869, 248
+  size: 121, 121
+  orig: 149, 149
+  offset: 14, 14
+  index: -1
+sdd_00008
+  rotate: false
+  xy: 131, 125
+  size: 121, 121
+  orig: 149, 149
+  offset: 14, 14
+  index: -1
+sdd_00009
+  rotate: false
+  xy: 254, 125
+  size: 121, 121
+  orig: 149, 149
+  offset: 14, 14
+  index: -1
+sdd_00010
+  rotate: false
+  xy: 377, 125
+  size: 121, 121
+  orig: 149, 149
+  offset: 14, 14
+  index: -1
+sdd_00011
+  rotate: false
+  xy: 500, 125
+  size: 121, 121
+  orig: 149, 149
+  offset: 14, 14
+  index: -1
+sdd_00012
+  rotate: false
+  xy: 623, 125
+  size: 121, 121
+  orig: 149, 149
+  offset: 14, 14
+  index: -1
+sdd_00013
+  rotate: false
+  xy: 746, 125
+  size: 121, 121
+  orig: 149, 149
+  offset: 14, 14
+  index: -1
+sdd_00014
+  rotate: false
+  xy: 869, 125
+  size: 121, 121
+  orig: 149, 149
+  offset: 14, 14
+  index: -1
+sdd_00015
+  rotate: false
+  xy: 2, 118
+  size: 121, 121
+  orig: 149, 149
+  offset: 14, 14
+  index: -1
+sdd_00016
+  rotate: false
+  xy: 125, 2
+  size: 121, 121
+  orig: 149, 149
+  offset: 14, 14
+  index: -1
+sdd_00017
+  rotate: false
+  xy: 248, 2
+  size: 121, 121
+  orig: 149, 149
+  offset: 14, 14
+  index: -1
+不死鸟
+  rotate: false
+  xy: 2, 241
+  size: 127, 128
+  orig: 128, 128
+  offset: 1, 0
+  index: -1

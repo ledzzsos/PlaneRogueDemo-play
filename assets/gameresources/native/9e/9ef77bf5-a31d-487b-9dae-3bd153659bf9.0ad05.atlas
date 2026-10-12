@@ -1,0 +1,13 @@
+
+boss1_fx_210290120_Warmup01.png
+size: 419,419
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/quan_00000
+  rotate: false
+  xy: 2, 6
+  size: 415, 411
+  orig: 425, 425
+  offset: 10, 14
+  index: -1

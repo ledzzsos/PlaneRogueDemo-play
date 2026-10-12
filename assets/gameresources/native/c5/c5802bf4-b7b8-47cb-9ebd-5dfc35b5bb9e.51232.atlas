@@ -1,0 +1,62 @@
+
+Fx_Bullet_wingPlane_210706001_muzzle.png
+size: 786,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+火光_00001
+  rotate: false
+  xy: 301, 3
+  size: 95, 110
+  orig: 122, 122
+  offset: 13, 8
+  index: -1
+火光_00002
+  rotate: false
+  xy: 2, 2
+  size: 98, 111
+  orig: 122, 122
+  offset: 12, 7
+  index: -1
+火光_00003
+  rotate: false
+  xy: 102, 2
+  size: 98, 111
+  orig: 122, 122
+  offset: 12, 7
+  index: -1
+火光_00004
+  rotate: false
+  xy: 202, 3
+  size: 97, 110
+  orig: 122, 122
+  offset: 12, 8
+  index: -1
+火光_00005
+  rotate: false
+  xy: 398, 3
+  size: 95, 110
+  orig: 122, 122
+  offset: 13, 8
+  index: -1
+火光_00006
+  rotate: false
+  xy: 495, 3
+  size: 95, 110
+  orig: 122, 122
+  offset: 13, 8
+  index: -1
+火光_00007
+  rotate: false
+  xy: 592, 3
+  size: 95, 110
+  orig: 122, 122
+  offset: 13, 8
+  index: -1
+火光_00008
+  rotate: false
+  xy: 689, 3
+  size: 95, 110
+  orig: 122, 122
+  offset: 13, 8
+  index: -1

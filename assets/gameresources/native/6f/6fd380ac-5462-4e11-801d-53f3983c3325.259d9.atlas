@@ -1,0 +1,76 @@
+
+boss5_Bullet_210290500.png
+size: 878,659
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+光球C_00021
+  rotate: false
+  xy: 2, 221
+  size: 217, 217
+  orig: 218, 218
+  offset: 0, 1
+  index: -1
+光球C_00023
+  rotate: false
+  xy: 221, 440
+  size: 217, 217
+  orig: 218, 218
+  offset: 0, 1
+  index: -1
+光球C_00025
+  rotate: false
+  xy: 2, 2
+  size: 217, 217
+  orig: 218, 218
+  offset: 0, 1
+  index: -1
+光球C_00027
+  rotate: false
+  xy: 221, 221
+  size: 217, 217
+  orig: 218, 218
+  offset: 0, 1
+  index: -1
+光球C_00029
+  rotate: false
+  xy: 440, 440
+  size: 217, 217
+  orig: 218, 218
+  offset: 0, 1
+  index: -1
+光球C_00031
+  rotate: false
+  xy: 221, 2
+  size: 217, 217
+  orig: 218, 218
+  offset: 0, 1
+  index: -1
+光球C_00033
+  rotate: false
+  xy: 440, 221
+  size: 217, 217
+  orig: 218, 218
+  offset: 0, 1
+  index: -1
+光球C_00035
+  rotate: false
+  xy: 659, 440
+  size: 217, 217
+  orig: 218, 218
+  offset: 0, 1
+  index: -1
+光球C_00037
+  rotate: false
+  xy: 440, 2
+  size: 217, 217
+  orig: 218, 218
+  offset: 0, 1
+  index: -1
+光球C_00039
+  rotate: false
+  xy: 2, 440
+  size: 217, 217
+  orig: 218, 218
+  offset: 0, 1
+  index: -1

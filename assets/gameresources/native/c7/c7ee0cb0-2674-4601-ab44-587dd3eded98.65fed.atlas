@@ -1,0 +1,48 @@
+
+10011017.png
+size: 350,89
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jb01
+  rotate: false
+  xy: 324, 2
+  size: 24, 85
+  orig: 89, 85
+  offset: 32, 0
+  index: -1
+jb02
+  rotate: false
+  xy: 246, 2
+  size: 37, 85
+  orig: 89, 85
+  offset: 26, 0
+  index: -1
+jb03
+  rotate: false
+  xy: 93, 2
+  size: 75, 85
+  orig: 89, 85
+  offset: 5, 0
+  index: -1
+jb04
+  rotate: false
+  xy: 2, 4
+  size: 89, 83
+  orig: 89, 85
+  offset: 0, 1
+  index: -1
+jb05
+  rotate: false
+  xy: 170, 2
+  size: 74, 85
+  orig: 89, 85
+  offset: 6, 0
+  index: -1
+jb06
+  rotate: false
+  xy: 285, 2
+  size: 37, 85
+  orig: 89, 85
+  offset: 26, 0
+  index: -1

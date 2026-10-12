@@ -1,0 +1,118 @@
+
+gongnengjiesuo.png
+size: 728,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+point_00000
+  rotate: true
+  xy: 435, 115
+  size: 38, 65
+  orig: 65, 65
+  offset: 11, 0
+  index: -1
+功能解锁/gnsj_00000
+  rotate: false
+  xy: 581, 2
+  size: 62, 42
+  orig: 148, 44
+  offset: 0, 2
+  index: -1
+功能解锁/gnsj_00001
+  rotate: false
+  xy: 547, 166
+  size: 84, 42
+  orig: 148, 44
+  offset: 0, 2
+  index: -1
+功能解锁/gnsj_00002
+  rotate: true
+  xy: 677, 21
+  size: 106, 42
+  orig: 148, 44
+  offset: 0, 2
+  index: -1
+功能解锁/gnsj_00003
+  rotate: false
+  xy: 547, 85
+  size: 128, 42
+  orig: 148, 44
+  offset: 0, 2
+  index: -1
+功能解锁/gnsj_00004
+  rotate: true
+  xy: 503, 62
+  size: 146, 42
+  orig: 148, 44
+  offset: 0, 2
+  index: -1
+功能解锁/gnsj_00005
+  rotate: true
+  xy: 644, 129
+  size: 146, 43
+  orig: 148, 44
+  offset: 1, 1
+  index: -1
+功能解锁/gnsj_00006
+  rotate: true
+  xy: 689, 129
+  size: 146, 37
+  orig: 148, 44
+  offset: 2, 0
+  index: -1
+功能解锁/gnsj_00007
+  rotate: false
+  xy: 300, 115
+  size: 133, 38
+  orig: 148, 44
+  offset: 15, 0
+  index: -1
+功能解锁/gnsj_00008
+  rotate: false
+  xy: 300, 75
+  size: 110, 38
+  orig: 148, 44
+  offset: 38, 0
+  index: -1
+功能解锁/gnsj_00009
+  rotate: false
+  xy: 581, 46
+  size: 88, 37
+  orig: 148, 44
+  offset: 60, 0
+  index: -1
+功能解锁/gnsj_00010
+  rotate: false
+  xy: 412, 76
+  size: 64, 37
+  orig: 148, 44
+  offset: 84, 0
+  index: -1
+标题-功能解锁1
+  rotate: false
+  xy: 2, 65
+  size: 296, 88
+  orig: 296, 88
+  offset: 0, 0
+  index: -1
+标题-功能解锁2
+  rotate: false
+  xy: 2, 155
+  size: 499, 120
+  orig: 499, 122
+  offset: 0, 0
+  index: -1
+标题-暗底
+  rotate: false
+  xy: 2, 2
+  size: 577, 58
+  orig: 577, 58
+  offset: 0, 0
+  index: -1
+箭头动效
+  rotate: false
+  xy: 503, 210
+  size: 139, 65
+  orig: 139, 65
+  offset: 0, 0
+  index: -1

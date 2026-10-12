@@ -1,0 +1,20 @@
+
+shouzhidianji.png
+size: 288,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+手
+  rotate: true
+  xy: 2, 2
+  size: 141, 197
+  orig: 145, 198
+  offset: 2, 1
+  index: -1
+手2
+  rotate: false
+  xy: 201, 58
+  size: 85, 85
+  orig: 87, 87
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,41 @@
+
+fx_wingPlane_20060001_shield.png
+size: 962,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp 1_00001
+  rotate: false
+  xy: 2, 2
+  size: 194, 132
+  orig: 255, 255
+  offset: 31, 96
+  index: -1
+andiwangge_00001
+  rotate: true
+  xy: 742, 116
+  size: 172, 178
+  orig: 298, 298
+  offset: 63, 59
+  index: -1
+b3fee
+  rotate: false
+  xy: 2, 136
+  size: 371, 372
+  orig: 435, 435
+  offset: 32, 32
+  index: -1
+ring
+  rotate: false
+  xy: 742, 290
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+ring_00001
+  rotate: true
+  xy: 375, 132
+  size: 376, 365
+  orig: 435, 435
+  offset: 17, 43
+  index: -1

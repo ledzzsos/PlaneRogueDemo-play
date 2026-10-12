@@ -1,0 +1,404 @@
+
+10100002.png
+size: 1021,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C/CGGw_fw_00001
+  rotate: false
+  xy: 377, 628
+  size: 182, 114
+  orig: 213, 213
+  offset: 16, 93
+  index: -1
+C/CGGw_fw_00003
+  rotate: false
+  xy: 536, 259
+  size: 182, 116
+  orig: 213, 213
+  offset: 15, 93
+  index: -1
+C/CGGw_fw_00005
+  rotate: false
+  xy: 719, 377
+  size: 177, 117
+  orig: 213, 213
+  offset: 17, 93
+  index: -1
+C/CGGw_fw_00007
+  rotate: false
+  xy: 721, 496
+  size: 177, 115
+  orig: 213, 213
+  offset: 16, 94
+  index: -1
+C/CGGw_fw_00009
+  rotate: false
+  xy: 561, 613
+  size: 180, 114
+  orig: 213, 213
+  offset: 12, 95
+  index: -1
+C/CGGw_fw_00011
+  rotate: false
+  xy: 743, 613
+  size: 180, 114
+  orig: 213, 213
+  offset: 12, 95
+  index: -1
+C/CGGw_fw_00013
+  rotate: false
+  xy: 358, 394
+  size: 178, 116
+  orig: 213, 213
+  offset: 14, 95
+  index: -1
+C/CGGw_fw_00015
+  rotate: false
+  xy: 2, 413
+  size: 175, 116
+  orig: 213, 213
+  offset: 16, 95
+  index: -1
+C/CGGw_fw_00017
+  rotate: false
+  xy: 2, 531
+  size: 175, 114
+  orig: 213, 213
+  offset: 18, 94
+  index: -1
+C/CGGw_fw_00019
+  rotate: false
+  xy: 538, 380
+  size: 179, 115
+  orig: 213, 213
+  offset: 17, 94
+  index: -1
+C/CGGw_fw_00021
+  rotate: false
+  xy: 352, 277
+  size: 182, 115
+  orig: 213, 213
+  offset: 16, 94
+  index: -1
+C/CGGw_fw_00023
+  rotate: false
+  xy: 197, 158
+  size: 185, 117
+  orig: 213, 213
+  offset: 12, 93
+  index: -1
+C/CGGw_fw_00025
+  rotate: false
+  xy: 384, 139
+  size: 183, 118
+  orig: 213, 213
+  offset: 12, 93
+  index: -1
+C/CGGw_fw_00027
+  rotate: false
+  xy: 569, 134
+  size: 178, 120
+  orig: 213, 213
+  offset: 14, 92
+  index: -1
+C/CGGw_fw_00029
+  rotate: true
+  xy: 898, 267
+  size: 172, 119
+  orig: 213, 213
+  offset: 21, 93
+  index: -1
+C/CGGw_fw_00031
+  rotate: true
+  xy: 900, 441
+  size: 170, 119
+  orig: 213, 213
+  offset: 21, 93
+  index: -1
+C/CGGw_fw_00033
+  rotate: false
+  xy: 720, 256
+  size: 173, 119
+  orig: 213, 213
+  offset: 18, 92
+  index: -1
+C/CGGw_fw_00035
+  rotate: false
+  xy: 2, 294
+  size: 173, 117
+  orig: 213, 213
+  offset: 17, 92
+  index: -1
+C/CGGw_fw_00037
+  rotate: false
+  xy: 177, 290
+  size: 173, 117
+  orig: 213, 213
+  offset: 18, 92
+  index: -1
+C/CGGw_fw_00039
+  rotate: false
+  xy: 720, 729
+  size: 174, 115
+  orig: 213, 213
+  offset: 19, 93
+  index: -1
+C/CGGw_fw_00041
+  rotate: false
+  xy: 179, 526
+  size: 177, 114
+  orig: 213, 213
+  offset: 21, 93
+  index: -1
+C/CGGw_fw_00043
+  rotate: false
+  xy: 179, 409
+  size: 177, 115
+  orig: 213, 213
+  offset: 21, 93
+  index: -1
+C/CGGw_fw_00045
+  rotate: false
+  xy: 358, 512
+  size: 178, 114
+  orig: 213, 213
+  offset: 20, 93
+  index: -1
+C/CGGw_fw_00047
+  rotate: false
+  xy: 538, 497
+  size: 181, 114
+  orig: 213, 213
+  offset: 18, 93
+  index: -1
+F/L__机翼1
+  rotate: true
+  xy: 740, 948
+  size: 71, 217
+  orig: 71, 217
+  offset: 0, 0
+  index: -1
+F/L__机翼2
+  rotate: true
+  xy: 2, 913
+  size: 77, 202
+  orig: 77, 202
+  offset: 0, 0
+  index: -1
+F/后盾
+  rotate: false
+  xy: 604, 957
+  size: 134, 62
+  orig: 134, 62
+  offset: 0, 0
+  index: -1
+F1/小粉机本身_00000
+  rotate: false
+  xy: 206, 865
+  size: 171, 96
+  orig: 295, 154
+  offset: 74, 23
+  index: -1
+F1/小粉机本身_00002
+  rotate: false
+  xy: 554, 856
+  size: 171, 99
+  orig: 295, 154
+  offset: 74, 22
+  index: -1
+F1/小粉机本身_00004
+  rotate: false
+  xy: 727, 846
+  size: 167, 100
+  orig: 295, 154
+  offset: 77, 22
+  index: -1
+F1/小粉机本身_00006
+  rotate: false
+  xy: 2, 811
+  size: 159, 100
+  orig: 295, 154
+  offset: 83, 23
+  index: -1
+F1/小粉机本身_00008
+  rotate: true
+  xy: 896, 782
+  size: 164, 106
+  orig: 295, 154
+  offset: 77, 20
+  index: -1
+F1/小粉机本身_00010
+  rotate: false
+  xy: 351, 757
+  size: 175, 106
+  orig: 295, 154
+  offset: 63, 22
+  index: -1
+F1/小粉机本身_00012
+  rotate: false
+  xy: 195, 642
+  size: 180, 113
+  orig: 295, 154
+  offset: 56, 18
+  index: -1
+F1/小粉机本身_00014
+  rotate: false
+  xy: 749, 134
+  size: 177, 120
+  orig: 295, 154
+  offset: 53, 12
+  index: -1
+F1/小粉机本身_00016
+  rotate: false
+  xy: 2, 46
+  size: 176, 124
+  orig: 295, 154
+  offset: 53, 10
+  index: -1
+F1/小粉机本身_00018
+  rotate: false
+  xy: 368, 10
+  size: 181, 127
+  orig: 295, 154
+  offset: 51, 12
+  index: -1
+F1/小粉机本身_00020
+  rotate: false
+  xy: 180, 32
+  size: 186, 124
+  orig: 295, 154
+  offset: 48, 18
+  index: -1
+F1/小粉机本身_00022
+  rotate: false
+  xy: 2, 172
+  size: 193, 116
+  orig: 295, 154
+  offset: 48, 26
+  index: -1
+F1/小粉机本身_00024
+  rotate: false
+  xy: 2, 647
+  size: 191, 111
+  orig: 295, 154
+  offset: 52, 25
+  index: -1
+F1/小粉机本身_00026
+  rotate: false
+  xy: 163, 760
+  size: 186, 103
+  orig: 295, 154
+  offset: 58, 21
+  index: -1
+F1/小粉机本身_00028
+  rotate: false
+  xy: 379, 865
+  size: 173, 96
+  orig: 295, 154
+  offset: 71, 22
+  index: -1
+jiyi2
+  rotate: true
+  xy: 349, 963
+  size: 56, 86
+  orig: 56, 86
+  offset: 0, 0
+  index: -1
+jiyi4
+  rotate: true
+  xy: 437, 963
+  size: 56, 86
+  orig: 56, 86
+  offset: 0, 0
+  index: -1
+weideng1
+  rotate: true
+  xy: 191, 992
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+weideng2
+  rotate: false
+  xy: 525, 963
+  size: 77, 56
+  orig: 77, 56
+  offset: 0, 0
+  index: -1
+weideng3
+  rotate: true
+  xy: 2, 1003
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+weiyi1
+  rotate: true
+  xy: 243, 974
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+weiyi2
+  rotate: true
+  xy: 296, 973
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+wew
+  rotate: true
+  xy: 528, 744
+  size: 110, 190
+  orig: 121, 218
+  offset: 3, 20
+  index: -1
+ydan1
+  rotate: false
+  xy: 31, 999
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1
+ydan2
+  rotate: false
+  xy: 79, 999
+  size: 30, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+zdan1
+  rotate: false
+  xy: 111, 999
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1
+zdan2
+  rotate: false
+  xy: 159, 999
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+
+101000022.png
+size: 568,568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F/突刺2
+  rotate: true
+  xy: 316, 373
+  size: 193, 250
+  orig: 193, 250
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 391
+  size: 312, 175
+  orig: 312, 175
+  offset: 0, 0
+  index: -1

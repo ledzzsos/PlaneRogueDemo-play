@@ -1,0 +1,111 @@
+
+huzhao.png
+size: 920,652
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03
+  rotate: false
+  xy: 95, 13
+  size: 46, 47
+  orig: 61, 61
+  offset: 8, 6
+  index: -1
+04
+  rotate: false
+  xy: 66, 62
+  size: 37, 38
+  orig: 61, 61
+  offset: 12, 12
+  index: -1
+11
+  rotate: true
+  xy: 66, 102
+  size: 57, 50
+  orig: 61, 61
+  offset: 2, 6
+  index: -1
+huzhao_00001
+  rotate: true
+  xy: 2, 398
+  size: 252, 218
+  orig: 435, 435
+  offset: 95, 118
+  index: -1
+huzhao_00002
+  rotate: true
+  xy: 233, 176
+  size: 241, 212
+  orig: 435, 435
+  offset: 95, 127
+  index: -1
+huzhao_00003
+  rotate: true
+  xy: 2, 161
+  size: 235, 229
+  orig: 435, 435
+  offset: 91, 116
+  index: -1
+huzhao_00004
+  rotate: true
+  xy: 222, 419
+  size: 231, 222
+  orig: 435, 435
+  offset: 93, 126
+  index: -1
+huzhao_00005
+  rotate: true
+  xy: 681, 442
+  size: 208, 237
+  orig: 435, 435
+  offset: 110, 121
+  index: -1
+huzhao_00006
+  rotate: true
+  xy: 675, 23
+  size: 199, 237
+  orig: 435, 435
+  offset: 120, 121
+  index: -1
+huzhao_00007
+  rotate: true
+  xy: 447, 222
+  size: 209, 226
+  orig: 435, 435
+  offset: 121, 127
+  index: -1
+huzhao_00008
+  rotate: false
+  xy: 681, 224
+  size: 221, 216
+  orig: 435, 435
+  offset: 122, 131
+  index: -1
+huzhao_00009
+  rotate: true
+  xy: 447, 2
+  size: 218, 211
+  orig: 435, 435
+  offset: 121, 128
+  index: -1
+huzhao_00010
+  rotate: false
+  xy: 446, 433
+  size: 233, 217
+  orig: 435, 435
+  offset: 110, 123
+  index: -1
+uoqHiN
+  rotate: true
+  xy: 2, 60
+  size: 99, 62
+  orig: 109, 62
+  offset: 4, 0
+  index: -1
+uoqHiN_00000
+  rotate: false
+  xy: 2, 6
+  size: 91, 52
+  orig: 107, 70
+  offset: 8, 11
+  index: -1

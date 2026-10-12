@@ -1,0 +1,20 @@
+
+boss3_Bullet_210290320.png
+size: 352,95
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/290320_daodan
+  rotate: true
+  xy: 2, 34
+  size: 59, 255
+  orig: 73, 255
+  offset: 6, 0
+  index: -1
+effect/bg_glow01
+  rotate: false
+  xy: 259, 2
+  size: 91, 91
+  orig: 109, 109
+  offset: 9, 9
+  index: -1

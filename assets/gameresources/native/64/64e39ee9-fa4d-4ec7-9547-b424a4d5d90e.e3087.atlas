@@ -1,0 +1,118 @@
+
+Bullet_Weapon_21060101.png
+size: 767,213
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_glow01
+  rotate: false
+  xy: 661, 14
+  size: 97, 97
+  orig: 109, 109
+  offset: 6, 6
+  index: -1
+cyihba
+  rotate: false
+  xy: 2, 102
+  size: 96, 109
+  orig: 109, 109
+  offset: 7, 0
+  index: -1
+fire/CC_00000
+  rotate: false
+  xy: 604, 113
+  size: 95, 98
+  orig: 128, 128
+  offset: 18, 13
+  index: -1
+fire/CC_00001
+  rotate: true
+  xy: 2, 2
+  size: 98, 105
+  orig: 128, 128
+  offset: 15, 9
+  index: -1
+fire/CC_00002
+  rotate: false
+  xy: 405, 107
+  size: 99, 104
+  orig: 128, 128
+  offset: 16, 11
+  index: -1
+fire/CC_00003
+  rotate: false
+  xy: 100, 106
+  size: 103, 105
+  orig: 128, 128
+  offset: 13, 10
+  index: -1
+fire/CC_00004
+  rotate: false
+  xy: 109, 2
+  size: 105, 102
+  orig: 128, 128
+  offset: 11, 14
+  index: -1
+fire/CC_00005
+  rotate: true
+  xy: 205, 106
+  size: 105, 100
+  orig: 128, 128
+  offset: 12, 16
+  index: -1
+fire/CC_00006
+  rotate: false
+  xy: 265, 3
+  size: 100, 101
+  orig: 128, 128
+  offset: 15, 14
+  index: -1
+fire/CC_00007
+  rotate: true
+  xy: 307, 106
+  size: 105, 96
+  orig: 128, 128
+  offset: 12, 13
+  index: -1
+fire/CC_00008
+  rotate: true
+  xy: 367, 3
+  size: 101, 94
+  orig: 128, 128
+  offset: 14, 15
+  index: -1
+fire/CC_00009
+  rotate: true
+  xy: 506, 108
+  size: 103, 96
+  orig: 128, 128
+  offset: 14, 13
+  index: -1
+fire/CC_00010
+  rotate: true
+  xy: 463, 2
+  size: 103, 98
+  orig: 128, 128
+  offset: 13, 14
+  index: -1
+fire/CC_00011
+  rotate: true
+  xy: 563, 8
+  size: 98, 96
+  orig: 128, 128
+  offset: 17, 15
+  index: -1
+temp missile
+  rotate: false
+  xy: 216, 2
+  size: 47, 102
+  orig: 57, 133
+  offset: 5, 15
+  index: -1
+xingxing
+  rotate: false
+  xy: 701, 147
+  size: 64, 64
+  orig: 66, 67
+  offset: 1, 2
+  index: -1

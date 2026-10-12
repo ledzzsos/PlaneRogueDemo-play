@@ -1,0 +1,597 @@
+{
+  "compressionlevel": -1,
+  "height": 38,
+  "infinite": false,
+  "layers": [
+    {
+      "draworder": "topdown",
+      "id": 2,
+      "name": "map_collide_obj",
+      "objects": [
+        {
+          "height": 0,
+          "name": "",
+          "opacity": 1,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 160,
+              "y": 0
+            },
+            {
+              "x": 160,
+              "y": 161
+            },
+            {
+              "x": 480,
+              "y": 479
+            },
+            {
+              "x": 480,
+              "y": 881
+            },
+            {
+              "x": 400,
+              "y": 960
+            },
+            {
+              "x": 160,
+              "y": 960
+            },
+            {
+              "x": 160,
+              "y": 1520
+            },
+            {
+              "x": 0,
+              "y": 1520
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "id": 34
+        },
+        {
+          "height": 0,
+          "name": "",
+          "opacity": 1,
+          "polygon": [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 520,
+              "y": 0
+            },
+            {
+              "x": 520,
+              "y": 1520
+            },
+            {
+              "x": 0,
+              "y": 1520
+            },
+            {
+              "x": 0,
+              "y": 1359
+            },
+            {
+              "x": -80,
+              "y": 1280
+            },
+            {
+              "x": -80,
+              "y": 1159
+            },
+            {
+              "x": -40,
+              "y": 1120
+            },
+            {
+              "x": 80,
+              "y": 1120
+            },
+            {
+              "x": 160,
+              "y": 1199
+            },
+            {
+              "x": 160,
+              "y": 1440
+            },
+            {
+              "x": 400,
+              "y": 1440
+            },
+            {
+              "x": 400,
+              "y": 440
+            },
+            {
+              "x": 320,
+              "y": 440
+            },
+            {
+              "x": 0,
+              "y": 120
+            }
+          ],
+          "rotation": 0,
+          "type": "",
+          "visible": true,
+          "width": 0,
+          "x": 440,
+          "y": 0,
+          "id": 35
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "draworder": "topdown",
+      "id": 3,
+      "name": "map_moveable_obj",
+      "objects": [
+        {
+          "height": 0,
+          "id": 9,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "Count",
+              "type": "int",
+              "value": 999
+            },
+            {
+              "name": "Speed",
+              "type": "int",
+              "value": 100
+            },
+            {
+              "name": "moveEndP",
+              "propertytype": "postion",
+              "type": "class",
+              "value": {
+                "X": 780,
+                "Y": 900
+              }
+            },
+            {
+              "name": "moveStartP",
+              "propertytype": "postion",
+              "type": "class",
+              "value": {
+                "X": 540,
+                "Y": 900
+              }
+            },
+            {
+              "name": "resPrefab",
+              "type": "string",
+              "value": "img_obstacle_ball.png"
+            }
+          ],
+          "rotation": 0,
+          "type": "moveObject",
+          "visible": true,
+          "width": 0,
+          "x": 660,
+          "y": 900
+        },
+        {
+          "height": 0,
+          "id": 18,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "Count",
+              "type": "int",
+              "value": 999
+            },
+            {
+              "name": "Speed",
+              "type": "int",
+              "value": 100
+            },
+            {
+              "name": "moveEndP",
+              "propertytype": "postion",
+              "type": "class",
+              "value": {
+                "X": 780,
+                "Y": 720
+              }
+            },
+            {
+              "name": "moveStartP",
+              "propertytype": "postion",
+              "type": "class",
+              "value": {
+                "X": 540,
+                "Y": 720
+              }
+            },
+            {
+              "name": "resPrefab",
+              "type": "string",
+              "value": "img_obstacle_ball.png"
+            }
+          ],
+          "rotation": 0,
+          "type": "moveObject",
+          "visible": true,
+          "width": 0,
+          "x": 660,
+          "y": 720
+        },
+        {
+          "height": 0,
+          "id": 19,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "Count",
+              "type": "int",
+              "value": 999
+            },
+            {
+              "name": "Speed",
+              "type": "int",
+              "value": 100
+            },
+            {
+              "name": "moveEndP",
+              "propertytype": "postion",
+              "type": "class",
+              "value": {
+                "X": 780,
+                "Y": 540
+              }
+            },
+            {
+              "name": "moveStartP",
+              "propertytype": "postion",
+              "type": "class",
+              "value": {
+                "X": 540,
+                "Y": 540
+              }
+            },
+            {
+              "name": "resPrefab",
+              "type": "string",
+              "value": "img_obstacle_ball.png"
+            }
+          ],
+          "rotation": 0,
+          "type": "moveObject",
+          "visible": true,
+          "width": 0,
+          "x": 660,
+          "y": 540
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "draworder": "topdown",
+      "id": 4,
+      "name": "map_item_obj",
+      "objects": [
+        {
+          "height": 0,
+          "id": 10,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 658.524301183581,
+          "y": 1257.86955426845
+        },
+        {
+          "height": 0,
+          "id": 11,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 778.141526063964,
+          "y": 1259.1286829514
+        },
+        {
+          "height": 0,
+          "id": 12,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 659.783429866532,
+          "y": 1376.22765046588
+        },
+        {
+          "height": 0,
+          "id": 13,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102004"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 780.659783429867,
+          "y": 1378.74590783178
+        },
+        {
+          "height": 0,
+          "id": 14,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102003"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 508.687987912365,
+          "y": 329.891714933266
+        },
+        {
+          "height": 0,
+          "id": 15,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102003"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 387.81163434903,
+          "y": 210.274490052883
+        },
+        {
+          "height": 0,
+          "id": 16,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "itemID",
+              "propertytype": "itemEnum",
+              "type": "string",
+              "value": "2102003"
+            }
+          ],
+          "rotation": 0,
+          "type": "item",
+          "visible": true,
+          "width": 0,
+          "x": 327.373457567363,
+          "y": 93.1755225384034
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "draworder": "topdown",
+      "id": 5,
+      "name": "map_speed_obj",
+      "objects": [
+        {
+          "height": 45.9330143540669,
+          "id": 28,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "speedScale",
+              "type": "float",
+              "value": 1
+            }
+          ],
+          "rotation": 0,
+          "type": "speed",
+          "visible": true,
+          "width": 264.114832535885,
+          "x": 623.923444976077,
+          "y": 1453.26953748006
+        },
+        {
+          "height": 45.933014354067,
+          "id": 29,
+          "name": "",
+          "opacity": 1,
+          "properties": [
+            {
+              "name": "speedScale",
+              "type": "float",
+              "value": 1.5
+            }
+          ],
+          "rotation": 0,
+          "type": "speed",
+          "visible": true,
+          "width": 237.320574162679,
+          "x": 709.409888357257,
+          "y": 312.599681020734
+        }
+      ],
+      "opacity": 1,
+      "type": "objectgroup",
+      "visible": true,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "class": "inOut",
+      "data": [
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 2, 12, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15,
+        15, 15, 15, 9, 4, 0, 0, 0, 0, 0, 0, 0, 2, 12, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15,
+        15, 15, 15, 15, 9, 4, 0, 0, 0, 0, 0, 0, 0, 2, 12, 15, 15, 15, 15, 15, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 9, 4, 0, 0, 0, 0, 0, 0, 0, 2, 12, 15, 15, 15, 15, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 9, 4, 0, 0, 0, 0, 0, 0, 0, 2, 12, 15, 15, 15, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 9, 4, 0, 0, 0, 0, 0, 0, 0, 2, 12, 15, 15, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 9, 4, 0, 0, 0, 0, 0, 0, 0, 2, 12, 15, 15, 15, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 9, 4, 0, 0, 0, 0, 0, 0, 0, 2, 5, 5, 12, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 9, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 11, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 11, 5, 5, 5, 5, 5, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 3, 8, 8, 8, 4, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 7, 15, 15, 15, 9, 4, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 2, 12, 15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 2, 12, 15, 15, 6, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 6, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 6, 0, 0, 0, 0, 0, 0, 7, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 9, 8, 8, 8, 8, 8, 8, 10, 15, 15,
+        15, 15, 15, 6, 0, 0, 0, 0, 0, 0, 0, 7, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15
+      ],
+      "height": 38,
+      "id": 1,
+      "name": "maplayer",
+      "opacity": 1,
+      "properties": [
+        {
+          "name": "entryStart",
+          "type": "int",
+          "value": 6
+        },
+        {
+          "name": "entryWidth",
+          "type": "int",
+          "value": 6
+        },
+        {
+          "name": "exitStart",
+          "type": "int",
+          "value": 6
+        },
+        {
+          "name": "exitWidth",
+          "type": "int",
+          "value": 6
+        }
+      ],
+      "type": "tilelayer",
+      "visible": true,
+      "width": 24,
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "nextlayerid": 7,
+  "nextobjectid": 36,
+  "orientation": "orthogonal",
+  "renderorder": "right-down",
+  "tiledversion": "1.12.2",
+  "tileheight": 40,
+  "tilesets": [
+    {
+      "columns": 4,
+      "firstgid": 1,
+      "image": "../texture/Map_Tiled/res_obstacle40.png",
+      "imageheight": 163,
+      "imagewidth": 163,
+      "margin": 0,
+      "name": "res_obstacle40",
+      "spacing": 1,
+      "tilecount": 16,
+      "tileheight": 40,
+      "tilewidth": 40
+    }
+  ],
+  "tilewidth": 40,
+  "type": "map",
+  "version": "1.10",
+  "width": 24
+}

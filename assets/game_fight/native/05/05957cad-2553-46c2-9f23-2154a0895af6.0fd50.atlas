@@ -1,0 +1,41 @@
+
+rouge_tishengwenzi.png
+size: 169,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gfx_867a
+  rotate: false
+  xy: 2, 3
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+text_a
+  rotate: false
+  xy: 2, 114
+  size: 151, 26
+  orig: 178, 26
+  offset: 0, 0
+  index: -1
+text_a1
+  rotate: true
+  xy: 141, 2
+  size: 33, 26
+  orig: 43, 26
+  offset: 5, 0
+  index: -1
+text_a2
+  rotate: true
+  xy: 113, 30
+  size: 82, 26
+  orig: 82, 26
+  offset: 0, 0
+  index: -1
+text_a3
+  rotate: true
+  xy: 141, 37
+  size: 75, 26
+  orig: 75, 26
+  offset: 0, 0
+  index: -1

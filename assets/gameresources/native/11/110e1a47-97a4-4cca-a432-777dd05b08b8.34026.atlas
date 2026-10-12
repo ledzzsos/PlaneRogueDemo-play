@@ -1,0 +1,174 @@
+
+wsparticle_planehurt_001.png
+size: 506,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/erty_01
+  rotate: true
+  xy: 445, 2
+  size: 25, 27
+  orig: 116, 116
+  offset: 18, 40
+  index: -1
+images/erty_02
+  rotate: false
+  xy: 97, 12
+  size: 51, 53
+  orig: 116, 116
+  offset: 10, 24
+  index: -1
+images/erty_03
+  rotate: false
+  xy: 2, 12
+  size: 93, 53
+  orig: 116, 116
+  offset: 6, 28
+  index: -1
+images/erty_04
+  rotate: false
+  xy: 214, 31
+  size: 64, 34
+  orig: 116, 116
+  offset: 20, 37
+  index: -1
+images/erty_05
+  rotate: false
+  xy: 150, 29
+  size: 62, 36
+  orig: 116, 116
+  offset: 24, 37
+  index: -1
+images/erty_06
+  rotate: true
+  xy: 280, 10
+  size: 55, 29
+  orig: 116, 116
+  offset: 30, 40
+  index: -1
+images/erty_07
+  rotate: true
+  xy: 257, 5
+  size: 24, 9
+  orig: 116, 116
+  offset: 37, 47
+  index: -1
+images/zdjz_00020
+  rotate: true
+  xy: 150, 5
+  size: 22, 64
+  orig: 44, 174
+  offset: 11, 71
+  index: -1
+images/zdjz_00021
+  rotate: false
+  xy: 334, 27
+  size: 21, 38
+  orig: 44, 174
+  offset: 11, 73
+  index: -1
+images/zdjz_00022
+  rotate: true
+  xy: 216, 8
+  size: 21, 39
+  orig: 44, 174
+  offset: 11, 75
+  index: -1
+images/zdjz_00023
+  rotate: true
+  xy: 311, 3
+  size: 21, 38
+  orig: 44, 174
+  offset: 11, 78
+  index: -1
+images/zdjz_00024
+  rotate: false
+  xy: 311, 26
+  size: 21, 39
+  orig: 44, 174
+  offset: 11, 80
+  index: -1
+images/zdjz_00025
+  rotate: false
+  xy: 423, 26
+  size: 20, 36
+  orig: 44, 174
+  offset: 12, 81
+  index: -1
+images/zdjz_00026
+  rotate: false
+  xy: 445, 29
+  size: 20, 36
+  orig: 44, 174
+  offset: 12, 83
+  index: -1
+images/zdjz_00027
+  rotate: true
+  xy: 392, 4
+  size: 20, 37
+  orig: 44, 174
+  offset: 12, 85
+  index: -1
+images/zdjz_00028
+  rotate: false
+  xy: 379, 26
+  size: 20, 38
+  orig: 44, 174
+  offset: 12, 87
+  index: -1
+images/zdjz_00029
+  rotate: false
+  xy: 401, 27
+  size: 20, 38
+  orig: 44, 174
+  offset: 12, 89
+  index: -1
+images/zdjz_00030
+  rotate: false
+  xy: 357, 26
+  size: 20, 39
+  orig: 44, 174
+  offset: 12, 91
+  index: -1
+images/zdjz_00031
+  rotate: true
+  xy: 351, 4
+  size: 20, 39
+  orig: 44, 174
+  offset: 12, 93
+  index: -1
+images/zdjz_00032
+  rotate: true
+  xy: 474, 8
+  size: 19, 30
+  orig: 44, 174
+  offset: 13, 95
+  index: -1
+images/zdjz_00033
+  rotate: false
+  xy: 467, 29
+  size: 19, 31
+  orig: 44, 174
+  offset: 13, 96
+  index: -1
+images/zdjz_00034
+  rotate: false
+  xy: 2, 7
+  size: 2, 3
+  orig: 44, 174
+  offset: 30, 98
+  index: -1
+images/zdjz_00035
+  rotate: false
+  xy: 2, 2
+  size: 2, 3
+  orig: 44, 174
+  offset: 30, 100
+  index: -1
+images/zdjz_00036
+  rotate: false
+  xy: 6, 7
+  size: 2, 3
+  orig: 44, 174
+  offset: 30, 101
+  index: -1

@@ -1,0 +1,76 @@
+
+boss1_fx_210290110_Warmup01.png
+size: 272,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tx/lizi1
+  rotate: false
+  xy: 2, 263
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+images/tx/lizi2
+  rotate: false
+  xy: 11, 256
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+images/tx/lizi3
+  rotate: false
+  xy: 27, 256
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+images/tx/lizi4
+  rotate: false
+  xy: 43, 256
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+images/tx/n
+  rotate: false
+  xy: 59, 236
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+images/tx/s1
+  rotate: false
+  xy: 93, 97
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+images/tx/s2
+  rotate: false
+  xy: 2, 2
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+images/tx/s3
+  rotate: false
+  xy: 98, 2
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+images/tx/u
+  rotate: true
+  xy: 2, 134
+  size: 100, 89
+  orig: 104, 95
+  offset: 2, 3
+  index: -1
+images/tx/v
+  rotate: false
+  xy: 95, 192
+  size: 97, 78
+  orig: 125, 125
+  offset: 15, 24
+  index: -1

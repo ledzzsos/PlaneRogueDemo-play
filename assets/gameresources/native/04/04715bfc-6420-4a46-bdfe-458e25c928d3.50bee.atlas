@@ -1,0 +1,230 @@
+
+fx_flame01_shot.png
+size: 204,452
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A/images/yan_8x4_2_01
+  rotate: true
+  xy: 190, 14
+  size: 11, 12
+  orig: 54, 109
+  offset: 21, 40
+  index: -1
+A/images/yan_8x4_2_02
+  rotate: false
+  xy: 190, 27
+  size: 12, 15
+  orig: 54, 109
+  offset: 20, 39
+  index: -1
+A/images/yan_8x4_2_03
+  rotate: false
+  xy: 129, 17
+  size: 16, 19
+  orig: 54, 109
+  offset: 18, 37
+  index: -1
+A/images/yan_8x4_2_04
+  rotate: false
+  xy: 129, 38
+  size: 17, 24
+  orig: 54, 109
+  offset: 17, 36
+  index: -1
+A/images/yan_8x4_2_05
+  rotate: true
+  xy: 169, 381
+  size: 21, 30
+  orig: 54, 109
+  offset: 15, 33
+  index: -1
+A/images/yan_8x4_2_06
+  rotate: true
+  xy: 166, 354
+  size: 25, 36
+  orig: 54, 109
+  offset: 14, 30
+  index: -1
+A/images/yan_8x4_2_07
+  rotate: false
+  xy: 169, 404
+  size: 32, 46
+  orig: 54, 109
+  offset: 11, 23
+  index: -1
+A/images/yan_8x4_2_08
+  rotate: true
+  xy: 152, 132
+  size: 37, 50
+  orig: 54, 109
+  offset: 9, 19
+  index: -1
+A/images/yan_8x4_2_09
+  rotate: true
+  xy: 148, 44
+  size: 40, 54
+  orig: 54, 109
+  offset: 8, 15
+  index: -1
+A/images/yan_8x4_2_10
+  rotate: true
+  xy: 68, 21
+  size: 41, 59
+  orig: 54, 109
+  offset: 8, 12
+  index: -1
+A/images/yan_8x4_2_11
+  rotate: true
+  xy: 2, 61
+  size: 41, 64
+  orig: 54, 109
+  offset: 7, 9
+  index: -1
+A/images/yan_8x4_2_12
+  rotate: false
+  xy: 159, 247
+  size: 43, 68
+  orig: 54, 109
+  offset: 7, 6
+  index: -1
+A/images/yan_8x4_2_13
+  rotate: true
+  xy: 75, 64
+  size: 42, 71
+  orig: 54, 109
+  offset: 7, 4
+  index: -1
+A/images/yan_8x4_2_14
+  rotate: true
+  xy: 77, 108
+  size: 44, 73
+  orig: 54, 109
+  offset: 5, 4
+  index: -1
+A/images/yan_8x4_2_15
+  rotate: true
+  xy: 2, 305
+  size: 44, 77
+  orig: 54, 109
+  offset: 4, 3
+  index: -1
+A/images/yan_8x4_2_16
+  rotate: true
+  xy: 77, 154
+  size: 45, 73
+  orig: 54, 109
+  offset: 4, 11
+  index: -1
+A/images/yan_8x4_2_17
+  rotate: true
+  xy: 80, 252
+  size: 46, 76
+  orig: 54, 109
+  offset: 4, 11
+  index: -1
+A/images/yan_8x4_2_18
+  rotate: true
+  xy: 87, 403
+  size: 47, 80
+  orig: 54, 109
+  offset: 3, 10
+  index: -1
+A/images/yan_8x4_2_19
+  rotate: true
+  xy: 2, 401
+  size: 49, 83
+  orig: 54, 109
+  offset: 2, 9
+  index: -1
+A/images/yan_8x4_2_20
+  rotate: true
+  xy: 2, 151
+  size: 49, 73
+  orig: 54, 109
+  offset: 2, 22
+  index: -1
+A/images/yan_8x4_2_21
+  rotate: true
+  xy: 79, 201
+  size: 49, 74
+  orig: 54, 109
+  offset: 2, 23
+  index: -1
+A/images/yan_8x4_2_22
+  rotate: true
+  xy: 2, 202
+  size: 50, 75
+  orig: 54, 109
+  offset: 2, 25
+  index: -1
+A/images/yan_8x4_2_23
+  rotate: true
+  xy: 87, 351
+  size: 50, 77
+  orig: 54, 109
+  offset: 2, 23
+  index: -1
+A/images/yan_8x4_2_24
+  rotate: true
+  xy: 81, 300
+  size: 49, 76
+  orig: 54, 109
+  offset: 3, 23
+  index: -1
+A/images/yan_8x4_2_25
+  rotate: true
+  xy: 2, 254
+  size: 49, 76
+  orig: 54, 109
+  offset: 3, 23
+  index: -1
+A/images/yan_8x4_2_26
+  rotate: true
+  xy: 2, 351
+  size: 48, 77
+  orig: 54, 109
+  offset: 3, 23
+  index: -1
+A/images/yan_8x4_2_27
+  rotate: false
+  xy: 155, 171
+  size: 47, 74
+  orig: 54, 109
+  offset: 3, 24
+  index: -1
+A/images/yan_8x4_2_28
+  rotate: true
+  xy: 2, 104
+  size: 45, 71
+  orig: 54, 109
+  offset: 4, 25
+  index: -1
+A/images/yan_8x4_2_29
+  rotate: false
+  xy: 152, 86
+  size: 44, 44
+  orig: 54, 109
+  offset: 4, 27
+  index: -1
+A/images/yan_8x4_2_30
+  rotate: false
+  xy: 148, 2
+  size: 40, 40
+  orig: 54, 109
+  offset: 6, 28
+  index: -1
+A/images/yan_8x4_2_31
+  rotate: true
+  xy: 2, 22
+  size: 37, 40
+  orig: 54, 109
+  offset: 6, 30
+  index: -1
+A/images/yan_8x4_2_32
+  rotate: false
+  xy: 166, 317
+  size: 35, 35
+  orig: 54, 109
+  offset: 7, 29
+  index: -1

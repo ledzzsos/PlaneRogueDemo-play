@@ -1,0 +1,251 @@
+
+Bullet_Weapon_21060801_02.png
+size: 996,875
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+asd_00000
+  rotate: true
+  xy: 908, 451
+  size: 40, 83
+  orig: 83, 83
+  offset: 22, 0
+  index: -1
+atk/0_00000
+  rotate: false
+  xy: 682, 422
+  size: 224, 225
+  orig: 240, 240
+  offset: 8, 8
+  index: -1
+atk/0_00001
+  rotate: false
+  xy: 230, 646
+  size: 224, 227
+  orig: 240, 240
+  offset: 8, 7
+  index: -1
+atk/0_00002
+  rotate: false
+  xy: 2, 417
+  size: 225, 227
+  orig: 240, 240
+  offset: 8, 7
+  index: -1
+atk/0_00003
+  rotate: false
+  xy: 455, 190
+  size: 224, 226
+  orig: 240, 240
+  offset: 8, 8
+  index: -1
+atk/0_00004
+  rotate: true
+  xy: 681, 649
+  size: 224, 226
+  orig: 240, 240
+  offset: 8, 8
+  index: -1
+atk/0_00005
+  rotate: false
+  xy: 229, 189
+  size: 224, 227
+  orig: 240, 240
+  offset: 8, 8
+  index: -1
+atk/0_00006
+  rotate: false
+  xy: 456, 420
+  size: 224, 226
+  orig: 240, 240
+  offset: 8, 8
+  index: -1
+atk/0_00007
+  rotate: false
+  xy: 681, 192
+  size: 224, 226
+  orig: 240, 240
+  offset: 8, 8
+  index: -1
+atk/0_00008
+  rotate: false
+  xy: 2, 188
+  size: 225, 227
+  orig: 240, 240
+  offset: 8, 7
+  index: -1
+atk/0_00009
+  rotate: false
+  xy: 2, 646
+  size: 226, 227
+  orig: 240, 240
+  offset: 7, 7
+  index: -1
+atk/0_00010
+  rotate: false
+  xy: 456, 648
+  size: 223, 225
+  orig: 240, 240
+  offset: 9, 8
+  index: -1
+atk/0_00011
+  rotate: false
+  xy: 229, 418
+  size: 225, 226
+  orig: 240, 240
+  offset: 8, 7
+  index: -1
+glow_00000
+  rotate: false
+  xy: 892, 89
+  size: 102, 101
+  orig: 130, 133
+  offset: 14, 16
+  index: -1
+line_00000
+  rotate: true
+  xy: 257, 2
+  size: 17, 83
+  orig: 42, 83
+  offset: 13, 0
+  index: -1
+rot/环绕圆环_00000
+  rotate: false
+  xy: 907, 342
+  size: 78, 78
+  orig: 98, 98
+  offset: 10, 10
+  index: -1
+rot/环绕圆环_00003
+  rotate: true
+  xy: 908, 493
+  size: 74, 80
+  orig: 98, 98
+  offset: 12, 9
+  index: -1
+rot/环绕圆环_00006
+  rotate: true
+  xy: 909, 649
+  size: 72, 81
+  orig: 98, 98
+  offset: 13, 8
+  index: -1
+rot/环绕圆环_00009
+  rotate: true
+  xy: 907, 192
+  size: 72, 81
+  orig: 98, 98
+  offset: 13, 8
+  index: -1
+rot/环绕圆环_00012
+  rotate: true
+  xy: 909, 799
+  size: 74, 80
+  orig: 98, 98
+  offset: 12, 9
+  index: -1
+rot/环绕圆环_00015
+  rotate: false
+  xy: 908, 569
+  size: 78, 78
+  orig: 98, 98
+  offset: 10, 10
+  index: -1
+rot/环绕圆环_00018
+  rotate: false
+  xy: 909, 723
+  size: 80, 74
+  orig: 98, 98
+  offset: 9, 12
+  index: -1
+rot/环绕圆环_00021
+  rotate: false
+  xy: 682, 8
+  size: 81, 72
+  orig: 98, 98
+  offset: 8, 13
+  index: -1
+rot/环绕圆环_00024
+  rotate: false
+  xy: 765, 8
+  size: 81, 72
+  orig: 98, 98
+  offset: 8, 13
+  index: -1
+rot/环绕圆环_00027
+  rotate: false
+  xy: 907, 266
+  size: 80, 74
+  orig: 98, 98
+  offset: 9, 12
+  index: -1
+电极磁吸 -01
+  rotate: true
+  xy: 682, 82
+  size: 108, 103
+  orig: 130, 133
+  offset: 11, 15
+  index: -1
+电极磁吸 -02_00000
+  rotate: true
+  xy: 787, 82
+  size: 108, 103
+  orig: 130, 133
+  offset: 11, 15
+  index: -1
+闪电输出_00024
+  rotate: false
+  xy: 2, 20
+  size: 83, 166
+  orig: 83, 166
+  offset: 0, 0
+  index: -1
+闪电输出_00025
+  rotate: false
+  xy: 87, 20
+  size: 83, 166
+  orig: 83, 166
+  offset: 0, 0
+  index: -1
+闪电输出_00026
+  rotate: false
+  xy: 172, 20
+  size: 83, 166
+  orig: 83, 166
+  offset: 0, 0
+  index: -1
+闪电输出_00027
+  rotate: false
+  xy: 257, 21
+  size: 83, 166
+  orig: 83, 166
+  offset: 0, 0
+  index: -1
+闪电输出_00028
+  rotate: false
+  xy: 342, 21
+  size: 83, 166
+  orig: 83, 166
+  offset: 0, 0
+  index: -1
+闪电输出_00029
+  rotate: false
+  xy: 427, 21
+  size: 83, 166
+  orig: 83, 166
+  offset: 0, 0
+  index: -1
+闪电输出_00030
+  rotate: false
+  xy: 512, 22
+  size: 83, 166
+  orig: 83, 166
+  offset: 0, 0
+  index: -1
+闪电输出_00031
+  rotate: false
+  xy: 597, 22
+  size: 83, 166
+  orig: 83, 166
+  offset: 0, 0
+  index: -1

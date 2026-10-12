@@ -1,0 +1,27 @@
+
+boss2_Bullet_210290211.png
+size: 167,167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AA_00000
+  rotate: false
+  xy: 2, 2
+  size: 24, 163
+  orig: 40, 166
+  offset: 9, 2
+  index: -1
+AA_00001
+  rotate: false
+  xy: 28, 2
+  size: 24, 163
+  orig: 40, 166
+  offset: 9, 2
+  index: -1
+AA_00002
+  rotate: false
+  xy: 54, 2
+  size: 24, 163
+  orig: 40, 166
+  offset: 9, 2
+  index: -1

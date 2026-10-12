@@ -1,0 +1,48 @@
+
+Bullet_Weapon_210604001_hit.png
+size: 183,40
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xnta_01
+  rotate: false
+  xy: 144, 16
+  size: 17, 22
+  orig: 61, 61
+  offset: 20, 19
+  index: -1
+xnta_02
+  rotate: false
+  xy: 163, 5
+  size: 12, 13
+  orig: 61, 61
+  offset: 23, 23
+  index: -1
+xnta_03
+  rotate: true
+  xy: 100, 2
+  size: 36, 42
+  orig: 61, 61
+  offset: 14, 8
+  index: -1
+xnta_04
+  rotate: false
+  xy: 55, 2
+  size: 43, 36
+  orig: 61, 61
+  offset: 11, 12
+  index: -1
+xnta_05
+  rotate: false
+  xy: 2, 2
+  size: 51, 36
+  orig: 61, 61
+  offset: 6, 13
+  index: -1
+xnta_06
+  rotate: false
+  xy: 163, 20
+  size: 18, 18
+  orig: 61, 61
+  offset: 21, 21
+  index: -1

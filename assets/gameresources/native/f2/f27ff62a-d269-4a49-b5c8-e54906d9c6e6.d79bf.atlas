@@ -1,0 +1,132 @@
+
+fx_CollectStars.png
+size: 1009,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/A/ZB/A_00002
+  rotate: true
+  xy: 2, 16
+  size: 40, 36
+  orig: 255, 255
+  offset: 107, 112
+  index: -1
+images/A/ZB/A_00005
+  rotate: false
+  xy: 894, 13
+  size: 63, 68
+  orig: 255, 255
+  offset: 94, 95
+  index: -1
+images/A/ZB/A_00008
+  rotate: false
+  xy: 816, 2
+  size: 76, 79
+  orig: 255, 255
+  offset: 87, 91
+  index: -1
+images/A/ZB/A_00011
+  rotate: true
+  xy: 816, 85
+  size: 85, 87
+  orig: 255, 255
+  offset: 82, 87
+  index: -1
+images/A/ZB/A_00014
+  rotate: true
+  xy: 907, 83
+  size: 92, 94
+  orig: 255, 255
+  offset: 78, 84
+  index: -1
+images/A/ZB/A_00017
+  rotate: true
+  xy: 907, 177
+  size: 99, 100
+  orig: 255, 255
+  offset: 74, 81
+  index: -1
+images/A/ZB/A_00020
+  rotate: false
+  xy: 801, 172
+  size: 104, 104
+  orig: 255, 255
+  offset: 72, 79
+  index: -1
+images/A/ZB/A_00023
+  rotate: true
+  xy: 706, 53
+  size: 109, 108
+  orig: 255, 255
+  offset: 69, 77
+  index: -1
+images/A/ZB/A_00026
+  rotate: true
+  xy: 688, 164
+  size: 112, 111
+  orig: 255, 255
+  offset: 67, 75
+  index: -1
+images/A/ZB/A_00029
+  rotate: true
+  xy: 590, 40
+  size: 116, 114
+  orig: 255, 255
+  offset: 65, 73
+  index: -1
+images/A/ZB/A_00032
+  rotate: true
+  xy: 569, 158
+  size: 118, 117
+  orig: 255, 255
+  offset: 64, 72
+  index: -1
+images/A/ZB/A_00035
+  rotate: true
+  xy: 470, 28
+  size: 122, 118
+  orig: 255, 255
+  offset: 62, 71
+  index: -1
+images/A/ZB/A_00038
+  rotate: true
+  xy: 447, 152
+  size: 124, 120
+  orig: 255, 255
+  offset: 61, 70
+  index: -1
+images/A/ZB/A_00041
+  rotate: true
+  xy: 346, 19
+  size: 126, 122
+  orig: 255, 255
+  offset: 60, 69
+  index: -1
+images/A/ZB/A_00044
+  rotate: true
+  xy: 220, 17
+  size: 128, 124
+  orig: 255, 255
+  offset: 59, 68
+  index: -1
+images/A/ZB/A_00047
+  rotate: true
+  xy: 220, 147
+  size: 129, 125
+  orig: 255, 255
+  offset: 58, 67
+  index: -1
+images/A/ZB/A_00050
+  rotate: false
+  xy: 347, 150
+  size: 98, 126
+  orig: 255, 255
+  offset: 57, 66
+  index: -1
+images/public_yinshen_mutl_D_00
+  rotate: false
+  xy: 2, 58
+  size: 216, 218
+  orig: 218, 218
+  offset: 1, 0
+  index: -1

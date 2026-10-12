@@ -1,0 +1,20 @@
+
+fx_bullet_aimLine01.png
+size: 439,439
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xingxing_00000
+  rotate: false
+  xy: 58, 385
+  size: 52, 52
+  orig: 66, 67
+  offset: 7, 10
+  index: -1
+激光_输出_00001
+  rotate: false
+  xy: 2, 2
+  size: 54, 435
+  orig: 54, 435
+  offset: 0, 0
+  index: -1

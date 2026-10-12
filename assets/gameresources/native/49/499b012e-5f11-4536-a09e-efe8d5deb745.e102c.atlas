@@ -1,0 +1,146 @@
+
+Bullet_Weapon_21060201.png
+size: 517,1018
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+火箭弹01_alpha
+  rotate: false
+  xy: 399, 235
+  size: 116, 245
+  orig: 116, 255
+  offset: 0, 5
+  index: -1
+聚能火箭/0_00000
+  rotate: true
+  xy: 2, 2
+  size: 91, 260
+  orig: 109, 870
+  offset: 9, 602
+  index: -1
+聚能火箭/0_00001
+  rotate: true
+  xy: 2, 95
+  size: 92, 418
+  orig: 109, 870
+  offset: 8, 440
+  index: -1
+聚能火箭/0_00002
+  rotate: false
+  xy: 399, 482
+  size: 89, 534
+  orig: 109, 870
+  offset: 13, 321
+  index: -1
+聚能火箭/0_00003
+  rotate: false
+  xy: 295, 385
+  size: 102, 631
+  orig: 109, 870
+  offset: 7, 224
+  index: -1
+聚能火箭/0_00004
+  rotate: false
+  xy: 100, 286
+  size: 102, 730
+  orig: 109, 870
+  offset: 6, 124
+  index: -1
+聚能火箭/0_00007
+  rotate: false
+  xy: 100, 286
+  size: 102, 730
+  orig: 109, 870
+  offset: 6, 124
+  index: -1
+聚能火箭/0_00010
+  rotate: false
+  xy: 100, 286
+  size: 102, 730
+  orig: 109, 870
+  offset: 6, 124
+  index: -1
+聚能火箭/0_00013
+  rotate: false
+  xy: 100, 286
+  size: 102, 730
+  orig: 109, 870
+  offset: 6, 124
+  index: -1
+聚能火箭/0_00016
+  rotate: false
+  xy: 100, 286
+  size: 102, 730
+  orig: 109, 870
+  offset: 6, 124
+  index: -1
+聚能火箭/0_00005
+  rotate: false
+  xy: 2, 189
+  size: 96, 827
+  orig: 109, 870
+  offset: 6, 32
+  index: -1
+聚能火箭/0_00008
+  rotate: false
+  xy: 2, 189
+  size: 96, 827
+  orig: 109, 870
+  offset: 6, 32
+  index: -1
+聚能火箭/0_00011
+  rotate: false
+  xy: 2, 189
+  size: 96, 827
+  orig: 109, 870
+  offset: 6, 32
+  index: -1
+聚能火箭/0_00014
+  rotate: false
+  xy: 2, 189
+  size: 96, 827
+  orig: 109, 870
+  offset: 6, 32
+  index: -1
+聚能火箭/0_00017
+  rotate: false
+  xy: 2, 189
+  size: 96, 827
+  orig: 109, 870
+  offset: 6, 32
+  index: -1
+聚能火箭/0_00018
+  rotate: false
+  xy: 204, 214
+  size: 89, 802
+  orig: 109, 870
+  offset: 14, 56
+  index: -1
+聚能火箭/0_00006
+  rotate: false
+  xy: 204, 214
+  size: 89, 802
+  orig: 109, 870
+  offset: 14, 56
+  index: -1
+聚能火箭/0_00009
+  rotate: false
+  xy: 204, 214
+  size: 89, 802
+  orig: 109, 870
+  offset: 14, 56
+  index: -1
+聚能火箭/0_00012
+  rotate: false
+  xy: 204, 214
+  size: 89, 802
+  orig: 109, 870
+  offset: 14, 56
+  index: -1
+聚能火箭/0_00015
+  rotate: false
+  xy: 204, 214
+  size: 89, 802
+  orig: 109, 870
+  offset: 14, 56
+  index: -1

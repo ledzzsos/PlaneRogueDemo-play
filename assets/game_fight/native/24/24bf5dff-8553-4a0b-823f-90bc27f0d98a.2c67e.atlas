@@ -1,0 +1,27 @@
+
+effect_section_tip.png
+size: 191,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 104
+  size: 147, 152
+  orig: 174, 174
+  offset: 13, 12
+  index: -1
+huanan
+  rotate: false
+  xy: 2, 2
+  size: 101, 100
+  orig: 174, 174
+  offset: 36, 37
+  index: -1
+kuo
+  rotate: false
+  xy: 105, 18
+  size: 84, 84
+  orig: 174, 174
+  offset: 45, 45
+  index: -1

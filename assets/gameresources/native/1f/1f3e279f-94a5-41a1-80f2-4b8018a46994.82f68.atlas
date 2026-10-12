@@ -1,0 +1,139 @@
+
+1001009.png
+size: 990,651
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+juxingfeiji
+  rotate: false
+  xy: 2, 11
+  size: 858, 638
+  orig: 861, 638
+  offset: 0, 0
+  index: -1
+luoxuanjiang_y1
+  rotate: true
+  xy: 933, 62
+  size: 70, 18
+  orig: 72, 20
+  offset: 1, 1
+  index: -1
+luoxuanjiang_y2
+  rotate: true
+  xy: 933, 134
+  size: 85, 22
+  orig: 87, 24
+  offset: 1, 1
+  index: -1
+luoxuanjiang_y3
+  rotate: true
+  xy: 968, 288
+  size: 72, 20
+  orig: 74, 22
+  offset: 1, 1
+  index: -1
+luoxuanjiang_z1
+  rotate: true
+  xy: 966, 25
+  size: 70, 18
+  orig: 72, 20
+  offset: 1, 1
+  index: -1
+luoxuanjiang_z2
+  rotate: true
+  xy: 957, 127
+  size: 85, 22
+  orig: 87, 24
+  offset: 1, 1
+  index: -1
+luoxuanjiang_z3
+  rotate: true
+  xy: 968, 214
+  size: 72, 20
+  orig: 74, 22
+  offset: 1, 1
+  index: -1
+shangpaoguan
+  rotate: true
+  xy: 933, 32
+  size: 28, 31
+  orig: 30, 33
+  offset: 1, 1
+  index: -1
+shangpaotai
+  rotate: false
+  xy: 862, 150
+  size: 69, 69
+  orig: 71, 73
+  offset: 1, 1
+  index: -1
+xiapaoguan
+  rotate: true
+  xy: 933, 2
+  size: 28, 31
+  orig: 30, 33
+  offset: 1, 1
+  index: -1
+xiapaotai
+  rotate: false
+  xy: 862, 79
+  size: 69, 69
+  orig: 71, 73
+  offset: 1, 1
+  index: -1
+yingqin_y1
+  rotate: false
+  xy: 862, 505
+  size: 53, 144
+  orig: 55, 146
+  offset: 1, 1
+  index: -1
+yingqin_y2
+  rotate: false
+  xy: 862, 221
+  size: 51, 139
+  orig: 53, 141
+  offset: 1, 1
+  index: -1
+yingqin_y3
+  rotate: false
+  xy: 862, 362
+  size: 53, 141
+  orig: 55, 143
+  offset: 1, 1
+  index: -1
+yingqin_z1
+  rotate: false
+  xy: 917, 505
+  size: 53, 144
+  orig: 55, 146
+  offset: 1, 1
+  index: -1
+yingqin_z2
+  rotate: false
+  xy: 915, 221
+  size: 51, 139
+  orig: 53, 141
+  offset: 1, 1
+  index: -1
+yingqin_z3
+  rotate: false
+  xy: 917, 362
+  size: 53, 141
+  orig: 55, 143
+  offset: 1, 1
+  index: -1
+zhongpaoguan
+  rotate: true
+  xy: 953, 97
+  size: 28, 30
+  orig: 30, 32
+  offset: 1, 1
+  index: -1
+zhongpaotai
+  rotate: false
+  xy: 862, 9
+  size: 69, 68
+  orig: 71, 73
+  offset: 1, 1
+  index: -1

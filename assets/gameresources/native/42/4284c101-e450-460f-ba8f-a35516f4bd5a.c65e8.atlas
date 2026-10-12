@@ -1,0 +1,20 @@
+
+10014112.png
+size: 181,181
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+小节右1
+  rotate: false
+  xy: 2, 87
+  size: 175, 92
+  orig: 175, 92
+  offset: 0, 0
+  index: -1
+小节右1_00000
+  rotate: false
+  xy: 2, 2
+  size: 98, 83
+  orig: 175, 92
+  offset: 46, 9
+  index: -1

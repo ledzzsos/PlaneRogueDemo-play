@@ -1,0 +1,48 @@
+
+10100007.png
+size: 206,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 45
+  size: 192, 159
+  orig: 192, 159
+  offset: 0, 0
+  index: -1
+weiyan
+  rotate: true
+  xy: 2, 24
+  size: 19, 91
+  orig: 54, 110
+  offset: 17, 12
+  index: -1
+yjf
+  rotate: true
+  xy: 2, 2
+  size: 20, 55
+  orig: 20, 55
+  offset: 0, 0
+  index: -1
+yp
+  rotate: true
+  xy: 59, 4
+  size: 18, 30
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+zjf
+  rotate: true
+  xy: 95, 23
+  size: 20, 55
+  orig: 20, 55
+  offset: 0, 0
+  index: -1
+zp
+  rotate: true
+  xy: 152, 25
+  size: 18, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1

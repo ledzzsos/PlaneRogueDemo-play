@@ -1,0 +1,34 @@
+
+boss3_fx_210290330_Warmup01.png
+size: 260,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gy3
+  rotate: true
+  xy: 130, 39
+  size: 42, 43
+  orig: 43, 43
+  offset: 1, 0
+  index: -1
+tx/gy4
+  rotate: false
+  xy: 2, 2
+  size: 80, 79
+  orig: 86, 85
+  offset: 3, 3
+  index: -1
+tx/gy5
+  rotate: true
+  xy: 84, 38
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+tx/quan2
+  rotate: false
+  xy: 2, 83
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1

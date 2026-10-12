@@ -1,0 +1,13 @@
+
+gkjd01.png
+size: 220,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gkjd_00001
+  rotate: false
+  xy: 2, 2
+  size: 216, 216
+  orig: 218, 218
+  offset: 2, 2
+  index: -1

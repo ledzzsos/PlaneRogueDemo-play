@@ -1,0 +1,181 @@
+
+fx_Weapon_20210001_born.png
+size: 772,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fazhengaungdan_32
+  rotate: false
+  xy: 2, 2
+  size: 81, 69
+  orig: 128, 128
+  offset: 22, 30
+  index: -1
+guangyun_03
+  rotate: true
+  xy: 2, 73
+  size: 153, 124
+  orig: 170, 170
+  offset: 8, 31
+  index: -1
+juqi1_00
+  rotate: false
+  xy: 714, 5
+  size: 49, 66
+  orig: 128, 128
+  offset: 9, 38
+  index: -1
+juqi1_01
+  rotate: true
+  xy: 267, 5
+  size: 104, 73
+  orig: 128, 128
+  offset: 16, 22
+  index: -1
+juqi1_02
+  rotate: true
+  xy: 404, 125
+  size: 101, 77
+  orig: 128, 128
+  offset: 24, 24
+  index: -1
+juqi1_03
+  rotate: true
+  xy: 483, 135
+  size: 91, 80
+  orig: 128, 128
+  offset: 37, 25
+  index: -1
+juqi1_04
+  rotate: false
+  xy: 641, 149
+  size: 55, 77
+  orig: 128, 128
+  offset: 69, 29
+  index: -1
+juqi1_05
+  rotate: false
+  xy: 671, 2
+  size: 41, 69
+  orig: 128, 128
+  offset: 79, 35
+  index: -1
+juqi1_06
+  rotate: true
+  xy: 509, 9
+  size: 20, 55
+  orig: 128, 128
+  offset: 92, 40
+  index: -1
+juqi2_00
+  rotate: true
+  xy: 608, 68
+  size: 78, 46
+  orig: 128, 128
+  offset: 11, 21
+  index: -1
+juqi2_01
+  rotate: true
+  xy: 128, 107
+  size: 119, 88
+  orig: 128, 128
+  offset: 6, 20
+  index: -1
+juqi2_02
+  rotate: true
+  xy: 319, 118
+  size: 108, 83
+  orig: 128, 128
+  offset: 17, 28
+  index: -1
+juqi2_03
+  rotate: true
+  xy: 446, 31
+  size: 92, 78
+  orig: 128, 128
+  offset: 33, 33
+  index: -1
+juqi2_04
+  rotate: true
+  xy: 565, 148
+  size: 78, 74
+  orig: 128, 128
+  offset: 47, 38
+  index: -1
+juqi2_05
+  rotate: true
+  xy: 85, 2
+  size: 69, 75
+  orig: 128, 128
+  offset: 56, 38
+  index: -1
+juqi2_06
+  rotate: false
+  xy: 656, 73
+  size: 62, 74
+  orig: 128, 128
+  offset: 62, 39
+  index: -1
+juqi2_07
+  rotate: true
+  xy: 566, 2
+  size: 49, 72
+  orig: 128, 128
+  offset: 67, 41
+  index: -1
+juqi2_08
+  rotate: false
+  xy: 640, 2
+  size: 29, 64
+  orig: 128, 128
+  offset: 73, 49
+  index: -1
+juqi2_09
+  rotate: true
+  xy: 446, 7
+  size: 22, 61
+  orig: 128, 128
+  offset: 73, 51
+  index: -1
+juqi2_10
+  rotate: false
+  xy: 720, 105
+  size: 17, 46
+  orig: 128, 128
+  offset: 73, 66
+  index: -1
+juqiandi_12
+  rotate: false
+  xy: 526, 53
+  size: 80, 80
+  orig: 85, 85
+  offset: 5, 0
+  index: -1
+juqiguahngdan_14
+  rotate: true
+  xy: 698, 153
+  size: 73, 72
+  orig: 85, 85
+  offset: 6, 7
+  index: -1
+juqiguang_13
+  rotate: true
+  xy: 218, 111
+  size: 115, 99
+  orig: 128, 128
+  offset: 5, 18
+  index: -1
+juqikuoquan_14
+  rotate: false
+  xy: 162, 2
+  size: 103, 103
+  orig: 128, 128
+  offset: 12, 15
+  index: -1
+juqixingguang_12
+  rotate: false
+  xy: 342, 13
+  size: 102, 103
+  orig: 128, 128
+  offset: 12, 15
+  index: -1

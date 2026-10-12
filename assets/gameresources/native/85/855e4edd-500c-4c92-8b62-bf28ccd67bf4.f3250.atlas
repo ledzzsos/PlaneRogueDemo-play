@@ -1,0 +1,284 @@
+
+wsparticle_bossdead_005.png
+size: 1018,932
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/boss_bz/boss_bz_02
+  rotate: false
+  xy: 613, 251
+  size: 242, 239
+  orig: 425, 425
+  offset: 93, 93
+  index: -1
+images/boss_bz/boss_bz_03
+  rotate: true
+  xy: 2, 85
+  size: 239, 245
+  orig: 425, 425
+  offset: 93, 87
+  index: -1
+images/boss_bz/boss_bz_04
+  rotate: true
+  xy: 583, 2
+  size: 247, 261
+  orig: 425, 425
+  offset: 91, 76
+  index: -1
+images/boss_bz/boss_bz_13
+  rotate: false
+  xy: 249, 42
+  size: 332, 243
+  orig: 425, 425
+  offset: 81, 34
+  index: -1
+images/boss_bz/boss_bz_14
+  rotate: false
+  xy: 521, 507
+  size: 213, 168
+  orig: 425, 425
+  offset: 81, 107
+  index: -1
+images/boss_bz/boss_bz_15
+  rotate: false
+  xy: 617, 677
+  size: 155, 144
+  orig: 425, 425
+  offset: 137, 129
+  index: -1
+images/boss_bz/boss_bz_16
+  rotate: true
+  xy: 295, 832
+  size: 98, 143
+  orig: 425, 425
+  offset: 166, 129
+  index: -1
+images/boss_bz/boss_bz_17
+  rotate: false
+  xy: 66, 899
+  size: 60, 31
+  orig: 425, 425
+  offset: 179, 182
+  index: -1
+images/boss_bz/boss_bz_18
+  rotate: false
+  xy: 17, 904
+  size: 47, 26
+  orig: 425, 425
+  offset: 184, 187
+  index: -1
+images/boss_bz/boss_bz_19
+  rotate: true
+  xy: 2, 920
+  size: 10, 13
+  orig: 425, 425
+  offset: 187, 199
+  index: -1
+images/boss_bz/vzDS_00001
+  rotate: true
+  xy: 631, 823
+  size: 107, 189
+  orig: 218, 218
+  offset: 48, 12
+  index: -1
+images/boss_bz/vzDS_00003
+  rotate: true
+  xy: 128, 838
+  size: 92, 165
+  orig: 218, 218
+  offset: 61, 34
+  index: -1
+images/boss_bz/vzDS_00005
+  rotate: true
+  xy: 822, 812
+  size: 118, 194
+  orig: 218, 218
+  offset: 76, 8
+  index: -1
+images/boss_bz/vzDS_00007
+  rotate: true
+  xy: 440, 824
+  size: 106, 189
+  orig: 218, 218
+  offset: 80, 12
+  index: -1
+images/boss_bz/vzDS_00009
+  rotate: false
+  xy: 2, 722
+  size: 122, 175
+  orig: 218, 218
+  offset: 86, 13
+  index: -1
+images/boss_bz/vzDS_00011
+  rotate: false
+  xy: 158, 530
+  size: 182, 155
+  orig: 218, 218
+  offset: 16, 13
+  index: -1
+images/boss_bz/vzDS_00013
+  rotate: true
+  xy: 342, 514
+  size: 164, 177
+  orig: 218, 218
+  offset: 35, 33
+  index: -1
+images/boss_bz/vzDS_00015
+  rotate: true
+  xy: 126, 703
+  size: 127, 188
+  orig: 218, 218
+  offset: 58, 12
+  index: -1
+images/boss_bz/vzDS_00017
+  rotate: true
+  xy: 460, 680
+  size: 142, 155
+  orig: 218, 218
+  offset: 22, 22
+  index: -1
+images/boss_bz/vzDS_00019
+  rotate: true
+  xy: 186, 326
+  size: 186, 205
+  orig: 218, 218
+  offset: 16, 6
+  index: -1
+images/boss_bz/vzDS_00021
+  rotate: true
+  xy: 736, 492
+  size: 168, 196
+  orig: 218, 218
+  offset: 22, 11
+  index: -1
+images/boss_bz/vzDS_00023
+  rotate: true
+  xy: 774, 662
+  size: 148, 182
+  orig: 218, 218
+  offset: 36, 24
+  index: -1
+images/boss_bz/vzDS_00025
+  rotate: true
+  xy: 2, 355
+  size: 173, 182
+  orig: 218, 218
+  offset: 18, 17
+  index: -1
+images/boss_bz/vzDS_00027
+  rotate: true
+  xy: 2, 552
+  size: 149, 154
+  orig: 218, 218
+  offset: 35, 23
+  index: -1
+images/boss_bz/vzDS_00029
+  rotate: true
+  xy: 316, 687
+  size: 135, 142
+  orig: 218, 218
+  offset: 56, 12
+  index: -1
+images/ring
+  rotate: false
+  xy: 393, 287
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+
+wsparticle_bossdead_0052.png
+size: 1024,940
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/boss_bz/boss_bz_00
+  rotate: true
+  xy: 288, 647
+  size: 291, 293
+  orig: 425, 425
+  offset: 67, 66
+  index: -1
+images/boss_bz/boss_bz_05
+  rotate: true
+  xy: 2, 669
+  size: 269, 284
+  orig: 425, 425
+  offset: 88, 62
+  index: -1
+images/boss_bz/boss_bz_06
+  rotate: true
+  xy: 583, 646
+  size: 292, 301
+  orig: 425, 425
+  offset: 80, 52
+  index: -1
+images/boss_bz/boss_bz_07
+  rotate: false
+  xy: 689, 332
+  size: 314, 312
+  orig: 425, 425
+  offset: 70, 48
+  index: -1
+images/boss_bz/boss_bz_08
+  rotate: false
+  xy: 351, 11
+  size: 329, 320
+  orig: 425, 425
+  offset: 64, 43
+  index: -1
+images/boss_bz/boss_bz_09
+  rotate: false
+  xy: 682, 2
+  size: 340, 328
+  orig: 425, 425
+  offset: 60, 39
+  index: -1
+images/boss_bz/boss_bz_10
+  rotate: false
+  xy: 2, 16
+  size: 347, 319
+  orig: 425, 425
+  offset: 58, 38
+  index: -1
+images/boss_bz/boss_bz_11
+  rotate: false
+  xy: 2, 337
+  size: 352, 308
+  orig: 425, 425
+  offset: 56, 37
+  index: -1
+images/boss_bz/boss_bz_12
+  rotate: false
+  xy: 356, 333
+  size: 331, 311
+  orig: 425, 425
+  offset: 80, 34
+  index: -1
+
+wsparticle_bossdead_0053.png
+size: 739,784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/boss_bz/boss_bz_01
+  rotate: false
+  xy: 390, 40
+  size: 347, 349
+  orig: 425, 425
+  offset: 39, 38
+  index: -1
+images/boss_bz_quan1_00
+  rotate: true
+  xy: 2, 2
+  size: 387, 386
+  orig: 476, 476
+  offset: 44, 45
+  index: -1
+images/boss_bz_sg1_00
+  rotate: false
+  xy: 2, 391
+  size: 391, 391
+  orig: 425, 425
+  offset: 17, 17
+  index: -1

@@ -1,0 +1,184 @@
+
+10100002.png
+size: 1017,836
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AA/AAj_00001
+  rotate: false
+  xy: 2, 2
+  size: 502, 395
+  orig: 546, 395
+  offset: 0, 0
+  index: -1
+AA/AAj_00003
+  rotate: false
+  xy: 506, 2
+  size: 506, 395
+  orig: 546, 395
+  offset: 0, 0
+  index: -1
+R__机翼1
+  rotate: false
+  xy: 2, 531
+  size: 266, 183
+  orig: 266, 184
+  offset: 0, 0
+  index: -1
+R__机翼1 拷贝
+  rotate: false
+  xy: 543, 679
+  size: 238, 155
+  orig: 239, 155
+  offset: 0, 0
+  index: -1
+R__机翼2
+  rotate: false
+  xy: 194, 716
+  size: 172, 118
+  orig: 172, 118
+  offset: 0, 0
+  index: -1
+R__机翼2 拷贝
+  rotate: false
+  xy: 368, 704
+  size: 173, 130
+  orig: 173, 130
+  offset: 0, 0
+  index: -1
+feiji
+  rotate: false
+  xy: 270, 399
+  size: 456, 278
+  orig: 510, 425
+  offset: 33, 64
+  index: -1
+wew
+  rotate: true
+  xy: 2, 724
+  size: 110, 190
+  orig: 121, 218
+  offset: 3, 20
+  index: -1
+机身
+  rotate: false
+  xy: 783, 658
+  size: 232, 176
+  orig: 232, 176
+  offset: 0, 0
+  index: -1
+
+101000022.png
+size: 1021,796
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AA/AAj_00005
+  rotate: false
+  xy: 2, 399
+  size: 502, 395
+  orig: 546, 395
+  offset: 0, 0
+  index: -1
+AA/AAj_00007
+  rotate: false
+  xy: 506, 399
+  size: 505, 395
+  orig: 546, 395
+  offset: 0, 0
+  index: -1
+AA/AAj_00009
+  rotate: false
+  xy: 2, 2
+  size: 524, 395
+  orig: 546, 395
+  offset: 0, 0
+  index: -1
+AA/AAj_00023
+  rotate: false
+  xy: 528, 2
+  size: 491, 395
+  orig: 546, 395
+  offset: 0, 0
+  index: -1
+
+101000023.png
+size: 942,916
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AA/AAj_00011
+  rotate: false
+  xy: 2, 519
+  size: 541, 395
+  orig: 546, 395
+  offset: 0, 0
+  index: -1
+AA/AAj_00013
+  rotate: false
+  xy: 399, 2
+  size: 507, 395
+  orig: 546, 395
+  offset: 0, 0
+  index: -1
+AA/AAj_00015
+  rotate: true
+  xy: 2, 9
+  size: 508, 395
+  orig: 546, 395
+  offset: 0, 0
+  index: -1
+AA/AAj_00021
+  rotate: true
+  xy: 545, 399
+  size: 515, 395
+  orig: 546, 395
+  offset: 0, 0
+  index: -1
+
+101000024.png
+size: 1000,796
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AA/AAj_00017
+  rotate: false
+  xy: 2, 2
+  size: 504, 395
+  orig: 546, 395
+  offset: 0, 0
+  index: -1
+AA/AAj_00019
+  rotate: false
+  xy: 2, 399
+  size: 506, 395
+  orig: 546, 395
+  offset: 0, 0
+  index: -1
+AA/AAj_00027
+  rotate: false
+  xy: 508, 2
+  size: 484, 395
+  orig: 546, 395
+  offset: 0, 0
+  index: -1
+AA/AAj_00029
+  rotate: false
+  xy: 510, 399
+  size: 488, 395
+  orig: 546, 395
+  offset: 0, 0
+  index: -1
+
+101000025.png
+size: 485,399
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AA/AAj_00025
+  rotate: false
+  xy: 2, 2
+  size: 481, 395
+  orig: 546, 395
+  offset: 0, 0
+  index: -1

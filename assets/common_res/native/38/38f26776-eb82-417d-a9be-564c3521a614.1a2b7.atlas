@@ -1,0 +1,250 @@
+
+LotteryBoxOpenEffect.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_00000
+  rotate: false
+  xy: 453, 7
+  size: 126, 122
+  orig: 216, 315
+  offset: 35, 12
+  index: -1
+0_00001
+  rotate: true
+  xy: 238, 18
+  size: 144, 220
+  orig: 216, 315
+  offset: 31, 12
+  index: -1
+0_00002
+  rotate: false
+  xy: 795, 164
+  size: 152, 302
+  orig: 216, 315
+  offset: 24, 13
+  index: -1
+0_00003
+  rotate: false
+  xy: 641, 215
+  size: 153, 300
+  orig: 216, 315
+  offset: 24, 15
+  index: -1
+0_00056
+  rotate: false
+  xy: 2, 647
+  size: 101, 70
+  orig: 248, 261
+  offset: 72, 42
+  index: -1
+0_00058
+  rotate: true
+  xy: 870, 12
+  size: 151, 137
+  orig: 248, 261
+  offset: 45, 25
+  index: -1
+0_00060
+  rotate: 270
+  xy: 491, 120
+  size: 212, 201
+  orig: 248, 261
+  offset: 16, 11
+  index: -1
+0_00062
+  rotate: false
+  xy: 659, 16
+  size: 212, 190
+  orig: 248, 261
+  offset: 13, 18
+  index: -1
+0_00064
+  rotate: 270
+  xy: 818, 815
+  size: 208, 187
+  orig: 248, 261
+  offset: 18, 20
+  index: -1
+0_00066
+  rotate: true
+  xy: 618, 513
+  size: 217, 180
+  orig: 248, 261
+  offset: 15, 23
+  index: -1
+1_00059
+  rotate: 270
+  xy: 2, 4
+  size: 144, 220
+  orig: 216, 315
+  offset: 31, 12
+  index: -1
+1_00061
+  rotate: false
+  xy: 809, 468
+  size: 152, 302
+  orig: 216, 315
+  offset: 24, 13
+  index: -1
+1_00063
+  rotate: 180
+  xy: 701, 723
+  size: 153, 300
+  orig: 216, 315
+  offset: 24, 15
+  index: -1
+feiji
+  rotate: false
+  xy: 2, 962
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+gai
+  rotate: 270
+  xy: 351, 161
+  size: 367, 169
+  orig: 367, 169
+  offset: 0, 0
+  index: -1
+gai_1
+  rotate: 270
+  xy: 471, 693
+  size: 329, 180
+  orig: 329, 180
+  offset: 0, 0
+  index: -1
+gai_2
+  rotate: 270
+  xy: 481, 332
+  size: 329, 166
+  orig: 329, 166
+  offset: 0, 0
+  index: -1
+gai_h
+  rotate: true
+  xy: 372, 530
+  size: 367, 169
+  orig: 367, 169
+  offset: 0, 0
+  index: -1
+he
+  rotate: false
+  xy: 2, 680
+  size: 369, 342
+  orig: 369, 342
+  offset: 0, 0
+  index: -1
+he_h
+  rotate: 180
+  xy: 2, 338
+  size: 369, 342
+  orig: 369, 342
+  offset: 0, 0
+  index: -1
+xiangzi
+  rotate: false
+  xy: 39, 136
+  size: 329, 201
+  orig: 329, 201
+  offset: 0, 0
+  index: -1
+zhang
+  rotate: false
+  xy: 368, 918
+  size: 86, 104
+  orig: 86, 104
+  offset: 0, 0
+  index: -1
+
+LotteryBoxOpenEffect2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_00004
+  rotate: 270
+  xy: 308, 137
+  size: 163, 181
+  orig: 216, 315
+  offset: 20, 9
+  index: -1
+0_00005
+  rotate: true
+  xy: 124, 133
+  size: 157, 183
+  orig: 216, 315
+  offset: 17, 7
+  index: -1
+0_00006
+  rotate: 180
+  xy: 608, 276
+  size: 184, 189
+  orig: 216, 315
+  offset: 0, 11
+  index: -1
+0_00068
+  rotate: false
+  xy: 210, 286
+  size: 208, 178
+  orig: 248, 261
+  offset: 17, 23
+  index: -1
+0_00070
+  rotate: false
+  xy: 2, 280
+  size: 208, 184
+  orig: 248, 261
+  offset: 15, 21
+  index: -1
+0_00072
+  rotate: 270
+  xy: 418, 276
+  size: 189, 196
+  orig: 248, 261
+  offset: 24, 20
+  index: -1
+0_00074
+  rotate: false
+  xy: 835, 41
+  size: 187, 186
+  orig: 248, 261
+  offset: 14, 24
+  index: -1
+0_00075
+  rotate: false
+  xy: 196, 3
+  size: 179, 156
+  orig: 248, 261
+  offset: 12, 39
+  index: -1
+1_00057
+  rotate: false
+  xy: 2, 102
+  size: 126, 122
+  orig: 216, 315
+  offset: 35, 12
+  index: -1
+1_00065
+  rotate: true
+  xy: 701, 127
+  size: 163, 181
+  orig: 216, 315
+  offset: 20, 9
+  index: -1
+1_00067
+  rotate: 270
+  xy: 498, 123
+  size: 157, 183
+  orig: 216, 315
+  offset: 17, 7
+  index: -1
+1_00069
+  rotate: false
+  xy: 770, 276
+  size: 184, 189
+  orig: 216, 315
+  offset: 0, 11
+  index: -1

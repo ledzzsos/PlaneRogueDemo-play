@@ -1,0 +1,13 @@
+
+sc_hailang09.png
+size: 77,365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hl_00001
+  rotate: false
+  xy: 2, 2
+  size: 73, 361
+  orig: 128, 425
+  offset: 31, 34
+  index: -1

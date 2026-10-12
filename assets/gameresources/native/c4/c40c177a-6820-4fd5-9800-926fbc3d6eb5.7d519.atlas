@@ -1,0 +1,125 @@
+
+heti_04.png
+size: 393,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/cj2
+  rotate: false
+  xy: 2, 176
+  size: 114, 132
+  orig: 116, 132
+  offset: 2, 0
+  index: -1
+tx/cj3
+  rotate: false
+  xy: 2, 310
+  size: 193, 81
+  orig: 201, 91
+  offset: 7, 5
+  index: -1
+tx/cj_26
+  rotate: true
+  xy: 118, 2
+  size: 79, 97
+  orig: 83, 101
+  offset: 3, 2
+  index: -1
+tx/cj_27
+  rotate: false
+  xy: 118, 83
+  size: 76, 107
+  orig: 80, 111
+  offset: 3, 2
+  index: -1
+tx/cj_28
+  rotate: true
+  xy: 196, 94
+  size: 75, 112
+  orig: 79, 115
+  offset: 3, 2
+  index: -1
+tx/cj_30
+  rotate: false
+  xy: 2, 58
+  size: 77, 116
+  orig: 81, 120
+  offset: 3, 2
+  index: -1
+tx/cj_31
+  rotate: false
+  xy: 118, 192
+  size: 76, 116
+  orig: 81, 120
+  offset: 3, 2
+  index: -1
+tx/line_00001
+  rotate: false
+  xy: 81, 32
+  size: 35, 142
+  orig: 109, 218
+  offset: 35, 46
+  index: -1
+tx/line_00003
+  rotate: true
+  xy: 196, 206
+  size: 36, 152
+  orig: 109, 218
+  offset: 35, 32
+  index: -1
+tx/line_00005
+  rotate: true
+  xy: 197, 314
+  size: 36, 155
+  orig: 109, 218
+  offset: 35, 36
+  index: -1
+tx/line_00007
+  rotate: true
+  xy: 197, 352
+  size: 39, 157
+  orig: 109, 218
+  offset: 32, 31
+  index: -1
+tx/line_00009
+  rotate: true
+  xy: 217, 52
+  size: 40, 143
+  orig: 109, 218
+  offset: 31, 47
+  index: -1
+tx/line_00011
+  rotate: true
+  xy: 217, 12
+  size: 38, 143
+  orig: 109, 218
+  offset: 31, 45
+  index: -1
+tx/line_00013
+  rotate: true
+  xy: 196, 244
+  size: 33, 159
+  orig: 109, 218
+  offset: 36, 33
+  index: -1
+tx/line_00015
+  rotate: false
+  xy: 357, 247
+  size: 33, 144
+  orig: 109, 218
+  offset: 36, 42
+  index: -1
+tx/line_00017
+  rotate: true
+  xy: 196, 171
+  size: 33, 149
+  orig: 109, 218
+  offset: 36, 37
+  index: -1
+tx/line_00019
+  rotate: true
+  xy: 197, 279
+  size: 33, 157
+  orig: 109, 218
+  offset: 36, 32
+  index: -1

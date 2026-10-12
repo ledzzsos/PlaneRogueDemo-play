@@ -1,0 +1,55 @@
+
+wsparticle_planefire_10100006.png
+size: 480,163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+06fire_00000
+  rotate: true
+  xy: 2, 2
+  size: 159, 162
+  orig: 218, 218
+  offset: 27, 34
+  index: -1
+06fire_00001
+  rotate: true
+  xy: 166, 2
+  size: 159, 162
+  orig: 218, 218
+  offset: 27, 34
+  index: -1
+06fire_00002
+  rotate: false
+  xy: 330, 9
+  size: 97, 72
+  orig: 218, 218
+  offset: 59, 127
+  index: -1
+06fire_00003
+  rotate: false
+  xy: 330, 9
+  size: 97, 72
+  orig: 218, 218
+  offset: 59, 127
+  index: -1
+06fire_00004
+  rotate: false
+  xy: 406, 89
+  size: 72, 72
+  orig: 218, 218
+  offset: 72, 129
+  index: -1
+06fire_00005
+  rotate: true
+  xy: 330, 83
+  size: 78, 74
+  orig: 218, 218
+  offset: 69, 132
+  index: -1
+06fire_00006
+  rotate: true
+  xy: 330, 83
+  size: 78, 74
+  orig: 218, 218
+  offset: 69, 132
+  index: -1

@@ -1,0 +1,118 @@
+
+A_huodehudun.png
+size: 890,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj/bj0001
+  rotate: true
+  xy: 869, 2
+  size: 265, 19
+  orig: 318, 22
+  offset: 19, 3
+  index: -1
+guang
+  rotate: false
+  xy: 621, 14
+  size: 116, 117
+  orig: 128, 128
+  offset: 5, 6
+  index: -1
+gyang
+  rotate: true
+  xy: 2, 12
+  size: 255, 107
+  orig: 258, 116
+  offset: 1, 7
+  index: -1
+sp1
+  rotate: false
+  xy: 841, 129
+  size: 25, 23
+  orig: 34, 34
+  offset: 5, 5
+  index: -1
+sp2
+  rotate: false
+  xy: 841, 105
+  size: 25, 22
+  orig: 34, 34
+  offset: 5, 6
+  index: -1
+xs0001
+  rotate: false
+  xy: 241, 2
+  size: 117, 123
+  orig: 173, 162
+  offset: 26, 18
+  index: -1
+xs0002
+  rotate: false
+  xy: 495, 2
+  size: 124, 129
+  orig: 173, 162
+  offset: 25, 16
+  index: -1
+xs0003
+  rotate: true
+  xy: 360, 3
+  size: 126, 133
+  orig: 173, 162
+  offset: 23, 12
+  index: -1
+xs0004
+  rotate: true
+  xy: 538, 133
+  size: 134, 139
+  orig: 173, 162
+  offset: 17, 12
+  index: -1
+xs0005
+  rotate: true
+  xy: 396, 133
+  size: 134, 140
+  orig: 173, 162
+  offset: 15, 13
+  index: -1
+xs0006
+  rotate: true
+  xy: 253, 131
+  size: 136, 141
+  orig: 173, 162
+  offset: 14, 12
+  index: -1
+xs0007
+  rotate: false
+  xy: 111, 127
+  size: 140, 140
+  orig: 173, 162
+  offset: 10, 12
+  index: -1
+xs0008
+  rotate: false
+  xy: 679, 136
+  size: 140, 131
+  orig: 173, 162
+  offset: 9, 14
+  index: -1
+xs0009
+  rotate: false
+  xy: 111, 2
+  size: 128, 123
+  orig: 173, 162
+  offset: 11, 22
+  index: -1
+xs0010
+  rotate: true
+  xy: 739, 16
+  size: 118, 100
+  orig: 173, 162
+  offset: 15, 45
+  index: -1
+xs0011
+  rotate: true
+  xy: 821, 154
+  size: 113, 46
+  orig: 173, 162
+  offset: 20, 51
+  index: -1

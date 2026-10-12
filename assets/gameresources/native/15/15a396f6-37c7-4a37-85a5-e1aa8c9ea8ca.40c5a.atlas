@@ -1,0 +1,48 @@
+
+10011065.png
+size: 379,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 36
+  rotate: false
+  xy: 208, 136
+  size: 118, 84
+  orig: 118, 84
+  offset: 0, 0
+  index: -1
+图层 37
+  rotate: true
+  xy: 208, 18
+  size: 116, 99
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+图层 40 拷贝 2
+  rotate: false
+  xy: 2, 2
+  size: 204, 218
+  orig: 204, 218
+  offset: 0, 0
+  index: -1
+图层62
+  rotate: true
+  xy: 309, 73
+  size: 61, 68
+  orig: 66, 71
+  offset: 5, 0
+  index: -1
+图层73
+  rotate: false
+  xy: 328, 149
+  size: 44, 71
+  orig: 44, 71
+  offset: 0, 0
+  index: -1
+图层i4
+  rotate: true
+  xy: 309, 7
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1

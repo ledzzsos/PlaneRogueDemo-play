@@ -1,0 +1,20 @@
+
+wingPlane_20060001.png
+size: 217,351
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mndkc
+  rotate: true
+  xy: 2, 3
+  size: 81, 213
+  orig: 218, 218
+  offset: 70, 0
+  index: -1
+弹铳
+  rotate: false
+  xy: 2, 86
+  size: 204, 264
+  orig: 204, 264
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+10014111.png
+size: 419,419
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_par_point_green
+  rotate: false
+  xy: 149, 120
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+fx_par_point_zi 1
+  rotate: false
+  xy: 149, 91
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+主体
+  rotate: false
+  xy: 2, 149
+  size: 412, 268
+  orig: 414, 269
+  offset: 1, 1
+  index: -1
+发光图案
+  rotate: false
+  xy: 2, 2
+  size: 145, 145
+  orig: 148, 149
+  offset: 1, 2
+  index: -1

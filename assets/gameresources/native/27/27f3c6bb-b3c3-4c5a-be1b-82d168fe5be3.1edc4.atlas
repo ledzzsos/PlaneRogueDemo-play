@@ -1,0 +1,27 @@
+
+10011069.png
+size: 485,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 32
+  rotate: false
+  xy: 2, 2
+  size: 240, 250
+  orig: 240, 250
+  offset: 0, 0
+  index: -1
+图层 33
+  rotate: false
+  xy: 244, 2
+  size: 239, 250
+  orig: 239, 250
+  offset: 0, 0
+  index: -1
+图层 34
+  rotate: true
+  xy: 2, 254
+  size: 172, 364
+  orig: 173, 364
+  offset: 1, 0
+  index: -1

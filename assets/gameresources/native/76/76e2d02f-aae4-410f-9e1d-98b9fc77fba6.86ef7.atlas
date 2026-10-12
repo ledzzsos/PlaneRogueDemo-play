@@ -1,0 +1,76 @@
+
+wsparticle_eac_10011019_Fire_loop.png
+size: 163,163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/a_gy1
+  rotate: true
+  xy: 85, 23
+  size: 38, 39
+  orig: 39, 39
+  offset: 1, 0
+  index: -1
+tx/dian2_007
+  rotate: false
+  xy: 2, 27
+  size: 40, 46
+  orig: 42, 48
+  offset: 1, 1
+  index: -1
+tx/dian2_010
+  rotate: true
+  xy: 99, 121
+  size: 40, 44
+  orig: 43, 46
+  offset: 1, 1
+  index: -1
+tx/dian2_012
+  rotate: true
+  xy: 56, 110
+  size: 51, 41
+  orig: 53, 43
+  offset: 1, 1
+  index: -1
+tx/dian2_015
+  rotate: false
+  xy: 2, 122
+  size: 52, 39
+  orig: 54, 41
+  offset: 1, 1
+  index: -1
+tx/dian2_017
+  rotate: true
+  xy: 126, 12
+  size: 49, 35
+  orig: 51, 37
+  offset: 1, 1
+  index: -1
+tx/dian2_020
+  rotate: true
+  xy: 44, 16
+  size: 50, 39
+  orig: 52, 41
+  offset: 1, 1
+  index: -1
+tx/dian2_024
+  rotate: false
+  xy: 45, 68
+  size: 50, 40
+  orig: 52, 43
+  offset: 1, 2
+  index: -1
+tx/dian2_026
+  rotate: true
+  xy: 2, 75
+  size: 45, 41
+  orig: 47, 43
+  offset: 1, 1
+  index: -1
+tx/dian2_029
+  rotate: false
+  xy: 97, 63
+  size: 40, 45
+  orig: 43, 46
+  offset: 1, 0
+  index: -1

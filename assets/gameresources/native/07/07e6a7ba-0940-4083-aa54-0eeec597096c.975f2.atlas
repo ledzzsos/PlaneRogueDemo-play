@@ -1,0 +1,138 @@
+
+fx_Weapon_21060201_01.png
+size: 491,491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BB/导弹冲击波_00007
+  rotate: true
+  xy: 2, 63
+  size: 108, 172
+  orig: 213, 213
+  offset: 61, 24
+  index: -1
+BB/导弹冲击波_00019
+  rotate: true
+  xy: 138, 388
+  size: 101, 175
+  orig: 213, 213
+  offset: 69, 19
+  index: -1
+BB/导弹冲击波_00025
+  rotate: true
+  xy: 2, 282
+  size: 104, 172
+  orig: 213, 213
+  offset: 65, 21
+  index: -1
+BB/导弹冲击波_00031
+  rotate: true
+  xy: 2, 173
+  size: 107, 172
+  orig: 213, 213
+  offset: 63, 21
+  index: -1
+BB/导弹冲击波_00043
+  rotate: false
+  xy: 351, 41
+  size: 110, 172
+  orig: 213, 213
+  offset: 60, 20
+  index: -1
+BB/导弹冲击波_00049
+  rotate: true
+  xy: 315, 388
+  size: 101, 174
+  orig: 213, 213
+  offset: 69, 19
+  index: -1
+BB/导弹冲击波_00055
+  rotate: false
+  xy: 350, 215
+  size: 114, 171
+  orig: 213, 213
+  offset: 56, 23
+  index: -1
+BB/导弹冲击波_00061
+  rotate: true
+  xy: 176, 61
+  size: 108, 173
+  orig: 213, 213
+  offset: 62, 25
+  index: -1
+BB/导弹冲击波_00073
+  rotate: true
+  xy: 176, 280
+  size: 106, 172
+  orig: 213, 213
+  offset: 64, 21
+  index: -1
+BB/导弹冲击波_00079
+  rotate: true
+  xy: 176, 171
+  size: 107, 172
+  orig: 213, 213
+  offset: 63, 21
+  index: -1
+冲击波头部_out_00000
+  rotate: false
+  xy: 2, 400
+  size: 134, 89
+  orig: 213, 151
+  offset: 40, 38
+  index: -1
+
+fx_Weapon_21060201_012.png
+size: 405,405
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BB/导弹冲击波_00013
+  rotate: false
+  xy: 170, 2
+  size: 111, 173
+  orig: 213, 213
+  offset: 58, 23
+  index: -1
+BB/导弹冲击波_00037
+  rotate: true
+  xy: 223, 177
+  size: 110, 174
+  orig: 213, 213
+  offset: 60, 20
+  index: -1
+BB/导弹冲击波_00067
+  rotate: true
+  xy: 223, 289
+  size: 114, 174
+  orig: 213, 213
+  offset: 56, 24
+  index: -1
+BB/导弹冲击波_00085
+  rotate: false
+  xy: 283, 3
+  size: 108, 172
+  orig: 213, 213
+  offset: 62, 20
+  index: -1
+BB/导弹冲击波_00091
+  rotate: false
+  xy: 112, 228
+  size: 109, 175
+  orig: 213, 213
+  offset: 60, 20
+  index: -1
+BB/导弹冲击波_00097
+  rotate: false
+  xy: 2, 226
+  size: 108, 177
+  orig: 213, 213
+  offset: 61, 21
+  index: -1
+esry_00000
+  rotate: true
+  xy: 2, 49
+  size: 175, 166
+  orig: 218, 218
+  offset: 21, 26
+  index: -1

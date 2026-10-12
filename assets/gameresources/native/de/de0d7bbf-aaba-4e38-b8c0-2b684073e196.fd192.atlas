@@ -1,0 +1,69 @@
+
+10014001.png
+size: 889,542
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp_00000
+  rotate: true
+  xy: 842, 483
+  size: 57, 45
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+Comp_00001
+  rotate: true
+  xy: 842, 72
+  size: 57, 40
+  orig: 65, 48
+  offset: 0, 5
+  index: -1
+Comp_00002
+  rotate: true
+  xy: 842, 308
+  size: 55, 45
+  orig: 65, 48
+  offset: 2, 0
+  index: -1
+Comp_00003
+  rotate: true
+  xy: 842, 249
+  size: 57, 44
+  orig: 65, 48
+  offset: 0, 1
+  index: -1
+Comp_00004
+  rotate: true
+  xy: 842, 424
+  size: 57, 45
+  orig: 65, 48
+  offset: 0, 2
+  index: -1
+Comp_00005
+  rotate: true
+  xy: 842, 190
+  size: 57, 43
+  orig: 65, 48
+  offset: 0, 3
+  index: -1
+Comp_00006
+  rotate: true
+  xy: 842, 365
+  size: 57, 45
+  orig: 65, 48
+  offset: 0, 1
+  index: -1
+Comp_00007
+  rotate: true
+  xy: 842, 131
+  size: 57, 43
+  orig: 65, 48
+  offset: 0, 2
+  index: -1
+战机Boss
+  rotate: false
+  xy: 2, 2
+  size: 838, 538
+  orig: 850, 558
+  offset: 6, 11
+  index: -1

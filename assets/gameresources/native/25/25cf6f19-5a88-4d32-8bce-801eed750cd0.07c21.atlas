@@ -1,0 +1,27 @@
+
+10011027.png
+size: 484,357
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Comp_00000
+  rotate: false
+  xy: 359, 130
+  size: 98, 98
+  orig: 123, 125
+  offset: 14, 12
+  index: -1
+十字激光炮-银色版
+  rotate: true
+  xy: 2, 2
+  size: 353, 355
+  orig: 353, 355
+  offset: 0, 0
+  index: -1
+发光警告标-银色版
+  rotate: false
+  xy: 359, 230
+  size: 123, 125
+  orig: 123, 125
+  offset: 0, 0
+  index: -1

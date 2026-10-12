@@ -1,0 +1,199 @@
+
+Bullet_Weapon_210604001.png
+size: 1023,789
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+回旋镖/0_00006
+  rotate: true
+  xy: 628, 2
+  size: 420, 393
+  orig: 435, 435
+  offset: 7, 22
+  index: -1
+回旋镖2N
+  rotate: true
+  xy: 376, 175
+  size: 248, 250
+  orig: 268, 268
+  offset: 8, 6
+  index: -1
+火花/hh_00036
+  rotate: true
+  xy: 186, 611
+  size: 176, 185
+  orig: 218, 218
+  offset: 25, 17
+  index: -1
+火花/hh_00037
+  rotate: true
+  xy: 742, 609
+  size: 178, 185
+  orig: 218, 218
+  offset: 22, 17
+  index: -1
+火花/hh_00038
+  rotate: false
+  xy: 2, 242
+  size: 186, 184
+  orig: 218, 218
+  offset: 15, 17
+  index: -1
+火花/hh_00039
+  rotate: true
+  xy: 373, 611
+  size: 176, 181
+  orig: 218, 218
+  offset: 21, 19
+  index: -1
+火花/hh_00040
+  rotate: false
+  xy: 190, 241
+  size: 184, 184
+  orig: 218, 218
+  offset: 17, 18
+  index: -1
+火花/hh_00041
+  rotate: false
+  xy: 745, 424
+  size: 186, 183
+  orig: 218, 218
+  offset: 15, 17
+  index: -1
+火花/hh_00042
+  rotate: false
+  xy: 373, 427
+  size: 183, 182
+  orig: 218, 218
+  offset: 17, 20
+  index: -1
+火花/hh_00043
+  rotate: false
+  xy: 2, 430
+  size: 182, 181
+  orig: 218, 218
+  offset: 15, 17
+  index: -1
+火花/hh_00044
+  rotate: false
+  xy: 558, 425
+  size: 185, 182
+  orig: 218, 218
+  offset: 15, 17
+  index: -1
+火花/hh_00045
+  rotate: true
+  xy: 186, 428
+  size: 181, 185
+  orig: 218, 218
+  offset: 18, 17
+  index: -1
+火花/hh_00046
+  rotate: false
+  xy: 2, 613
+  size: 182, 174
+  orig: 218, 218
+  offset: 19, 28
+  index: -1
+火花/hh_00047
+  rotate: false
+  xy: 556, 611
+  size: 184, 176
+  orig: 218, 218
+  offset: 16, 23
+  index: -1
+
+Bullet_Weapon_2106040012.png
+size: 860,835
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+回旋镖/0_00000
+  rotate: false
+  xy: 428, 2
+  size: 426, 416
+  orig: 435, 435
+  offset: 5, 11
+  index: -1
+回旋镖/0_00004
+  rotate: false
+  xy: 428, 420
+  size: 430, 413
+  orig: 435, 435
+  offset: 2, 14
+  index: -1
+回旋镖/0_00007
+  rotate: false
+  xy: 2, 422
+  size: 424, 411
+  orig: 435, 435
+  offset: 5, 11
+  index: -1
+回旋镖/0_00008
+  rotate: false
+  xy: 2, 5
+  size: 424, 415
+  orig: 435, 435
+  offset: 6, 11
+  index: -1
+
+Bullet_Weapon_2106040013.png
+size: 864,840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+回旋镖/0_00001
+  rotate: false
+  xy: 2, 3
+  size: 429, 417
+  orig: 435, 435
+  offset: 3, 9
+  index: -1
+回旋镖/0_00002
+  rotate: false
+  xy: 433, 2
+  size: 429, 418
+  orig: 435, 435
+  offset: 3, 9
+  index: -1
+回旋镖/0_00005
+  rotate: false
+  xy: 2, 422
+  size: 426, 416
+  orig: 435, 435
+  offset: 5, 12
+  index: -1
+回旋镖/0_00011
+  rotate: false
+  xy: 430, 422
+  size: 429, 416
+  orig: 435, 435
+  offset: 3, 12
+  index: -1
+
+Bullet_Weapon_2106040014.png
+size: 857,843
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+回旋镖/0_00003
+  rotate: true
+  xy: 2, 412
+  size: 429, 422
+  orig: 435, 435
+  offset: 3, 8
+  index: -1
+回旋镖/0_00009
+  rotate: false
+  xy: 426, 2
+  size: 429, 418
+  orig: 435, 435
+  offset: 3, 8
+  index: -1
+回旋镖/0_00010
+  rotate: false
+  xy: 426, 422
+  size: 428, 419
+  orig: 435, 435
+  offset: 4, 8
+  index: -1

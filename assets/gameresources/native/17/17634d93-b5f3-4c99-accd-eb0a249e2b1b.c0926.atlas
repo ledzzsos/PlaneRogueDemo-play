@@ -1,0 +1,34 @@
+
+wsparticle_eac_10011021_warning.png
+size: 269,490
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gth_00001
+  rotate: false
+  xy: 2, 107
+  size: 157, 136
+  orig: 243, 243
+  offset: 45, 68
+  index: -1
+gtwh_00001
+  rotate: false
+  xy: 2, 245
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+line)glow_00001
+  rotate: false
+  xy: 247, 2
+  size: 13, 486
+  orig: 15, 486
+  offset: 1, 0
+  index: -1
+line_00001
+  rotate: false
+  xy: 262, 2
+  size: 5, 486
+  orig: 15, 486
+  offset: 5, 0
+  index: -1

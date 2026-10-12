@@ -1,0 +1,62 @@
+
+fx_Weapon_20200001_hit01.png
+size: 379,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/sk4_01
+  rotate: false
+  xy: 2, 24
+  size: 182, 23
+  orig: 435, 54
+  offset: 2, 29
+  index: -1
+images/sk4_02
+  rotate: false
+  xy: 2, 89
+  size: 296, 31
+  orig: 435, 54
+  offset: 29, 21
+  index: -1
+images/sk4_03
+  rotate: false
+  xy: 2, 155
+  size: 328, 39
+  orig: 435, 54
+  offset: 31, 13
+  index: -1
+images/sk4_04
+  rotate: false
+  xy: 2, 122
+  size: 353, 31
+  orig: 435, 54
+  offset: 35, 21
+  index: -1
+images/sk4_05
+  rotate: false
+  xy: 2, 64
+  size: 375, 23
+  orig: 435, 54
+  offset: 44, 29
+  index: -1
+images/sk4_06
+  rotate: false
+  xy: 2, 49
+  size: 356, 13
+  orig: 435, 54
+  offset: 62, 38
+  index: -1
+images/sk4_07
+  rotate: false
+  xy: 2, 11
+  size: 346, 11
+  orig: 435, 54
+  offset: 71, 40
+  index: -1
+images/sk4_08
+  rotate: false
+  xy: 2, 2
+  size: 334, 7
+  orig: 435, 54
+  offset: 81, 43
+  index: -1

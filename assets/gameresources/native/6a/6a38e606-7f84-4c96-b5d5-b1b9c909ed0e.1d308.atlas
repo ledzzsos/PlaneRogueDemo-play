@@ -1,0 +1,48 @@
+
+10014104.png
+size: 406,406
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glowB_00000
+  rotate: true
+  xy: 309, 87
+  size: 36, 32
+  orig: 54, 54
+  offset: 9, 12
+  index: -1
+glowC_00000
+  rotate: false
+  xy: 359, 125
+  size: 45, 48
+  orig: 54, 54
+  offset: 5, 3
+  index: -1
+色阶 561
+  rotate: false
+  xy: 187, 97
+  size: 120, 26
+  orig: 120, 26
+  offset: 0, 0
+  index: -1
+色阶 561 拷贝
+  rotate: false
+  xy: 187, 143
+  size: 170, 30
+  orig: 170, 30
+  offset: 0, 0
+  index: -1
+色阶 561 拷贝 2
+  rotate: false
+  xy: 2, 106
+  size: 183, 298
+  orig: 183, 316
+  offset: 0, 18
+  index: -1
+色阶 561 拷贝 4
+  rotate: true
+  xy: 187, 175
+  size: 229, 206
+  orig: 230, 208
+  offset: 1, 1
+  index: -1

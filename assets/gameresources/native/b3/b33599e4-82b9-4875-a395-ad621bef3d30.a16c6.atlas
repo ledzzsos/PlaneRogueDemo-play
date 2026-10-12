@@ -1,0 +1,27 @@
+
+10014109.png
+size: 450,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图案分层
+  rotate: false
+  xy: 365, 271
+  size: 83, 91
+  orig: 170, 170
+  offset: 42, 40
+  index: -1
+炮台形态
+  rotate: false
+  xy: 365, 187
+  size: 82, 82
+  orig: 90, 104
+  offset: 5, 15
+  index: -1
+飞碟敌机-02形态640P
+  rotate: false
+  xy: 2, 2
+  size: 361, 360
+  orig: 544, 544
+  offset: 95, 91
+  index: -1

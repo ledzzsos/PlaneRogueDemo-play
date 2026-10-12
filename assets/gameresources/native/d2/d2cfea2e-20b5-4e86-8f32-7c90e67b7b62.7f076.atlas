@@ -1,0 +1,62 @@
+
+wsparticle_planehit_10100007.png
+size: 630,439
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/010600vkp7rqoqpk7ac6kp_01
+  rotate: false
+  xy: 561, 4
+  size: 67, 258
+  orig: 109, 435
+  offset: 23, 4
+  index: -1
+images/010600vkp7rqoqpk7ac6kp_02
+  rotate: true
+  xy: 191, 353
+  size: 84, 431
+  orig: 109, 435
+  offset: 11, 4
+  index: -1
+images/010600vkp7rqoqpk7ac6kp_03
+  rotate: false
+  xy: 2, 24
+  size: 96, 413
+  orig: 109, 435
+  offset: 3, 13
+  index: -1
+images/010600vkp7rqoqpk7ac6kp_04
+  rotate: false
+  xy: 100, 29
+  size: 89, 408
+  orig: 109, 435
+  offset: 10, 16
+  index: -1
+images/010600vkp7rqoqpk7ac6kp_05
+  rotate: true
+  xy: 191, 264
+  size: 87, 390
+  orig: 109, 435
+  offset: 10, 39
+  index: -1
+images/010600vkp7rqoqpk7ac6kp_06
+  rotate: true
+  xy: 191, 177
+  size: 85, 368
+  orig: 109, 435
+  offset: 11, 56
+  index: -1
+images/010600vkp7rqoqpk7ac6kp_07
+  rotate: true
+  xy: 191, 90
+  size: 85, 351
+  orig: 109, 435
+  offset: 11, 62
+  index: -1
+images/010600vkp7rqoqpk7ac6kp_08
+  rotate: true
+  xy: 191, 2
+  size: 86, 338
+  orig: 109, 435
+  offset: 9, 78
+  index: -1

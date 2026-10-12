@@ -1,0 +1,802 @@
+
+10100011.png
+size: 1024,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+14
+  rotate: false
+  xy: 980, 897
+  size: 42, 124
+  orig: 42, 124
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 587, 227
+  size: 38, 64
+  orig: 38, 64
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 980, 836
+  size: 39, 65
+  orig: 39, 65
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 392, 354
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 392, 311
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+AA_dazhao/longfire_13
+  rotate: true
+  xy: 587, 2
+  size: 166, 200
+  orig: 330, 330
+  offset: 78, 31
+  index: -1
+AA_dazhao/longfire_15
+  rotate: true
+  xy: 423, 292
+  size: 175, 203
+  orig: 330, 330
+  offset: 75, 27
+  index: -1
+AA_dazhao/longfire_17
+  rotate: true
+  xy: 209, 397
+  size: 186, 212
+  orig: 330, 330
+  offset: 71, 33
+  index: -1
+AA_dazhao/longfire_19
+  rotate: true
+  xy: 447, 632
+  size: 201, 244
+  orig: 330, 330
+  offset: 64, 21
+  index: -1
+AA_dazhao/longfire_21
+  rotate: true
+  xy: 447, 835
+  size: 186, 265
+  orig: 330, 330
+  offset: 76, 22
+  index: -1
+AA_dazhao/longfire_23
+  rotate: true
+  xy: 719, 485
+  size: 144, 287
+  orig: 330, 330
+  offset: 95, 17
+  index: -1
+AA_dazhao/longfire_25
+  rotate: true
+  xy: 719, 349
+  size: 134, 290
+  orig: 330, 330
+  offset: 96, 20
+  index: -1
+AA_dazhao/longfire_27
+  rotate: true
+  xy: 439, 469
+  size: 160, 278
+  orig: 330, 330
+  offset: 84, 24
+  index: -1
+AA_dazhao/longfire_29
+  rotate: true
+  xy: 714, 835
+  size: 186, 264
+  orig: 330, 330
+  offset: 72, 26
+  index: -1
+AA_dazhao/longfire_31
+  rotate: true
+  xy: 693, 631
+  size: 202, 238
+  orig: 330, 330
+  offset: 66, 31
+  index: -1
+AA_dazhao/longfire_33
+  rotate: true
+  xy: 236, 585
+  size: 222, 201
+  orig: 330, 330
+  offset: 54, 37
+  index: -1
+AA_dazhao/longfire_35
+  rotate: false
+  xy: 2, 604
+  size: 232, 203
+  orig: 330, 330
+  offset: 48, 38
+  index: -1
+AA_dazhao/longfire_37
+  rotate: false
+  xy: 2, 401
+  size: 205, 201
+  orig: 330, 330
+  offset: 55, 36
+  index: -1
+AA_dazhao/longfire_39
+  rotate: true
+  xy: 789, 4
+  size: 148, 211
+  orig: 330, 330
+  offset: 96, 26
+  index: -1
+CC/尾焰_00010
+  rotate: false
+  xy: 933, 664
+  size: 86, 169
+  orig: 165, 256
+  offset: 40, 58
+  index: -1
+long/左翼1
+  rotate: false
+  xy: 390, 9
+  size: 178, 103
+  orig: 178, 103
+  offset: 0, 0
+  index: -1
+long/左翼2
+  rotate: false
+  xy: 628, 371
+  size: 67, 96
+  orig: 67, 97
+  offset: 0, 1
+  index: -1
+long/龙_火力全开
+  rotate: false
+  xy: 2, 809
+  size: 443, 212
+  orig: 443, 212
+  offset: 0, 0
+  index: -1
+long_C/Cb_00011
+  rotate: false
+  xy: 2, 42
+  size: 192, 174
+  orig: 193, 193
+  offset: 1, 0
+  index: -1
+long_C/Cb_00013
+  rotate: false
+  xy: 196, 40
+  size: 192, 174
+  orig: 193, 193
+  offset: 1, 0
+  index: -1
+long_C/Cb_00021
+  rotate: false
+  xy: 392, 114
+  size: 193, 176
+  orig: 193, 193
+  offset: 0, 7
+  index: -1
+long_C/Cb_00023
+  rotate: false
+  xy: 2, 218
+  size: 193, 181
+  orig: 193, 193
+  offset: 0, 4
+  index: -1
+long_C/Cb_00025
+  rotate: false
+  xy: 197, 216
+  size: 193, 179
+  orig: 193, 193
+  offset: 0, 6
+  index: -1
+long_C/Cb_00027
+  rotate: false
+  xy: 628, 170
+  size: 193, 177
+  orig: 193, 193
+  offset: 0, 7
+  index: -1
+long_C/Cb_00029
+  rotate: true
+  xy: 823, 154
+  size: 193, 173
+  orig: 193, 193
+  offset: 0, 10
+  index: -1
+
+101000112.png
+size: 1015,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+15
+  rotate: true
+  xy: 779, 19
+  size: 42, 119
+  orig: 42, 119
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 900, 3
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 963, 516
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 962, 867
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+AA/周围火焰_00001
+  rotate: true
+  xy: 669, 515
+  size: 190, 145
+  orig: 220, 193
+  offset: 16, 20
+  index: -1
+AA/周围火焰_00004
+  rotate: true
+  xy: 669, 707
+  size: 190, 145
+  orig: 220, 193
+  offset: 16, 20
+  index: -1
+AA/周围火焰_00007
+  rotate: true
+  xy: 701, 323
+  size: 190, 145
+  orig: 220, 193
+  offset: 16, 20
+  index: -1
+AA/周围火焰_00010
+  rotate: true
+  xy: 701, 131
+  size: 190, 145
+  orig: 220, 193
+  offset: 16, 20
+  index: -1
+AA/周围火焰_00013
+  rotate: true
+  xy: 352, 515
+  size: 190, 146
+  orig: 220, 193
+  offset: 16, 19
+  index: -1
+AA/周围火焰_00016
+  rotate: true
+  xy: 816, 515
+  size: 190, 145
+  orig: 220, 193
+  offset: 16, 20
+  index: -1
+AA/周围火焰_00019
+  rotate: true
+  xy: 816, 707
+  size: 190, 145
+  orig: 220, 193
+  offset: 16, 20
+  index: -1
+AA/周围火焰_00022
+  rotate: true
+  xy: 373, 707
+  size: 190, 146
+  orig: 220, 193
+  offset: 16, 19
+  index: -1
+AA/周围火焰_00025
+  rotate: true
+  xy: 848, 323
+  size: 190, 145
+  orig: 220, 193
+  offset: 16, 20
+  index: -1
+AA/周围火焰_00028
+  rotate: true
+  xy: 374, 323
+  size: 190, 146
+  orig: 220, 193
+  offset: 16, 19
+  index: -1
+AA/周围火焰_00031
+  rotate: true
+  xy: 848, 131
+  size: 190, 145
+  orig: 220, 193
+  offset: 16, 20
+  index: -1
+AA/周围火焰_00037
+  rotate: true
+  xy: 405, 131
+  size: 190, 146
+  orig: 220, 193
+  offset: 16, 19
+  index: -1
+AA/周围火焰_00040
+  rotate: true
+  xy: 521, 515
+  size: 190, 146
+  orig: 220, 193
+  offset: 16, 19
+  index: -1
+AA/周围火焰_00043
+  rotate: true
+  xy: 521, 707
+  size: 190, 146
+  orig: 220, 193
+  offset: 16, 19
+  index: -1
+AA/周围火焰_00046
+  rotate: true
+  xy: 553, 323
+  size: 190, 146
+  orig: 220, 193
+  offset: 16, 19
+  index: -1
+AA/周围火焰_00049
+  rotate: true
+  xy: 553, 131
+  size: 190, 146
+  orig: 220, 193
+  offset: 16, 20
+  index: -1
+AA/周围火焰_00055
+  rotate: false
+  xy: 213, 14
+  size: 190, 147
+  orig: 220, 193
+  offset: 16, 19
+  index: -1
+AA_dazhao/longfire_01
+  rotate: true
+  xy: 804, 916
+  size: 106, 197
+  orig: 330, 330
+  offset: 113, 34
+  index: -1
+AA_dazhao/longfire_03
+  rotate: true
+  xy: 405, 33
+  size: 96, 203
+  orig: 330, 330
+  offset: 116, 31
+  index: -1
+AA_dazhao/longfire_05
+  rotate: true
+  xy: 588, 922
+  size: 100, 214
+  orig: 330, 330
+  offset: 116, 22
+  index: -1
+AA_dazhao/longfire_07
+  rotate: true
+  xy: 373, 904
+  size: 118, 213
+  orig: 330, 330
+  offset: 108, 26
+  index: -1
+AA_dazhao/longfire_09
+  rotate: true
+  xy: 2, 25
+  size: 136, 209
+  orig: 330, 330
+  offset: 97, 28
+  index: -1
+AA_dazhao/longfire_11
+  rotate: false
+  xy: 197, 637
+  size: 153, 203
+  orig: 330, 330
+  offset: 85, 33
+  index: -1
+CC/尾焰_00016
+  rotate: true
+  xy: 197, 541
+  size: 94, 150
+  orig: 165, 256
+  offset: 34, 77
+  index: -1
+CC/尾焰_00022
+  rotate: true
+  xy: 610, 37
+  size: 92, 167
+  orig: 165, 256
+  offset: 34, 60
+  index: -1
+long/翼架
+  rotate: false
+  xy: 779, 62
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+long_C/Cb_00001
+  rotate: true
+  xy: 196, 333
+  size: 180, 174
+  orig: 193, 193
+  offset: 13, 11
+  index: -1
+long_C/Cb_00003
+  rotate: true
+  xy: 197, 163
+  size: 168, 175
+  orig: 193, 193
+  offset: 25, 10
+  index: -1
+long_C/Cb_00005
+  rotate: true
+  xy: 196, 842
+  size: 180, 175
+  orig: 193, 193
+  offset: 13, 7
+  index: -1
+long_C/Cb_00007
+  rotate: false
+  xy: 2, 333
+  size: 191, 170
+  orig: 193, 193
+  offset: 2, 9
+  index: -1
+long_C/Cb_00009
+  rotate: false
+  xy: 2, 850
+  size: 192, 172
+  orig: 193, 193
+  offset: 1, 4
+  index: -1
+long_C/Cb_00015
+  rotate: false
+  xy: 2, 676
+  size: 192, 172
+  orig: 193, 193
+  offset: 1, 1
+  index: -1
+long_C/Cb_00017
+  rotate: false
+  xy: 2, 505
+  size: 193, 169
+  orig: 193, 193
+  offset: 0, 4
+  index: -1
+long_C/Cb_00019
+  rotate: false
+  xy: 2, 167
+  size: 193, 164
+  orig: 193, 193
+  offset: 0, 8
+  index: -1
+
+101000113.png
+size: 653,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 562, 485
+  size: 74, 126
+  orig: 74, 126
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 555, 3
+  size: 96, 93
+  orig: 96, 93
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 497, 809
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 564, 611
+  size: 69, 97
+  orig: 69, 97
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 281, 724
+  size: 76, 92
+  orig: 76, 92
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 2, 444
+  size: 138, 216
+  orig: 138, 216
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 582, 206
+  size: 67, 92
+  orig: 67, 92
+  offset: 0, 0
+  index: -1
+7
+  rotate: 180
+  xy: 477, 272
+  size: 169, 188
+  orig: 169, 188
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 449, 318
+  size: 195, 134
+  orig: 195, 134
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 492, 832
+  size: 191, 134
+  orig: 191, 134
+  offset: 0, 0
+  index: -1
+AA/周围火焰_00034
+  rotate: false
+  xy: 2, 877
+  size: 190, 145
+  orig: 220, 193
+  offset: 16, 20
+  index: -1
+AA/周围火焰_00052
+  rotate: false
+  xy: 2, 730
+  size: 190, 145
+  orig: 220, 193
+  offset: 16, 21
+  index: -1
+AA/周围火焰_00058
+  rotate: false
+  xy: 2, 584
+  size: 190, 144
+  orig: 220, 193
+  offset: 16, 21
+  index: -1
+BB/核心_00000
+  rotate: true
+  xy: 368, 161
+  size: 108, 106
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+BB/核心_00057
+  rotate: true
+  xy: 368, 161
+  size: 108, 106
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+BB/核心_00003
+  rotate: true
+  xy: 276, 913
+  size: 109, 106
+  orig: 110, 110
+  offset: 0, 1
+  index: -1
+BB/核心_00006
+  rotate: true
+  xy: 277, 602
+  size: 109, 106
+  orig: 110, 110
+  offset: 0, 1
+  index: -1
+BB/核心_00009
+  rotate: true
+  xy: 277, 491
+  size: 109, 106
+  orig: 110, 110
+  offset: 0, 1
+  index: -1
+BB/核心_00012
+  rotate: false
+  xy: 368, 271
+  size: 107, 107
+  orig: 110, 110
+  offset: 1, 0
+  index: -1
+BB/核心_00015
+  rotate: true
+  xy: 170, 363
+  size: 110, 107
+  orig: 110, 110
+  offset: 0, 1
+  index: -1
+BB/核心_00018
+  rotate: true
+  xy: 259, 142
+  size: 108, 107
+  orig: 110, 110
+  offset: 1, 0
+  index: -1
+BB/核心_00021
+  rotate: true
+  xy: 368, 51
+  size: 108, 106
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+BB/核心_00024
+  rotate: true
+  xy: 279, 380
+  size: 109, 106
+  orig: 110, 110
+  offset: 0, 1
+  index: -1
+BB/核心_00027
+  rotate: true
+  xy: 387, 473
+  size: 107, 106
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+BB/核心_00030
+  rotate: true
+  xy: 281, 802
+  size: 109, 106
+  orig: 110, 110
+  offset: 0, 1
+  index: -1
+BB/核心_00033
+  rotate: true
+  xy: 389, 805
+  size: 107, 106
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+BB/核心_00036
+  rotate: true
+  xy: 259, 252
+  size: 109, 107
+  orig: 110, 110
+  offset: 1, 0
+  index: -1
+BB/核心_00039
+  rotate: true
+  xy: 384, 914
+  size: 108, 106
+  orig: 110, 110
+  offset: 0, 1
+  index: -1
+BB/核心_00042
+  rotate: true
+  xy: 259, 32
+  size: 108, 107
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+BB/核心_00045
+  rotate: true
+  xy: 476, 162
+  size: 107, 106
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+BB/核心_00048
+  rotate: true
+  xy: 385, 692
+  size: 108, 106
+  orig: 110, 110
+  offset: 0, 1
+  index: -1
+BB/核心_00051
+  rotate: true
+  xy: 385, 582
+  size: 108, 106
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+BB/核心_00054
+  rotate: true
+  xy: 476, 53
+  size: 107, 106
+  orig: 110, 110
+  offset: 1, 1
+  index: -1
+CC/尾焰_00000
+  rotate: false
+  xy: 165, 202
+  size: 92, 148
+  orig: 165, 256
+  offset: 39, 80
+  index: -1
+CC/尾焰_00002
+  rotate: false
+  xy: 194, 713
+  size: 85, 148
+  orig: 165, 256
+  offset: 44, 79
+  index: -1
+CC/尾焰_00004
+  rotate: true
+  xy: 2, 171
+  size: 90, 154
+  orig: 165, 256
+  offset: 38, 73
+  index: -1
+CC/尾焰_00006
+  rotate: false
+  xy: 194, 863
+  size: 80, 159
+  orig: 165, 256
+  offset: 43, 69
+  index: -1
+CC/尾焰_00008
+  rotate: true
+  xy: 2, 86
+  size: 83, 166
+  orig: 165, 256
+  offset: 41, 61
+  index: -1
+CC/尾焰_00012
+  rotate: false
+  xy: 194, 559
+  size: 81, 152
+  orig: 165, 256
+  offset: 49, 75
+  index: -1
+CC/尾焰_00014
+  rotate: false
+  xy: 170, 46
+  size: 87, 154
+  orig: 165, 256
+  offset: 41, 73
+  index: -1
+CC/尾焰_00018
+  rotate: true
+  xy: 2, 263
+  size: 87, 161
+  orig: 165, 256
+  offset: 41, 66
+  index: -1
+CC/尾焰_00020
+  rotate: true
+  xy: 2, 352
+  size: 90, 166
+  orig: 165, 256
+  offset: 39, 61
+  index: -1
+long/中间头
+  rotate: false
+  xy: 493, 702
+  size: 99, 101
+  orig: 99, 101
+  offset: 0, 0
+  index: -1
+long/肚子
+  rotate: false
+  xy: 495, 559
+  size: 66, 141
+  orig: 66, 141
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+fx_Weapon_210690011_hit.png
+size: 789,177
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/aa_030
+  rotate: true
+  xy: 2, 35
+  size: 140, 125
+  orig: 141, 125
+  offset: 1, 0
+  index: -1
+tx/aa_031
+  rotate: false
+  xy: 129, 65
+  size: 106, 110
+  orig: 107, 110
+  offset: 1, 0
+  index: -1
+tx/aa_032
+  rotate: true
+  xy: 237, 73
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+tx/aa_033
+  rotate: false
+  xy: 335, 85
+  size: 103, 90
+  orig: 104, 90
+  offset: 0, 0
+  index: -1
+tx/aa_034
+  rotate: false
+  xy: 282, 2
+  size: 96, 69
+  orig: 97, 69
+  offset: 0, 0
+  index: -1
+tx/aa_035
+  rotate: true
+  xy: 650, 12
+  size: 81, 69
+  orig: 82, 70
+  offset: 0, 1
+  index: -1
+tx/aa_036
+  rotate: true
+  xy: 129, 8
+  size: 55, 79
+  orig: 57, 79
+  offset: 1, 0
+  index: -1
+tx/aa_037
+  rotate: false
+  xy: 2, 11
+  size: 55, 22
+  orig: 57, 23
+  offset: 1, 0
+  index: -1
+tx/aa_038
+  rotate: true
+  xy: 210, 9
+  size: 54, 70
+  orig: 54, 71
+  offset: 0, 1
+  index: -1
+tx/b
+  rotate: false
+  xy: 713, 100
+  size: 74, 75
+  orig: 75, 76
+  offset: 1, 1
+  index: -1
+tx/b1_32
+  rotate: true
+  xy: 470, 4
+  size: 87, 98
+  orig: 89, 100
+  offset: 1, 1
+  index: -1
+tx/b1_33
+  rotate: true
+  xy: 546, 93
+  size: 82, 89
+  orig: 84, 90
+  offset: 1, 0
+  index: -1
+tx/b1_34
+  rotate: true
+  xy: 380, 2
+  size: 81, 88
+  orig: 81, 89
+  offset: 0, 1
+  index: -1
+tx/b1_35
+  rotate: false
+  xy: 570, 6
+  size: 78, 85
+  orig: 79, 85
+  offset: 1, 0
+  index: -1
+tx/b1_36
+  rotate: false
+  xy: 637, 95
+  size: 74, 80
+  orig: 76, 82
+  offset: 1, 1
+  index: -1
+tx/b3
+  rotate: false
+  xy: 440, 93
+  size: 104, 82
+  orig: 107, 84
+  offset: 2, 1
+  index: -1
+tx/s4_gy2
+  rotate: false
+  xy: 59, 5
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1

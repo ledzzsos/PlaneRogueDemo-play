@@ -1,0 +1,174 @@
+
+10014103.png
+size: 961,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_3s_00000
+  rotate: true
+  xy: 489, 57
+  size: 43, 48
+  orig: 54, 54
+  offset: 3, 3
+  index: -1
+glow_line_00000
+  rotate: false
+  xy: 385, 62
+  size: 38, 18
+  orig: 54, 54
+  offset: 9, 20
+  index: -1
+glow_shang_00000
+  rotate: true
+  xy: 845, 85
+  size: 50, 46
+  orig: 54, 54
+  offset: 2, 8
+  index: -1
+weiyan_00015
+  rotate: false
+  xy: 697, 120
+  size: 51, 250
+  orig: 85, 425
+  offset: 17, 171
+  index: -1
+weiyan_00016
+  rotate: false
+  xy: 803, 137
+  size: 51, 233
+  orig: 85, 425
+  offset: 16, 188
+  index: -1
+weiyan_00017
+  rotate: true
+  xy: 697, 372
+  size: 50, 261
+  orig: 85, 425
+  offset: 17, 160
+  index: -1
+weiyan_00018
+  rotate: false
+  xy: 909, 90
+  size: 50, 280
+  orig: 85, 425
+  offset: 17, 142
+  index: -1
+weiyan_00019
+  rotate: false
+  xy: 645, 138
+  size: 50, 284
+  orig: 85, 425
+  offset: 17, 140
+  index: -1
+weiyan_00020
+  rotate: false
+  xy: 437, 91
+  size: 50, 331
+  orig: 85, 425
+  offset: 17, 94
+  index: -1
+weiyan_00021
+  rotate: false
+  xy: 489, 102
+  size: 50, 320
+  orig: 85, 425
+  offset: 17, 105
+  index: -1
+weiyan_00022
+  rotate: false
+  xy: 333, 72
+  size: 50, 350
+  orig: 85, 425
+  offset: 17, 75
+  index: -1
+weiyan_00023
+  rotate: false
+  xy: 281, 57
+  size: 50, 365
+  orig: 85, 425
+  offset: 17, 60
+  index: -1
+weiyan_00024
+  rotate: false
+  xy: 385, 82
+  size: 50, 340
+  orig: 85, 425
+  offset: 17, 85
+  index: -1
+weiyan_00025
+  rotate: false
+  xy: 541, 111
+  size: 50, 311
+  orig: 85, 425
+  offset: 17, 114
+  index: -1
+weiyan_00026
+  rotate: false
+  xy: 593, 130
+  size: 50, 292
+  orig: 85, 425
+  offset: 16, 132
+  index: -1
+weiyan_00027
+  rotate: true
+  xy: 586, 57
+  size: 52, 257
+  orig: 85, 425
+  offset: 16, 166
+  index: -1
+weiyan_00028
+  rotate: true
+  xy: 594, 3
+  size: 52, 256
+  orig: 85, 425
+  offset: 16, 165
+  index: -1
+weiyan_00029
+  rotate: true
+  xy: 281, 2
+  size: 53, 256
+  orig: 85, 425
+  offset: 16, 165
+  index: -1
+weiyan_00030
+  rotate: false
+  xy: 750, 120
+  size: 51, 250
+  orig: 85, 425
+  offset: 17, 171
+  index: -1
+weiyan_00031
+  rotate: false
+  xy: 856, 147
+  size: 51, 223
+  orig: 85, 425
+  offset: 16, 197
+  index: -1
+主体机身
+  rotate: true
+  xy: 2, 11
+  size: 411, 277
+  orig: 411, 277
+  offset: 0, 0
+  index: -1
+圆炮口
+  rotate: false
+  xy: 893, 51
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+大炮筒
+  rotate: false
+  xy: 539, 41
+  size: 45, 59
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+小炮筒
+  rotate: true
+  xy: 539, 2
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1

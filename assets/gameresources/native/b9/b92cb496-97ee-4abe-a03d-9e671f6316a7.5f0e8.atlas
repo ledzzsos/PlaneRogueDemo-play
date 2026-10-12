@@ -1,0 +1,118 @@
+
+fx_shieldCore.png
+size: 686,690
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AA/AA_00000
+  rotate: false
+  xy: 2, 518
+  size: 169, 170
+  orig: 170, 170
+  offset: 1, 0
+  index: -1
+AA/AA_00001
+  rotate: false
+  xy: 2, 346
+  size: 169, 170
+  orig: 170, 170
+  offset: 1, 0
+  index: -1
+AA/AA_00002
+  rotate: false
+  xy: 173, 518
+  size: 169, 170
+  orig: 170, 170
+  offset: 1, 0
+  index: -1
+AA/AA_00003
+  rotate: false
+  xy: 2, 174
+  size: 169, 170
+  orig: 170, 170
+  offset: 1, 0
+  index: -1
+AA/AA_00004
+  rotate: false
+  xy: 2, 2
+  size: 169, 170
+  orig: 170, 170
+  offset: 1, 0
+  index: -1
+AA/AA_00005
+  rotate: false
+  xy: 173, 346
+  size: 169, 170
+  orig: 170, 170
+  offset: 1, 0
+  index: -1
+AA/AA_00006
+  rotate: false
+  xy: 344, 518
+  size: 169, 170
+  orig: 170, 170
+  offset: 1, 0
+  index: -1
+AA/AA_00007
+  rotate: false
+  xy: 173, 174
+  size: 169, 170
+  orig: 170, 170
+  offset: 1, 0
+  index: -1
+AA/AA_00008
+  rotate: false
+  xy: 173, 2
+  size: 169, 170
+  orig: 170, 170
+  offset: 1, 0
+  index: -1
+AA/AA_00009
+  rotate: false
+  xy: 344, 346
+  size: 169, 170
+  orig: 170, 170
+  offset: 1, 0
+  index: -1
+AA/AA_00010
+  rotate: false
+  xy: 515, 518
+  size: 169, 170
+  orig: 170, 170
+  offset: 1, 0
+  index: -1
+AA/AA_00011
+  rotate: false
+  xy: 344, 174
+  size: 169, 170
+  orig: 170, 170
+  offset: 1, 0
+  index: -1
+AA/AA_00012
+  rotate: false
+  xy: 344, 2
+  size: 169, 170
+  orig: 170, 170
+  offset: 1, 0
+  index: -1
+AA/AA_00013
+  rotate: false
+  xy: 515, 346
+  size: 169, 170
+  orig: 170, 170
+  offset: 1, 0
+  index: -1
+AA/AA_00014
+  rotate: false
+  xy: 515, 174
+  size: 169, 170
+  orig: 170, 170
+  offset: 1, 0
+  index: -1
+AA/AA_00015
+  rotate: false
+  xy: 515, 2
+  size: 169, 170
+  orig: 170, 170
+  offset: 1, 0
+  index: -1

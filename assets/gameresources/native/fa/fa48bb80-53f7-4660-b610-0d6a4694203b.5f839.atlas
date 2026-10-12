@@ -1,0 +1,55 @@
+
+boss3_fx_210290320_shot01.png
+size: 291,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ptsj01
+  rotate: false
+  xy: 2, 159
+  size: 73, 130
+  orig: 145, 145
+  offset: 36, 7
+  index: -1
+ptsj02
+  rotate: false
+  xy: 82, 3
+  size: 59, 45
+  orig: 145, 145
+  offset: 36, 50
+  index: -1
+ptsj03
+  rotate: true
+  xy: 78, 111
+  size: 88, 75
+  orig: 145, 145
+  offset: 19, 42
+  index: -1
+ptsj04
+  rotate: true
+  xy: 77, 201
+  size: 88, 84
+  orig: 145, 145
+  offset: 28, 31
+  index: -1
+ptsj05
+  rotate: true
+  xy: 2, 68
+  size: 89, 74
+  orig: 145, 145
+  offset: 20, 34
+  index: -1
+ptsj06
+  rotate: false
+  xy: 2, 2
+  size: 78, 64
+  orig: 145, 145
+  offset: 26, 42
+  index: -1
+ptsj07
+  rotate: true
+  xy: 82, 50
+  size: 59, 55
+  orig: 145, 145
+  offset: 60, 44
+  index: -1

@@ -1,0 +1,27 @@
+
+10011030.png
+size: 408,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右螺旋桨
+  rotate: true
+  xy: 387, 268
+  size: 114, 19
+  orig: 114, 19
+  offset: 0, 0
+  index: -1
+左螺旋桨
+  rotate: true
+  xy: 387, 149
+  size: 117, 18
+  orig: 117, 18
+  offset: 0, 0
+  index: -1
+机身
+  rotate: true
+  xy: 2, 2
+  size: 380, 383
+  orig: 425, 425
+  offset: 24, 22
+  index: -1

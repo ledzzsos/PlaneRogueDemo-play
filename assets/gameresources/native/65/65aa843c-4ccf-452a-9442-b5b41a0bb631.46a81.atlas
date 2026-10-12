@@ -1,0 +1,48 @@
+
+boss3_fx_210290320_die01.png
+size: 278,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baodian01
+  rotate: false
+  xy: 206, 222
+  size: 54, 54
+  orig: 122, 112
+  offset: 33, 34
+  index: -1
+effect/baodian02
+  rotate: false
+  xy: 194, 92
+  size: 82, 86
+  orig: 122, 112
+  offset: 23, 13
+  index: -1
+effect/baodian03
+  rotate: false
+  xy: 94, 93
+  size: 98, 85
+  orig: 122, 112
+  offset: 15, 11
+  index: -1
+effect/baodian04
+  rotate: false
+  xy: 2, 182
+  size: 107, 94
+  orig: 122, 112
+  offset: 8, 7
+  index: -1
+effect/baodian05
+  rotate: true
+  xy: 2, 84
+  size: 96, 90
+  orig: 122, 112
+  offset: 5, 12
+  index: -1
+effect/baodian06
+  rotate: true
+  xy: 111, 180
+  size: 96, 93
+  orig: 122, 112
+  offset: 4, 12
+  index: -1

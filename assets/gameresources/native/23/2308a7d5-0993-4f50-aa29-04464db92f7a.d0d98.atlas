@@ -1,0 +1,55 @@
+
+fx_Weapon_20210001_die01.png
+size: 568,539
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloud01
+  rotate: false
+  xy: 2, 108
+  size: 143, 135
+  orig: 143, 136
+  offset: 0, 1
+  index: -1
+cloud02
+  rotate: true
+  xy: 147, 115
+  size: 128, 121
+  orig: 128, 122
+  offset: 0, 1
+  index: -1
+light
+  rotate: false
+  xy: 297, 259
+  size: 269, 278
+  orig: 302, 326
+  offset: 19, 15
+  index: -1
+particle
+  rotate: true
+  xy: 297, 12
+  size: 245, 260
+  orig: 247, 262
+  offset: 1, 1
+  index: -1
+shock
+  rotate: true
+  xy: 2, 2
+  size: 104, 154
+  orig: 115, 162
+  offset: 6, 6
+  index: -1
+starlight
+  rotate: false
+  xy: 2, 245
+  size: 293, 292
+  orig: 301, 302
+  offset: 4, 5
+  index: -1
+twistglow
+  rotate: false
+  xy: 158, 31
+  size: 94, 82
+  orig: 94, 82
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+tongguanzhangjie.png
+size: 645,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+point_00000
+  rotate: true
+  xy: 504, 77
+  size: 38, 65
+  orig: 65, 65
+  offset: 11, 0
+  index: -1
+标题-恭喜升级2
+  rotate: false
+  xy: 2, 62
+  size: 500, 120
+  orig: 500, 120
+  offset: 0, 0
+  index: -1
+标题-暗底
+  rotate: false
+  xy: 2, 2
+  size: 577, 58
+  orig: 577, 58
+  offset: 0, 0
+  index: -1
+箭头动效
+  rotate: false
+  xy: 504, 117
+  size: 139, 65
+  orig: 139, 65
+  offset: 0, 0
+  index: -1

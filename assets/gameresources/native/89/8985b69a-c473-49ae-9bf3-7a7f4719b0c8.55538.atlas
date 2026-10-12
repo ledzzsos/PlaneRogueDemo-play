@@ -1,0 +1,104 @@
+
+wsparticle_UI_levelend.png
+size: 803,803
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line01
+  rotate: false
+  xy: 2, 769
+  size: 723, 32
+  orig: 723, 255
+  offset: 0, 111
+  index: -1
+xs_00004
+  rotate: true
+  xy: 728, 440
+  size: 361, 73
+  orig: 361, 128
+  offset: 0, 28
+  index: -1
+xs_00006
+  rotate: false
+  xy: 365, 348
+  size: 361, 75
+  orig: 361, 128
+  offset: 0, 27
+  index: -1
+xs_00008
+  rotate: false
+  xy: 2, 426
+  size: 361, 71
+  orig: 361, 128
+  offset: 0, 29
+  index: -1
+xs_00010
+  rotate: false
+  xy: 2, 499
+  size: 361, 70
+  orig: 361, 128
+  offset: 0, 29
+  index: -1
+xs_00012
+  rotate: false
+  xy: 2, 707
+  size: 361, 60
+  orig: 361, 128
+  offset: 0, 34
+  index: -1
+xs_00014
+  rotate: false
+  xy: 365, 707
+  size: 361, 60
+  orig: 361, 128
+  offset: 0, 34
+  index: -1
+xs_00016
+  rotate: false
+  xy: 365, 498
+  size: 361, 70
+  orig: 361, 128
+  offset: 0, 29
+  index: -1
+xs_00018
+  rotate: false
+  xy: 2, 571
+  size: 361, 69
+  orig: 361, 128
+  offset: 0, 30
+  index: -1
+xs_00020
+  rotate: false
+  xy: 365, 570
+  size: 361, 69
+  orig: 361, 128
+  offset: 0, 30
+  index: -1
+xs_00022
+  rotate: false
+  xy: 365, 425
+  size: 361, 71
+  orig: 361, 128
+  offset: 0, 29
+  index: -1
+xs_00024
+  rotate: false
+  xy: 2, 352
+  size: 361, 72
+  orig: 361, 128
+  offset: 0, 28
+  index: -1
+xs_00026
+  rotate: false
+  xy: 2, 642
+  size: 361, 63
+  orig: 361, 128
+  offset: 0, 32
+  index: -1
+xs_00028
+  rotate: false
+  xy: 365, 641
+  size: 361, 64
+  orig: 361, 128
+  offset: 0, 32
+  index: -1
