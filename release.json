@@ -1,8 +1,8 @@
 {
-  "version": "20261013.05",
-  "builtAt": "2026-10-13T06:38:09.018Z",
-  "main": "assets/main/index.f1e03.js",
-  "sha256": "3813001da252fa3bedef065bdd1708f36458252cb9b54d47806ee59119efc578",
+  "version": "20261013.06",
+  "builtAt": "2026-10-13T06:48:41.634Z",
+  "main": "assets/main/index.c20b5.js",
+  "sha256": "94a83bd445266f59569e6e3923be61e0913d8eb4f9460555e941b1dcf2f16147",
   "core": "assets/core/index.f0ffa.js",
   "coreSha256": "07f902c74d019e37f76e0a976a0c950750e9211900ef50d6a2f11cdf2694593c"
 }
