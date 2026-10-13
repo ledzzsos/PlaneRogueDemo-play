@@ -1,1 +1,0 @@
-[1,0,0,[["cc.JsonAsset",["_name","json"],1]],[[0,0,1,3]],[[0,"ai_Enemy_aim",{"states":[{"name":"Aim","isDefault":false,"root":{"nodeType":"seq","mode":1,"children":[{"nodeType":"action","type":"AxisAim","aimingType":"Rotate","speedMin":360,"speedMax":360,"durationMin":2000,"durationMax":2000}]}}],"transitions":[]}]],0,0,[],[],[]]
